@@ -21,6 +21,8 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
   const [copiedPrompt, setCopiedPrompt] = useState(false);
   const [activeImage, setActiveImage] = useState<string | null>(null);
 
+  const [isFullscreen, setIsFullscreen] = useState(false);
+
   if (!item) return null;
 
   const defaultImage = item.verified_image || item.preview_image;
@@ -36,66 +38,122 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
   };
 
   return (
-    <div
-      onClick={() => {
-        setActiveImage(null);
-        onClose();
-      }}
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-2 sm:p-6 overflow-y-auto"
-    >
-      <div
-        onClick={(e) => e.stopPropagation()}
-        className="relative w-full max-w-4xl rounded-2xl sm:rounded-3xl bg-white shadow-2xl overflow-hidden border border-neutral-200/90 my-auto flex flex-col md:flex-row max-h-[92vh] sm:max-h-[90vh]"
-      >
-        {/* Close Button */}
-        <button
-          onClick={() => {
-            setActiveImage(null);
-            onClose();
-          }}
-          className="absolute right-3 top-3 sm:right-4 sm:top-4 z-20 rounded-full bg-white/90 backdrop-blur-md p-1.5 sm:p-2 text-neutral-600 hover:bg-neutral-100 hover:text-neutral-900 transition shadow-sm"
+    <>
+      {/* Fullscreen Image Lightbox Preview (Tap to see 100% full-screen detail) */}
+      {isFullscreen && (
+        <div
+          onClick={() => setIsFullscreen(false)}
+          className="fixed inset-0 z-[70] bg-black/95 backdrop-blur-md flex flex-col items-center justify-center p-2 cursor-zoom-out"
         >
-          <X className="h-4 w-4 sm:h-5 sm:w-5" />
-        </button>
-
-        {/* Left Side: Large Image Preview */}
-        <div className="md:w-1/2 bg-[#fcfbfa] border-b md:border-b-0 md:border-r border-neutral-200/80 flex flex-col items-center justify-center p-3.5 sm:p-8 min-h-[200px] sm:min-h-[460px] shrink-0">
-          {/* Centered Image Showcase Card */}
-          <div className="flex flex-col items-center justify-center w-full my-auto">
-            {/* Main Image */}
-            <div className="flex items-center justify-center w-full">
-              <img
-                src={displayImage}
-                alt={item.title}
-                referrerPolicy="no-referrer"
-                className="max-h-[240px] sm:max-h-[380px] w-auto max-w-full object-contain rounded-xl sm:rounded-2xl shadow-md border border-neutral-200/80 transition-all duration-200"
-              />
-            </div>
-
-            {/* Multi-image Thumbnail Strip (If multiple verified images exist) */}
-            {item.gallery_images && item.gallery_images.length > 1 && (
-              <div className="flex items-center justify-center gap-1.5 sm:gap-2 mt-3 sm:mt-4 z-10 no-scrollbar">
-                {item.gallery_images.map((img, i) => (
-                  <button
-                    key={i}
-                    onClick={() => setActiveImage(img)}
-                    className={`w-9 h-13 sm:w-11 sm:h-16 rounded-lg sm:rounded-xl overflow-hidden border-2 transition shrink-0 ${
-                      displayImage === img
-                        ? "border-orange-500 scale-105 shadow-md ring-2 ring-orange-200"
-                        : "border-neutral-200/90 opacity-70 hover:opacity-100 hover:border-neutral-400 bg-white"
-                    }`}
-                  >
-                    <img
-                      src={img}
-                      alt={`Variant ${i + 1}`}
-                      className="w-full h-full object-cover"
-                    />
-                  </button>
-                ))}
-              </div>
-            )}
+          <button
+            onClick={() => setIsFullscreen(false)}
+            className="absolute top-4 right-4 z-10 rounded-full bg-white/20 hover:bg-white/30 p-2 text-white transition backdrop-blur-md"
+            title="退出全屏"
+          >
+            <X className="h-6 w-6" />
+          </button>
+          <div className="relative w-full h-full flex items-center justify-center">
+            <img
+              src={displayImage}
+              alt={item.title}
+              referrerPolicy="no-referrer"
+              className="max-h-[95vh] max-w-[95vw] object-contain select-none"
+            />
           </div>
+          {item.gallery_images && item.gallery_images.length > 1 && (
+            <div
+              onClick={(e) => e.stopPropagation()}
+              className="absolute bottom-6 flex items-center gap-2 px-3 py-1.5 rounded-full bg-black/60 backdrop-blur-md border border-white/20"
+            >
+              {item.gallery_images.map((img, i) => (
+                <button
+                  key={i}
+                  onClick={() => setActiveImage(img)}
+                  className={`w-9 h-12 rounded-md overflow-hidden border-2 transition ${
+                    displayImage === img
+                      ? "border-orange-500 scale-105"
+                      : "border-white/30 opacity-60 hover:opacity-100"
+                  }`}
+                >
+                  <img src={img} alt="" className="w-full h-full object-cover" />
+                </button>
+              ))}
+            </div>
+          )}
         </div>
+      )}
+
+      {/* Main Detail Modal */}
+      <div
+        onClick={() => {
+          setActiveImage(null);
+          onClose();
+        }}
+        className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/70 backdrop-blur-sm p-0 sm:p-6 overflow-y-auto"
+      >
+        <div
+          onClick={(e) => e.stopPropagation()}
+          className="relative w-full max-w-4xl rounded-t-3xl sm:rounded-3xl bg-white shadow-2xl overflow-y-auto md:overflow-hidden border border-neutral-200/90 flex flex-col md:flex-row max-h-[94vh] sm:max-h-[90vh]"
+        >
+          {/* Close Button */}
+          <button
+            onClick={() => {
+              setActiveImage(null);
+              onClose();
+            }}
+            className="absolute right-3 top-3 sm:right-4 sm:top-4 z-30 rounded-full bg-black/50 sm:bg-white/90 text-white sm:text-neutral-600 backdrop-blur-md p-1.5 sm:p-2 hover:bg-black/70 sm:hover:bg-neutral-100 hover:text-white sm:hover:text-neutral-900 transition shadow-md"
+            title="关闭"
+          >
+            <X className="h-4 w-4 sm:h-5 sm:w-5" />
+          </button>
+
+          {/* Left Side: Large Image Preview Showcase */}
+          <div className="md:w-1/2 bg-neutral-950 sm:bg-[#fcfbfa] border-b md:border-b-0 md:border-r border-neutral-200/80 flex flex-col items-center justify-center p-2 sm:p-8 shrink-0 relative overflow-hidden">
+            {/* Click to expand hint for mobile */}
+            <div
+              onClick={() => setIsFullscreen(true)}
+              className="relative flex flex-col items-center justify-center w-full cursor-zoom-in group"
+            >
+              <div className="relative flex items-center justify-center w-full">
+                <img
+                  src={displayImage}
+                  alt={item.title}
+                  referrerPolicy="no-referrer"
+                  className="max-h-[56vh] sm:max-h-[460px] w-auto max-w-full object-contain rounded-xl sm:rounded-2xl shadow-xl border border-white/10 sm:border-neutral-200/80 transition-all duration-200"
+                />
+                {/* Floating Fullscreen Hint Badge */}
+                <span className="absolute bottom-2.5 right-2.5 sm:hidden inline-flex items-center gap-1 rounded-full bg-black/60 backdrop-blur-md px-2 py-0.5 text-[10px] text-white/90 border border-white/20">
+                  点击放大
+                </span>
+              </div>
+
+              {/* Multi-image Thumbnail Strip (If multiple verified images exist) */}
+              {item.gallery_images && item.gallery_images.length > 1 && (
+                <div
+                  onClick={(e) => e.stopPropagation()}
+                  className="flex items-center justify-center gap-1.5 sm:gap-2 mt-2 sm:mt-4 z-10 no-scrollbar overflow-x-auto max-w-full py-1"
+                >
+                  {item.gallery_images.map((img, i) => (
+                    <button
+                      key={i}
+                      onClick={() => setActiveImage(img)}
+                      className={`w-9 h-12 sm:w-11 sm:h-16 rounded-lg sm:rounded-xl overflow-hidden border-2 transition shrink-0 ${
+                        displayImage === img
+                          ? "border-orange-500 scale-105 shadow-md ring-2 ring-orange-400"
+                          : "border-white/30 sm:border-neutral-200/90 opacity-70 hover:opacity-100 hover:border-neutral-400 bg-white"
+                      }`}
+                    >
+                      <img
+                        src={img}
+                        alt={`Variant ${i + 1}`}
+                        className="w-full h-full object-cover"
+                      />
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
 
         {/* Right Side: Details & Actions */}
         <div className="md:w-1/2 p-4 sm:p-6 overflow-y-auto flex flex-col gap-3.5 sm:gap-5 text-neutral-800">
@@ -177,10 +235,10 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
           </div>
 
           {/* Action Copy Button */}
-          <div className="pt-1">
+          <div className="pt-1 sticky bottom-0 bg-white/95 backdrop-blur-sm pb-1 sm:pb-0 z-20">
             <button
               onClick={() => copyToClipboard(item.prompt, setCopiedPrompt)}
-              className="w-full inline-flex items-center justify-center gap-2 rounded-xl bg-neutral-950 px-5 py-3 text-sm font-semibold text-white hover:bg-neutral-800 transition shadow-sm"
+              className="w-full inline-flex items-center justify-center gap-2 rounded-xl bg-neutral-950 px-5 py-3 text-sm font-semibold text-white hover:bg-neutral-800 transition shadow-sm active:scale-[0.99]"
             >
               {copiedPrompt ? (
                 <>
@@ -198,5 +256,6 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
         </div>
       </div>
     </div>
-  );
+  </>
+);
 };
