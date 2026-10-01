@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   X,
   Copy,
@@ -24,6 +24,17 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [modalImageLoaded, setModalImageLoaded] = useState(false);
 
+  useEffect(() => {
+    if (isFullscreen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [isFullscreen]);
+
   if (!item) return null;
 
   const defaultImage = item.verified_image || item.preview_image;
@@ -40,31 +51,35 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
 
   return (
     <>
-      {/* Fullscreen Image Lightbox Preview (Tap to see 100% full-screen detail) */}
+      {/* Fullscreen Image Lightbox Preview (No scrollbar, pure full screen) */}
       {isFullscreen && (
         <div
           onClick={() => setIsFullscreen(false)}
-          className="fixed inset-0 z-[70] bg-black/95 backdrop-blur-md flex flex-col items-center justify-center p-2 cursor-zoom-out"
+          className="fixed inset-0 z-[70] bg-black/98 backdrop-blur-md flex flex-col items-center justify-center p-2 cursor-zoom-out overflow-hidden touch-none select-none overscroll-none"
         >
+          {/* Close Button Only */}
           <button
             onClick={() => setIsFullscreen(false)}
-            className="absolute top-4 right-4 z-10 rounded-full bg-white/20 hover:bg-white/30 p-2 text-white transition backdrop-blur-md"
+            className="absolute top-4 right-4 z-20 rounded-full bg-white/20 hover:bg-white/30 p-2 text-white transition backdrop-blur-md"
             title="退出全屏"
           >
             <X className="h-6 w-6" />
           </button>
-          <div className="relative w-full h-full flex items-center justify-center">
+          <div className="relative w-full h-full flex items-center justify-center overflow-hidden touch-none">
             <img
               src={displayImage}
-              alt={item.title}
+              alt=""
+              aria-label={item.title}
               referrerPolicy="no-referrer"
-              className="max-h-[95vh] max-w-[95vw] object-contain select-none"
+              decoding="async"
+              className="max-h-[90vh] max-w-[95vw] object-contain select-none pointer-events-auto"
             />
           </div>
+          {/* Bottom Thumbnail Switcher Only */}
           {item.gallery_images && item.gallery_images.length > 1 && (
             <div
               onClick={(e) => e.stopPropagation()}
-              className="absolute bottom-6 flex items-center gap-2 px-3 py-1.5 rounded-full bg-black/60 backdrop-blur-md border border-white/20"
+              className="absolute bottom-6 flex items-center gap-2 px-3 py-1.5 rounded-full bg-black/60 backdrop-blur-md border border-white/20 z-10"
             >
               {item.gallery_images.map((img, i) => (
                 <button
@@ -94,7 +109,7 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
       >
         <div
           onClick={(e) => e.stopPropagation()}
-          className="relative w-full max-w-4xl rounded-t-3xl sm:rounded-3xl bg-white shadow-2xl overflow-y-auto md:overflow-hidden border border-neutral-200/90 flex flex-col md:flex-row max-h-[94vh] sm:max-h-[90vh]"
+          className="relative w-full max-w-4xl rounded-t-3xl sm:rounded-3xl bg-white shadow-2xl overflow-y-auto md:overflow-hidden border-0 sm:border border-neutral-200/90 flex flex-col md:flex-row max-h-[94vh] sm:max-h-[90vh]"
         >
           {/* Close Button */}
           <button
@@ -109,7 +124,7 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
           </button>
 
           {/* Left Side: Large Image Preview Showcase */}
-          <div className="md:w-1/2 bg-neutral-950 sm:bg-[#fcfbfa] border-b md:border-b-0 md:border-r border-neutral-200/80 flex flex-col items-center justify-center p-2 sm:p-8 shrink-0 relative overflow-hidden">
+          <div className="md:w-1/2 bg-neutral-950 sm:bg-[#fcfbfa] border-none md:border-r border-neutral-200/80 flex flex-col items-center justify-center p-2 sm:p-8 shrink-0 relative overflow-hidden">
             {/* Click to expand hint for mobile */}
             <div
               onClick={() => setIsFullscreen(true)}
@@ -132,7 +147,7 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
                   decoding="async"
                   referrerPolicy="no-referrer"
                   onLoad={() => setModalImageLoaded(true)}
-                  className={`max-h-[56vh] sm:max-h-[460px] w-auto max-w-full object-contain rounded-xl sm:rounded-2xl shadow-xl border border-white/10 sm:border-neutral-200/80 transition-all duration-300 ${
+                  className={`max-h-[56vh] sm:max-h-[460px] w-auto max-w-full object-contain rounded-xl sm:rounded-2xl shadow-xl border-0 sm:border sm:border-neutral-200/80 transition-all duration-300 ${
                     modalImageLoaded ? "opacity-100 scale-100" : "opacity-0 scale-95"
                   }`}
                 />
@@ -252,7 +267,7 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
           </div>
 
           {/* Action Copy Button */}
-          <div className="pt-1 sticky bottom-0 bg-white/95 backdrop-blur-sm pb-1 sm:pb-0 z-20">
+          <div className="pt-2 pb-2">
             <button
               onClick={() => copyToClipboard(item.prompt, setCopiedPrompt)}
               className="w-full inline-flex items-center justify-center gap-2 rounded-xl bg-neutral-950 px-5 py-3 text-sm font-semibold text-white hover:bg-neutral-800 transition shadow-sm active:scale-[0.99]"
