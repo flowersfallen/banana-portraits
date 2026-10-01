@@ -22,6 +22,7 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
   const [activeImage, setActiveImage] = useState<string | null>(null);
 
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [modalImageLoaded, setModalImageLoaded] = useState(false);
 
   if (!item) return null;
 
@@ -114,17 +115,33 @@ export const PromptDetailModal: React.FC<PromptDetailModalProps> = ({
               onClick={() => setIsFullscreen(true)}
               className="relative flex flex-col items-center justify-center w-full cursor-zoom-in group"
             >
-              <div className="relative flex items-center justify-center w-full">
+              <div className="relative flex items-center justify-center w-full min-h-[260px] sm:min-h-[360px]">
+                {/* Skeleton loader while high-res image is downloading */}
+                {!modalImageLoaded && (
+                  <div className="absolute inset-0 flex flex-col items-center justify-center bg-neutral-900/80 rounded-xl sm:rounded-2xl animate-pulse">
+                    <div className="h-7 w-7 rounded-full border-2 border-orange-500/30 border-t-orange-500 animate-spin mb-2" />
+                    <span className="text-[11px] text-neutral-400 font-medium tracking-wide">高清大图加载中...</span>
+                  </div>
+                )}
                 <img
+                  key={displayImage}
                   src={displayImage}
-                  alt={item.title}
+                  alt=""
+                  aria-label={item.title}
+                  loading="eager"
+                  decoding="async"
                   referrerPolicy="no-referrer"
-                  className="max-h-[56vh] sm:max-h-[460px] w-auto max-w-full object-contain rounded-xl sm:rounded-2xl shadow-xl border border-white/10 sm:border-neutral-200/80 transition-all duration-200"
+                  onLoad={() => setModalImageLoaded(true)}
+                  className={`max-h-[56vh] sm:max-h-[460px] w-auto max-w-full object-contain rounded-xl sm:rounded-2xl shadow-xl border border-white/10 sm:border-neutral-200/80 transition-all duration-300 ${
+                    modalImageLoaded ? "opacity-100 scale-100" : "opacity-0 scale-95"
+                  }`}
                 />
                 {/* Floating Fullscreen Hint Badge */}
-                <span className="absolute bottom-2.5 right-2.5 sm:hidden inline-flex items-center gap-1 rounded-full bg-black/60 backdrop-blur-md px-2 py-0.5 text-[10px] text-white/90 border border-white/20">
-                  点击放大
-                </span>
+                {modalImageLoaded && (
+                  <span className="absolute bottom-2.5 right-2.5 sm:hidden inline-flex items-center gap-1 rounded-full bg-black/60 backdrop-blur-md px-2 py-0.5 text-[10px] text-white/90 border border-white/20">
+                    点击放大
+                  </span>
+                )}
               </div>
 
               {/* Multi-image Thumbnail Strip (If multiple verified images exist) */}

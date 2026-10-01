@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Check, Copy, Sparkles } from "lucide-react";
+import { Check, Copy, Sparkles, Image as ImageIcon } from "lucide-react";
 import { PromptItem } from "@/types";
 import { useLanguage } from "@/context/LanguageContext";
 
@@ -11,6 +11,8 @@ interface PromptCardProps {
 export const PromptCard: React.FC<PromptCardProps> = ({ item, onSelect }) => {
   const { dict, translateTag } = useLanguage();
   const [copied, setCopied] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [hasError, setHasError] = useState(false);
 
   const handleCopy = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -28,12 +30,34 @@ export const PromptCard: React.FC<PromptCardProps> = ({ item, onSelect }) => {
     >
       {/* Image Container */}
       <div className="relative w-full overflow-hidden bg-neutral-100 aspect-[3/4]">
+        {/* Skeleton Shimmer Loading Placeholder */}
+        {!isLoaded && !hasError && (
+          <div className="absolute inset-0 bg-gradient-to-tr from-neutral-200/60 via-neutral-100 to-neutral-200/40 animate-pulse flex flex-col items-center justify-center">
+            <ImageIcon className="h-6 w-6 text-neutral-300 animate-pulse" />
+          </div>
+        )}
+
+        {/* Error Fallback (No native broken icon) */}
+        {hasError && (
+          <div className="absolute inset-0 bg-neutral-100 flex flex-col items-center justify-center p-3 text-center text-neutral-400">
+            <ImageIcon className="h-6 w-6 text-neutral-300 mb-1" />
+            <span className="text-[10px] text-neutral-400 font-medium">图片加载中...</span>
+          </div>
+        )}
+
+        {/* Real Image with Opacity Fade-in */}
         <img
           src={displayImage}
-          alt={item.title}
+          alt=""
+          aria-label={item.title}
           loading="lazy"
+          decoding="async"
           referrerPolicy="no-referrer"
-          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+          onLoad={() => setIsLoaded(true)}
+          onError={() => setHasError(true)}
+          className={`h-full w-full object-cover transition-all duration-500 group-hover:scale-105 ${
+            isLoaded ? "opacity-100" : "opacity-0"
+          }`}
         />
 
         {/* Quick Copy Button (Top-Right) */}
