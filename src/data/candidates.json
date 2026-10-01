@@ -1,0 +1,234 @@
+[
+  {
+    "id": "sipping-serenity-cozy-winter-morning",
+    "title": "冬日清晨床边手捧热茶写真",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@john_my07 (via Awesome Prompts)",
+    "source_url": "https://twitter.com/john_my07/status/1991343397270089941",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1991343397270089941-sipping-serenity-a-cozy-winter-morning.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1991343397270089941-sipping-serenity-a-cozy-winter-morning",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1991343397270089941.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "东亚",
+      "gender": "男性",
+      "scene": "生活日常",
+      "outfit": "休闲日常"
+    },
+    "tags": [
+      "东亚",
+      "男性",
+      "冬日清晨",
+      "生活抓拍",
+      "自然光影"
+    ],
+    "prompt": "scene_type = \"indoor_winter_morning\"\nlocation = \"his_room\"\ntime = \"cold winter morning\"\nsubject = \"same man as reference\"\npose = \"sitting on bed, holding a warm cup of tea\"\noutfit = \"cozy winter outfit, soft textures, warm layers\"\nlighting = \"minimal, soft natural morning light through window, full focus on him\"\nbackground = \"slightly blurred room elements, calm winter ambiance\"\nvibe = \"warm, intimate, peaceful morning moment\"\ncamera = \"close-up to medium shot, shallow depth of field\"\nquality = \"ultra-detailed, high-resolution, cinematic finish\"",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「冬日清晨床边手捧热茶写真」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  },
+  {
+    "id": "nostalgic-mornings-cozy-japanese-haven",
+    "title": "日式障子窗晨光日常胶片拼贴",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@oggii_0 (via Awesome Prompts)",
+    "source_url": "https://twitter.com/oggii_0/status/1992881418939277708",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1992881418939277708-nostalgic-mornings-a-cozy-japanese-haven.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1992881418939277708-nostalgic-mornings-a-cozy-japanese-haven",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1992881418939277708.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "生活日常",
+      "outfit": "休闲日常"
+    },
+    "tags": [
+      "日本",
+      "女性",
+      "90年代电影感",
+      "胶片颗粒",
+      "日系日常"
+    ],
+    "prompt": "Japanese photo collage, young woman in cozy living room, morning sunlight, shoji windows, 90s cinematic tone, soft film grain, nostalgic mood, calm atmosphere, multiple shots showing small daily moments, warm colors",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「日式障子窗晨光日常胶片拼贴」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  },
+  {
+    "id": "night-thoughts-at-bus-stop",
+    "title": "深夜金属公交站孤灯沉思写真",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@SimplyAnnisa (via Awesome Prompts)",
+    "source_url": "https://twitter.com/SimplyAnnisa/status/1991828184627920938",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1991828184627920938-a-moment-in-time-night-thoughts-at-the-bus-stop.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1991828184627920938-a-moment-in-time-night-thoughts-at-the-bus-stop",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1991828184627920938.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "街头夜景",
+      "outfit": "街头工装"
+    },
+    "tags": [
+      "街头夜景",
+      "女性",
+      "复古颗粒",
+      "沉思写真",
+      "真实光影"
+    ],
+    "prompt": "A young woman with a contemplative expression, seated casually at an old metal bus stop at night. She wears a faded denim jacket over a dark turtleneck and loose cream trousers. A single dull yellow tube light overhead casts harsh, uneven illumination. The rest of the scene fades into darkness with subtle retro grain. Medium portrait framing, calm but cold mood.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「深夜金属公交站孤灯沉思写真」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  },
+  {
+    "id": "streetwear-elegance-minimalist-vision",
+    "title": "极简影棚低角度现代街头工装写真",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@Xxaroon (via Awesome Prompts)",
+    "source_url": "https://twitter.com/Xxaroon/status/1991435397726105959",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1991435397726105959-streetwear-elegance-a-minimalist-vision.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1991435397726105959-streetwear-elegance-a-minimalist-vision",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1991435397726105959.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "东亚",
+      "gender": "男性",
+      "scene": "生活日常",
+      "outfit": "街头工装"
+    },
+    "tags": [
+      "现代街头",
+      "男性",
+      "工装写真",
+      "低角度摄影",
+      "无塑料感"
+    ],
+    "prompt": "Create a minimalist editorial studio photoshoot of a man sitting casually on the floor in a relaxed pose. The shot should be taken from a dramatic low-angle perspective, making the oversized sneaker in the foreground appear dominant and powerful. The man is wearing a light grey overshirt layered over a neutral t-shirt, paired with loose brown trousers and chunky white sneakers. One knee is bent upward while the other leg stretches forward, with the sneaker sole facing the camera in sharp detail and texture. His hands should rest casually on his knees, wearing a wristwatch, with a calm and subtle smile expression. The background should feature a clean, seamless white studio backdrop with soft, even lighting and no harsh shadows, achieving a high-fashion minimalist aesthetic. The shot should have DSLR sharpness with an ultra-wide lens perspective, capturing a Pinterest editorial style with a modern streetwear look. Make sure to match the exact face expression and details of the subject in the photo provided.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「极简影棚低角度现代街头工装写真」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  },
+  {
+    "id": "a-nostalgic-glimpse-of-90s-hong-kong-vibes",
+    "title": "90年代港风怀旧报纸墙胶片写真",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@ShreyaYadav___ (via Awesome Prompts)",
+    "source_url": "https://twitter.com/ShreyaYadav___/status/1994430035554603247",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1994430035554603247-a-nostalgic-glimpse-of-90s-hong-kong-vibes.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1994430035554603247-a-nostalgic-glimpse-of-90s-hong-kong-vibes",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1994430035554603247.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "街头工装"
+    },
+    "tags": [
+      "港风复古",
+      "90年代胶片",
+      "报纸墙",
+      "微光写实",
+      "东亚人像"
+    ],
+    "prompt": "Photorealistic Hong Kong retro portrait with authentic 1990s film look. Half-body. Subject leaning against newspaper-covered wall, gaze soft and melancholic. Cropped bralette top embroidered with pearls and sequins Loose high-waisted trousers with elastic waistband, typical 1990s street style. Hair messy, strands falling across face. Makeup glossy lips, dewy skin. Narrow Hong Kong room, walls plastered with old yellowed Cantonese newspapers.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「90年代港风怀旧报纸墙胶片写真」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  },
+  {
+    "id": "a-flash-from-the-past-candid-moments-captured",
+    "title": "佳能 CCD 数码相机屏幕抓拍写真",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@SimplyAnnisa (via Awesome Prompts)",
+    "source_url": "https://twitter.com/SimplyAnnisa/status/1996956528205799871",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1996956528205799871-a-flash-from-the-past-candid-moments-captured.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1996956528205799871-a-flash-from-the-past-candid-moments-captured",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1996956528205799871.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "生活日常",
+      "outfit": "休闲日常"
+    },
+    "tags": [
+      "CCD相机",
+      "数码屏幕回放",
+      "直闪光影",
+      "生活抓拍",
+      "千禧复古"
+    ],
+    "prompt": "A close-up shot of a young woman displayed on the screen of a compact Canon digital camera. The camera body frames the image with its buttons, dials, and textured surface visible, including the FUNC/SET wheel, the DISP button, and the “IMAGE STABILIZER” label along the side. The photo on the screen shows the woman indoors at night, illuminated by a bright built-in flash that creates sharp highlights on her face. Her long hair falls loosely across part of her face in natural strands, with a soft, slightly open-lip expression. The flash accentuates her features against a dim, cluttered kitchen background with appliances, shelves, and metallic surfaces softly blurred. The mood is candid, raw, nostalgic — reminiscent of early-2000s digital camera snapshots. Colors are slightly muted with cool undertones, strong flash contrast, and natural display grain. The camera screen has an authentic glow. No text or logos inside the photo preview itself. Scale ratio: 4:5 vertical, Lens: 28–35mm equivalent, Aperture: f/2.8, ISO: 400, Shutter speed: 1/60 with flash, Lighting: harsh direct flash on subject, low ambient background light, Color grading: nostalgic digital-camera tones, strong flash contrast, subtle display grain, authentic early-digital aesthetic.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「佳能 CCD 数码相机屏幕抓拍写真」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  },
+  {
+    "id": "a-dreamy-night-in-neon-urban-portrait-magic",
+    "title": "东京夜雨霓虹微光连帽衫写真",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@Sheldon056 (via Awesome Prompts)",
+    "source_url": "https://twitter.com/Sheldon056/status/1997217542742675775",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1997217542742675775-a-dreamy-night-in-neon-urban-portrait-magic.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1997217542742675775-a-dreamy-night-in-neon-urban-portrait-magic",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1997217542742675775.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "街头夜景",
+      "outfit": "连帽卫衣 (Hoodie)"
+    },
+    "tags": [
+      "雨夜霓虹",
+      "连帽卫衣",
+      "东京街头",
+      "冷暖对比",
+      "电影质感"
+    ],
+    "prompt": "High-resolution vertical portrait, 4K quality. A woman with wavy black hair, slightly damp. Dreamy soft gaze looking up toward the camera. Wearing an oversized slate grey/teal hoodie. Leaning against a wall covered with messy posters, flyers, and stickers. Nighttime busy city street (Tokyo/Seoul/Hong Kong style). Light drizzle with visible water particles in the air. Wet reflective street surface. Red neon reflections and bright car brake lights dominating the pavement. Yellow and red neon shop signs in background. Strong dramatic lighting with high contrast between warm neon reds/yellows and cool blue/grey ambient tones. Shallow depth of field, bokeh background. Cinematic, photorealistic.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「东京夜雨霓虹微光连帽衫写真」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  },
+  {
+    "id": "glimmers-of-reflection-moment-by-the-sea",
+    "title": "海边旧栈桥日落回眸写真",
+    "category": "character",
+    "status": "unverified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana (Google Flow)",
+    "author": "@YaseenK7212 (via Awesome Prompts)",
+    "source_url": "https://twitter.com/YaseenK7212/status/1991493635137831348",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1991493635137831348-glimmers-of-reflection-a-moment-by-the-sea.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1991493635137831348-glimmers-of-reflection-a-moment-by-the-sea",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1991493635137831348.webp",
+    "verified_image": null,
+    "dimensions": {
+      "country": "东亚",
+      "gender": "男性",
+      "scene": "海滩日落",
+      "outfit": "连帽卫衣 (Hoodie)"
+    },
+    "tags": [
+      "海滨日落",
+      "男性",
+      "金色时刻",
+      "情绪纪实",
+      "深蓝余晖"
+    ],
+    "prompt": "A high-resolution 8K full-length portrait of an attractive man with dark, messy/wind-swept hair. His facial expression is calm, slightly melancholic, and he is looking back (toward the camera). Clothing: Wearing a dark brown or dark gray hoodie or oversized jacket with a geometric pattern on the back. The clothing appears loose and weathered. Action: Standing on the edge of a damaged wooden pier or rock, looking back toward the camera while facing the sea. Environment: Seashore or pier at sunset or dusk. Waves gently ripple and reflect light. Background: In the distance, the silhouettes of several sailing ships or boats anchored on the horizon. Lighting: Dramatic Golden Hour lighting. The orange-red light from the setting sun reflects strongly on the choppy water surface, creating intense orange/yellow specular highlights and glowing waves. The sky above is a deep blue/purple. Atmosphere: A cool, melancholic, and epic atmosphere.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成此「海边旧栈桥日落回眸写真」后，点击图片右上角【设为角色】锁定资产，即可在分镜中以 @角色名 持续调用。"
+  }
+]

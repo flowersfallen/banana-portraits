@@ -1,0 +1,600 @@
+[
+  {
+    "id": "korean-convenience-store-pink-hoodie",
+    "title": "韩国便利店粉色 Hoodie 人像",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@john_my07",
+    "source_url": "https://x.com/john_my07/status/2054573350199111928",
+    "preview_image": "https://img.gptimage2prompt.net/prompt-images/repo4/hoodie.jpg",
+    "verified_image": "https://img.iceotter.com/characters/korean-hoodie-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "便利店",
+      "outfit": "连帽卫衣 (Hoodie)"
+    },
+    "tags": [
+      "便利店",
+      "粉色卫衣",
+      "写实韩系",
+      "生活切片",
+      "柔光摄影"
+    ],
+    "prompt": "Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.",
+    "flow_usage_tip": "在 Google Flow 对话框生成后，点击图片右上角选择【设为角色】，命名为 Vesper。后续在任何分镜输入框输入 @Vesper 即可固定该五官与粉色卫衣设定。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/korean-hoodie-01.jpg",
+      "https://img.iceotter.com/characters/korean-hoodie-02.jpg",
+      "https://img.iceotter.com/characters/korean-hoodie-03.jpg",
+      "https://img.iceotter.com/characters/korean-hoodie-04.jpg"
+    ],
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-429"
+  },
+  {
+    "id": "soft-black-mist-idol-portrait",
+    "title": "韩系黑柔滤镜偶像写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain",
+    "source_url": "https://x.com/BubbleBrain/status/2046518189509734903",
+    "preview_image": "https://img.gptimage2prompt.net/prompt-images/repo2/soft-black-mist-idol-portrait.jpg",
+    "verified_image": "https://img.iceotter.com/characters/soft-black-mist-idol-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "宽松白衬衫"
+    },
+    "tags": [
+      "韩系偶像",
+      "黑柔滤镜",
+      "室内窗边",
+      "白衬衫",
+      "写实胶片"
+    ],
+    "prompt": "9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections  outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements  hair: long dark hair, slightly messy, natural volume, softly flowing  pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration  expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze  camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel  lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body  mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere  quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone",
+    "flow_usage_tip": "在 Google Flow 中生成后，点击右上角【设为角色】锁定人物形象，在后续分镜中可保持黑柔滤镜与人物面部的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/soft-black-mist-idol-01.jpg",
+      "https://img.iceotter.com/characters/soft-black-mist-idol-02.jpg",
+      "https://img.iceotter.com/characters/soft-black-mist-idol-03.jpg",
+      "https://img.iceotter.com/characters/soft-black-mist-idol-04.jpg"
+    ],
+    "github_url": "https://github.com/BigPengSays/awesome-gpt-image-2-prompts#243-柔雾韩系偶像人像"
+  },
+  {
+    "id": "fujifilm-couple-portrait",
+    "title": "日系富士胶片情侣写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain",
+    "source_url": "https://x.com/BubbleBrain/status/2046502288102170757",
+    "preview_image": "https://img.gptimage2prompt.net/prompt-images/repo2/fujifilm-couple-portrait.jpg",
+    "verified_image": "https://img.iceotter.com/characters/fujifilm-couple-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "情侣双人",
+      "scene": "室内生活",
+      "outfit": "情侣休闲居家装"
+    },
+    "tags": [
+      "日系富士",
+      "情侣写真",
+      "Pro 400H",
+      "窗边微光",
+      "生活抓拍"
+    ],
+    "prompt": "9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections  female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling   male outfit: simple t-shirt or light shirt, clean and understated  hair: natural, slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible  camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel  setting: minimal indoor near window, light curtains, clean soft background  lighting: diffused daylight, gentle highlight bloom, soft shadow transitions  mood: warm, romantic, intimate everyday moment, natural affection  quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections",
+    "flow_usage_tip": "在 Google Flow 中生成后，点击右上角【设为角色】锁定人物形象，在后续双人互动分镜中可保持胶片色调与人物面容的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/fujifilm-couple-01.jpg",
+      "https://img.iceotter.com/characters/fujifilm-couple-02.jpg",
+      "https://img.iceotter.com/characters/fujifilm-couple-03.jpg",
+      "https://img.iceotter.com/characters/fujifilm-couple-04.jpg"
+    ],
+    "github_url": "https://github.com/BigPengSays/awesome-gpt-image-2-prompts#238-富士风情侣将吻未吻人像"
+  },
+  {
+    "id": "1990s-camera-style-portrait",
+    "title": "90年代闪光灯复古胶片人像",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@kingofdairyque (via Awesome Prompts)",
+    "source_url": "https://x.com/kingofdairyque/status/1991780760030961768?s=20",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/nb-1990s-camera-style-portrait.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/nb-1990s-camera-style-portrait",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/nb-1990s-camera-style-portrait.webp",
+    "verified_image": "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "生活日常",
+      "outfit": "复古毛衣"
+    },
+    "tags": [
+      "复古胶片",
+      "90年代闪光灯",
+      "生活写真",
+      "自然真实",
+      "35mm"
+    ],
+    "prompt": "Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting. The 35mm lens flash creates a nostalgic glow.",
+    "flow_usage_tip": "在 Google Flow 中生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代直打闪光灯胶片光影与人物面容的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
+      "https://img.iceotter.com/characters/1990s-camera-portrait-02.jpg",
+      "https://img.iceotter.com/characters/1990s-camera-portrait-03.jpg",
+      "https://img.iceotter.com/characters/1990s-camera-portrait-04.jpg"
+    ]
+  },
+  {
+    "id": "coastal-abbey-travel-portrait",
+    "title": "圣米歇尔海滨大衣漫步写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "3:4",
+    "author": "@saniaspeaks_ (via awesome-gpt-image-2-5-prompts)",
+    "source_url": "https://x.com/saniaspeaks_/status/2097532595814940683",
+    "github_url": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts#case-coastal-abbey-travel-portrait",
+    "preview_image": "https://pbs.twimg.com/media/HRvuwVcasAAwAwf?format=jpg&name=900x900",
+    "verified_image": "https://img.iceotter.com/characters/coastal-abbey-travel-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "自然风光",
+      "outfit": "夹克/风衣"
+    },
+    "tags": [
+      "海滨漫步",
+      "冬日大衣",
+      "纪实旅行",
+      "自然光影",
+      "真实质感"
+    ],
+    "prompt": "A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.",
+    "flow_usage_tip": "在 Google Flow 中生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持海滨大衣漫步的旅行纪实氛围与人物面容一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/coastal-abbey-travel-01.jpg",
+      "https://img.iceotter.com/characters/coastal-abbey-travel-02.jpg",
+      "https://img.iceotter.com/characters/coastal-abbey-travel-03.jpg",
+      "https://img.iceotter.com/characters/coastal-abbey-travel-04.jpg"
+    ]
+  },
+  {
+    "id": "nineties-japanese-ccd-photo",
+    "title": "九十年代日杂 CCD 柔光更衣室写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "BubbleBrain (via awesome-gpt-image-2-5-prompts)",
+    "source_url": "https://x.com/BubbleBrain/status/2098315158997307550",
+    "github_url": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts#case-nineties-japanese-ccd-photo",
+    "preview_image": "https://pbs.twimg.com/media/HR62IojbwAAfQ9w?format=jpg&name=medium",
+    "verified_image": "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "休闲日常"
+    },
+    "tags": [
+      "90年代",
+      "日杂风格",
+      "CCD柔光",
+      "写实更衣室",
+      "生活写真"
+    ],
+    "prompt": "9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.\nA clearly adult Korean female idol, about 23–27 years old, fair natural skin, slender well-proportioned figure, shoulder-length black straight hair slightly messy and fluffy, long bangs falling naturally and partially covering one eye. Delicate features, haughty and languid expression, slightly looking down at the camera. Soft pink natural makeup, gentle pink lips. Keep real skin texture, fine pores, and natural facial asymmetry.\nShe wears a black thin cropped short-sleeve T-shirt in soft fitted cotton, hem stopping at the upper abdomen and exposing the waist, midriff, and natural navel. Bottom: black minimalist low-rise bikini-style bottoms, waistline sitting naturally near the hip bones, simple design.\nShe stands in a small 90s Japanese magazine-style fitting room with light beige-gray walls, a narrow full-length mirror, simple hooks, and soft overhead lighting. Natural standing pose: one leg supporting, the other slightly bent forward, hip shifted naturally to one side. Thinking pose 🤔: one hand raised, index finger lightly resting on the chin, thumb near the jawline, gesture natural and restrained; the other hand hanging naturally at her side. Head slightly tilted, eyes looking down at the camera with a careless, thoughtful look.\nLow-angle upward shot, camera close to the subject, slight wide-angle without exaggerated distortion, emphasizing vertical leg extension and slender proportions. Composition includes the head, upper body, full waist and midriff, hips, and most of the legs. Subject occupies the main part of the frame.\nSoft hazy lighting. Soft scattered light from the front and above. Slight overexposure on the cheeks, nose bridge, collarbones, shoulders, waist, midriff, and legs, blooming softly outward into clear highlight overflow, halation, bloom, and soft fog. Highlights are creamy white glow; shadows are soft and pale with no hard edges.\nOverall low contrast, low saturation, creamy gray and pale warm skin tones, slightly lifted blacks, fine CCD noise and film grain, slightly soft edges, soft-focus filter, and atmospheric haze. Like a casually captured page from a 90s Asian photo magazine.\nPhotorealistic, real-camera photography, real skin, hair strands, and fabric texture. Soft CCD, highlight bloom, hazy and dreamy but not over-retouched.\nAvoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light, strong shadows, anime look, CGI, fisheye, exaggerated wide-angle, limb deformities, extra or wrong fingers, cluttered background, cheap influencer filters.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代日杂 CCD 柔光氛围与人物面容一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-02.jpg",
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-03.jpg",
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-04.jpg"
+    ]
+  },
+  {
+    "id": "retro-reverie-90s-winter-portrait",
+    "title": "90年代冬日树下倾角复古写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@kingofdairyque (via Awesome Prompts)",
+    "source_url": "https://x.com/kingofdairyque/status/1994028996816982182",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait",
+    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1994028996816982182.webp",
+    "verified_image": "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "自然风光",
+      "outfit": "休闲日常"
+    },
+    "tags": [
+      "90年代",
+      "冬日树下",
+      "荷兰角构图",
+      "胶片噪点",
+      "复古法兰绒"
+    ],
+    "prompt": "Cinematic high grain 90s portrait Dutch angle tilted shot, 23-year-old woman leaning against tree taking picture dynamic composition, wearing oversized flannel shirt layers winter, long hair hanging sideways, serene dreamy atmosphere but dynamic framing, warm orange cool blue contrast nostalgic grading, heavy film grain texture noise throughout, artistic playful moment nature photography, diagonal tree lines background, vintage 90s aesthetic mood, editorial nostalgic winter artistic captured, modern retro film noise masterpiece.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代法兰绒与冬日树下倾斜构图的胶片氛围与人物面容一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
+      "https://img.iceotter.com/characters/retro-reverie-winter-02.jpg",
+      "https://img.iceotter.com/characters/retro-reverie-winter-03.jpg",
+      "https://img.iceotter.com/characters/retro-reverie-winter-04.jpg"
+    ]
+  },
+  {
+    "id": "white-studio-tennis-portrait",
+    "title": "极简纯白影棚网球写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via magiccreator-ai)",
+    "source_url": "https://x.com/BubbleBrain/status/2044846335728467996",
+    "github_url": "https://github.com/magiccreator-ai/awesome-gpt-image-2-prompts#white-studio-tennis-portrait",
+    "preview_image": "https://pbs.twimg.com/media/HGDAtXuaAAASgnW.jpg",
+    "verified_image": "https://img.iceotter.com/characters/white-studio-tennis-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "运动风"
+    },
+    "tags": [
+      "极简纯白",
+      "高调摄影",
+      "网球运动风",
+      "通透水光肌",
+      "Vogue时尚"
+    ],
+    "prompt": "Professional studio fashion photography, ultra-clean high-end digital editorial portrait in a pure white seamless cyclorama photography studio, massive soft octabox key light + large softbox fill light creating flawless even illumination with gentle sculpting shadows, Vogue-level minimalist high fashion aesthetic, eye-level shot, 3/4 body shot, early 20s Korean idol-type young woman with ultra-realistic delicate refined Korean features, slightly upturned almond-shaped fox eyes with natural double eyelids, small sharp jawline, flawless yet realistic porcelain skin with cool ivory undertone, completely natural post-workout no-makeup look, soft natural flush on cheeks, subtle dewy skin glow from light sweat, natural dusty rose lips slightly parted, subtle natural freckles across nose and cheeks, visible subtle skin texture, pores and micro skin details, long naturally wavy dark brown hair slightly messy with realistic loose strands, wearing a white fitted tennis polo or short-sleeve athletic top and a high-waisted white tennis skirt, standing naturally in the center of the pure white studio, holding a white tennis racket casually resting on one shoulder, the other hand relaxed at her side or lightly on her hip, one leg slightly forward, posture natural and confident, looking directly at the viewer at eye level with a calm, confident and fresh expression, pure soft professional studio lighting with large diffused sources, flawless even illumination, gentle sculpting shadows that naturally define the figure, clean high-key minimalist aesthetic, ultra-clean high-end digital photography, extremely sharp yet soft skin rendering with natural dewy glow, no film grain, no noise, no halation, no vignette, perfect neutral color grading, authentic Korean idol studio editorial aesthetic, visible realistic tennis racket texture, natural skin texture with freckles and subtle sweat sheen, no plastic skin, no digital over-sharpening, no airbrushing, no watermark, no text --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持高调纯白影棚与网球运动风的通透人物设定一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/white-studio-tennis-01.jpg",
+      "https://img.iceotter.com/characters/white-studio-tennis-02.jpg",
+      "https://img.iceotter.com/characters/white-studio-tennis-03.jpg",
+      "https://img.iceotter.com/characters/white-studio-tennis-04.jpg"
+    ]
+  },
+  {
+    "id": "tokyo-street-film-portrait",
+    "title": "东京下町街头胶片街拍",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2055491616392052887",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-434",
+    "preview_image": "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "街头纪实",
+      "outfit": "日常便服"
+    },
+    "tags": [
+      "35mm胶片",
+      "东京街头",
+      "纪实快照",
+      "毛绒外套",
+      "自然回眸"
+    ],
+    "prompt": "film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, distant pedestrians softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 20-year-old East Asian female, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy jacket, playful yet subtly serene expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic photography texture, spontaneous candid energy, highly attractive girl casually posing on the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, slight motion blur from slow shutter, authentic everyday realism --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持东京下町街头 35mm 胶片质感与自然回眸人物设定的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
+      "https://img.iceotter.com/characters/tokyo-street-film-02.jpg",
+      "https://img.iceotter.com/characters/tokyo-street-film-03.jpg",
+      "https://img.iceotter.com/characters/tokyo-street-film-04.jpg"
+    ]
+  },
+  {
+    "id": "record-label-stairwell-portrait",
+    "title": "唱片公司楼梯间日常写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "2:3",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2052217544388546827",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-399",
+    "preview_image": "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "日常便服"
+    },
+    "tags": [
+      "日系负片",
+      "楼梯间纪实",
+      "私享生活感",
+      "西装工装裤",
+      "松弛回眸"
+    ],
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic portrait image, final target size 1216x1536 portrait\n\nCreate a photorealistic image of a fictional adult Korean female idol in her mid-20s, not resembling any real celebrity. Maintain a Japanese negative film look: soft overexposure, faded neutrals, low contrast, subtle grain, and imperfect snapshot framing.\n\nScene/backdrop: the back stairwell of a small record label building, with moving boxes, scuffed concrete steps, a gray metal handrail, and a pale security light. The atmosphere should feel quiet, slightly intimate, and workaday, as if caught in a private in-between moment after practice and during moving day.\n\nSubject: a Korean female idol with a naturally attractive, understated sensuality rather than overt glamour. She should feel quietly magnetic, relaxed, and a little teasing without being provocative.\n\nWardrobe/props: a slightly cropped black blazer worn casually and slightly open, over a fitted heather-gray ribbed tee that softly outlines the figure without revealing cleavage, loose khaki cargo pants sitting naturally on the waist, a thin silver chain necklace, a roll of black gaffer tape placed beside her, and one sneaker lace still half-tied. The styling should feel subtly sexier and more feminine than purely casual, but still fully modest and non-revealing.\n\nComposition/framing: tall portrait. The subject is seated on the stairs with one knee slightly raised and one leg relaxed lower on the step, leaning back lightly with one hand braced behind her on the stair for support. The other hand is near her half-tied sneaker, as if she has just paused while tying it. Her blazer falls naturally along the body, her posture creating a soft, elegant silhouette. Her head is tilted up toward the camera with a calm, slightly sultry, self-possessed expression. The pose should feel candid yet subtly alluring, natural rather than staged.\n\nLighting/mood: flat stairwell light, understated backstage realism, soft grain, muted tones, gentle highlight bloom, and a quiet intimate mood. Keep the image photorealistic, restrained, and cinematic, with no excessive glamour and no nudity. --ar 2:3",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日系负片低反差色调、唱片公司楼梯间日常与松弛坐姿人物设定的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
+      "https://img.iceotter.com/characters/record-label-stairwell-02.jpg",
+      "https://img.iceotter.com/characters/record-label-stairwell-03.jpg",
+      "https://img.iceotter.com/characters/record-label-stairwell-04.jpg"
+    ]
+  },
+  {
+    "id": "night-smartphone-glow-sofa-portrait",
+    "title": "夜间手机光沙发肖像",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@iamaiistudio (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/iamaiistudio/status/2063231612478017579",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-505",
+    "preview_image": "https://img.iceotter.com/characters/night-smartphone-glow-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/night-smartphone-glow-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "家居吊带"
+    },
+    "tags": [
+      "夜间私密",
+      "手机屏幕光",
+      "冷暖对比",
+      "金属眼镜",
+      "松弛微倦"
+    ],
+    "prompt": "Photorealistic intimate night portrait, 4:5 vertical framing. A young adult East Asian woman with soft refined features, thin wire-rim metal glasses, and shoulder-length dark tousled hair, leaning comfortably across a dark upholstered couch at late night. She wears a simple cream lace-trim camisole with thin straps and soft shorts. One hand holds a smartphone in the foreground, the glowing phone screen casting delicate cool blue reflections on her fingers and glasses lenses, contrasting with the warm dim ambient light of the living room. Her expression is dreamy and softly relaxed, eyes lifted toward the camera as if just caught looking up from scrolling, lips gently parted. Visible realistic skin texture, fine pores, soft shadows, cozy midnight mood, cinematic color grading, authentic candid documentary aesthetic --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持屏幕冷蓝反光与深夜暖调环境光对比、金属眼镜与居家私密神态的人物设定一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/night-smartphone-glow-01.jpg",
+      "https://img.iceotter.com/characters/night-smartphone-glow-02.jpg",
+      "https://img.iceotter.com/characters/night-smartphone-glow-03.jpg",
+      "https://img.iceotter.com/characters/night-smartphone-glow-04.jpg"
+    ]
+  },
+  {
+    "id": "direct-flash-basketball-court-portrait",
+    "title": "胶片直闪球场少女",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2045052982728016131",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-240",
+    "preview_image": "https://img.iceotter.com/characters/direct-flash-basketball-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/direct-flash-basketball-01.jpg",
+    "dimensions": {
+      "country": "中国",
+      "gender": "女性",
+      "scene": "户外运动",
+      "outfit": "运动风"
+    },
+    "tags": [
+      "35mm胶片",
+      "机顶直闪",
+      "户外球场",
+      "运动水光肌",
+      "黄昏低角度"
+    ],
+    "prompt": "35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate low-angle POV shot, early 20s Chinese female idol with ultra-realistic delicate refined features, almond-shaped eyes with natural double eyelids, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with loose strands framing the face, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, natural leaning pose against the basketball hoop pole on the outdoor court at dusk, looking straight at the viewer with soft vulnerable doe eyes, background with blurred basketball court under dusk sky, high contrast film color grading, no plastic skin, no digital over-sharpening, no airbrushing --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持黄昏户外球场环境、机顶直闪硬核光影与运动水光肌的人物设定一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/direct-flash-basketball-01.jpg",
+      "https://img.iceotter.com/characters/direct-flash-basketball-02.jpg",
+      "https://img.iceotter.com/characters/direct-flash-basketball-03.jpg",
+      "https://img.iceotter.com/characters/direct-flash-basketball-04.jpg"
+    ]
+  },
+  {
+    "id": "japanese-onsen-veranda-portrait",
+    "title": "日式温泉旅馆缘侧写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2045092449803284923",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-272",
+    "preview_image": "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "日式浴衣"
+    },
+    "tags": [
+      "35mm胶片",
+      "温泉旅馆",
+      "木质缘侧",
+      "暖调胶片",
+      "自然微光"
+    ],
+    "prompt": "35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日式温泉旅馆木质缘侧场景、暖调灯笼微光与松弛浴衣坐姿的人物设定一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-02.jpg",
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-03.jpg",
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-04.jpg"
+    ]
+  },
+  {
+    "id": "y2k-luxury-mirror-selfie-portrait",
+    "title": "Y2K 奢华高楼浴室镜面自拍",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@jzaib4269 (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/jzaib4269/status/2062184740849930384",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-491",
+    "preview_image": "https://img.iceotter.com/characters/y2k-luxury-mirror-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/y2k-luxury-mirror-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "日常便服"
+    },
+    "tags": [
+      "Y2K直闪",
+      "镜面自拍",
+      "城市天际线",
+      "真实微瑕水痕",
+      "深夜生活感"
+    ],
+    "prompt": "A moody late-night mirror selfie captured in a luxury high-rise bathroom overlooking a glowing city skyline. A young woman with long, slightly messy black hair leans forward over a marble sink, partially obscuring one eye with loose strands. The photo is taken through a smudged mirror with visible dust particles, water spots, and imperfections, creating an authentic raw aesthetic. A powerful direct camera flash explodes in the frame, producing harsh highlights, lens flare, and a nostalgic early-2000s digital camera look.\n\nThe bathroom counter is cluttered with luxury cosmetics, skincare products, jewelry, a smartphone, and everyday personal items, adding a lived-in editorial feel. Reflections of neon-lit skyscrapers and hotel windows shimmer in the background, emphasizing an urban nightlife atmosphere. Soft pale skin tones contrast against dark clothing and black hair. The composition feels intimate, candid, and effortlessly cool.\n\nStyle: Y2K flash photography, candid mirror selfie, Korean editorial aesthetic, indie sleaze, hotel bathroom scene, luxury lifestyle, cinematic nightlife, disposable camera look, grainy texture, flash burn, realistic skin texture, shallow depth of field, authentic imperfections, viral Pinterest mood, high-fashion casual energy, raw unfiltered photography.\n\nCamera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, slight motion blur, visible noise, natural color grading, vertical composition, ultra-realistic, high detail. --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 Y2K 镜面直打闪光灯质感、镜面真实水渍微尘细节与高楼夜市天际线背景的人物设定一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/y2k-luxury-mirror-01.jpg",
+      "https://img.iceotter.com/characters/y2k-luxury-mirror-02.jpg",
+      "https://img.iceotter.com/characters/y2k-luxury-mirror-03.jpg",
+      "https://img.iceotter.com/characters/y2k-luxury-mirror-04.jpg"
+    ]
+  },
+  {
+    "id": "minimalist-boutique-fullbody-portrait",
+    "title": "极简精品店全身漫步写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@john_my07 (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/john_my07/status/2062579742759649486",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-499",
+    "preview_image": "https://img.iceotter.com/characters/minimalist-boutique-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/minimalist-boutique-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "时尚私服"
+    },
+    "tags": [
+      "Vogue时尚",
+      "全身视角",
+      "买手店极简风",
+      "雾霾蓝毛衣",
+      "松弛站姿"
+    ],
+    "prompt": "A full-body editorial fashion photograph of a beautiful young East Asian woman with long glossy dark hair, soft bangs, fair porcelain skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持高端买手店极简室内、全身比例协调、Oversized 雾霾蓝针织衫与黑百褶短裙的人物设定一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/minimalist-boutique-01.jpg",
+      "https://img.iceotter.com/characters/minimalist-boutique-02.jpg",
+      "https://img.iceotter.com/characters/minimalist-boutique-03.jpg",
+      "https://img.iceotter.com/characters/minimalist-boutique-04.jpg"
+    ]
+  },
+  {
+    "id": "caught-off-guard-dim-indoor-portrait",
+    "title": "居家昏暗微光偶遇抓拍",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2046190539213885806",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-217",
+    "preview_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "家居吊带"
+    },
+    "tags": [
+      "老式CCD",
+      "未设防抓拍",
+      "意外回眸",
+      "居家薄开衫",
+      "瞬态微模糊"
+    ],
+    "prompt": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young East Asian female idol, soft innocent look, mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised, eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression, loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing, unprepared, intimate, accidental moment, evokes curiosity and protectiveness, natural skin texture, visible pores, no plastic smoothing --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持老式 CCD 闪光灯瞬态美学、未设防的回眸惊喜神态与居家薄开衫人物设定的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-02.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-03.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-04.jpg"
+    ]
+  },
+  {
+    "id": "in-cup-fisheye-summer-drink-portrait",
+    "title": "杯内鱼眼夏日冰饮写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@lovimg_com (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/lovimg_com/status/2077036659028484375",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-517",
+    "preview_image": "https://img.iceotter.com/characters/fisheye-iced-drink-summer-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/fisheye-iced-drink-summer-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "夏日街景",
+      "outfit": "白色蕾丝衫"
+    },
+    "tags": [
+      "杯底鱼眼",
+      "夏日刨冰",
+      "透明冷饮杯",
+      "草莓碎冰",
+      "青空与老街",
+      "高扎丸子头"
+    ],
+    "prompt": "主題：\n氷越しの夏\n\n主体：\n縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。\n\n人物・表情：\n自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。\n\n服装・ポーズ：\n白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。\n\n背景・光：\n背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。\n\n構図・カメラ：\nカメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。\n\n質感・スタイル：\nプロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。\n\nネガティブ：\n実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持透明杯内鱼眼仰拍视角、红绿鲜明对比、草莓碎冰与夏日清爽甜美丸子头人物设定的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/fisheye-iced-drink-summer-01.jpg",
+      "https://img.iceotter.com/characters/fisheye-iced-drink-summer-02.jpg",
+      "https://img.iceotter.com/characters/fisheye-iced-drink-summer-03.jpg",
+      "https://img.iceotter.com/characters/fisheye-iced-drink-summer-04.jpg"
+    ]
+  }
+]
