@@ -842,5 +842,40 @@
       "https://img.iceotter.com/characters/blue-lockers-ice-cream-03.jpg",
       "https://img.iceotter.com/characters/blue-lockers-ice-cream-04.jpg"
     ]
+  },
+  {
+    "id": "autumn-lake-wooden-boat-black-dress-portrait",
+    "title": "Woman in black dress sits on wooden boat on calm autumn lake",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "3:4",
+    "author": "@oye_samia",
+    "source_url": "https://x.com/oye_samia/status/2104431639132778667",
+    "preview_image": "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-01.jpg",
+    "dimensions": {
+      "country": "欧美/经典",
+      "gender": "女性",
+      "scene": "秋日湖面木舟",
+      "outfit": "黑色学院风西装短裙、透感黑丝与高筒骑士靴"
+    },
+    "tags": [
+      "湖畔木船",
+      "秋日金秋",
+      "黑色西装裙",
+      "及膝长靴",
+      "古石拱桥",
+      "3:4构图"
+    ],
+    "prompt": "Ultra-realistic iPhone photo, 3:4.\n\nIdentity lock: my photo is the only reference. Keep the original face exactly, identity 1:1. Features, eye color, and asymmetry unchanged, no deformation.\n\nCamera: iPhone rear, regular photo mode, no Portrait mode / flash / filters. Camera inside a small wooden boat opposite the woman, 1.8–2.2 m away, height 85–100 cm.\n\nThe woman sits on a wooden bench almost in full length, legs elegantly crossed, torso slightly 3/4, head turned to the side, gaze past the camera.\n\nOutfit: short fitted black preppy blazer-dress, structured shoulders, round neckline, central closure, white shirt collar + cuffs, thin white piping on two small breast pockets, sheer black tights.\n\nShoes: tall black riding boots to the knee, straight wide shaft, low massive sole, small metal emblem on the side; white ribbed socks visible at the top.\n\nOn the bench to the right: a small structured black top-handle bag with gold hardware.\n\nHair: long, wavy, loose; large soft voluminous waves, airy volume at the roots, light natural movement from the wind. Do not change external characteristics.\n\nLocation: wooden rowboat on a calm lake; to the right an old light stone bridge with an arch and balustrade; real golden-yellow / ochre autumn trees all around.\n\nReal late sunlight, −0.3 EV, automatic white balance, natural iPhone colors and sharpness.\n\nNo filter / LUT / preset / HDR / flash / bokeh / cinematic grading / orange skin / AI gloss.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持静谧秋水木船、古典石拱桥与金黄秋叶背景，以及黑色学院风西装裙搭及膝高筒骑兵靴的优雅名媛风貌。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-01.jpg",
+      "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-02.jpg",
+      "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-03.jpg",
+      "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-04.jpg"
+    ]
   }
 ]
