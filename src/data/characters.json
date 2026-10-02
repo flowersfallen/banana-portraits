@@ -772,5 +772,40 @@
       "https://img.iceotter.com/characters/tennis-court-kneeling-white-03.jpg",
       "https://img.iceotter.com/characters/tennis-court-kneeling-white-04.jpg"
     ]
+  },
+  {
+    "id": "japanese-restroom-reading-green-book-portrait",
+    "title": "Young Woman Reads Green Book on Toilet in Japanese Restroom",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "2:3",
+    "author": "@CyberTotal2026",
+    "source_url": "https://x.com/CyberTotal2026/status/2102203475757015262",
+    "preview_image": "https://img.iceotter.com/characters/japanese-restroom-reading-book-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/japanese-restroom-reading-book-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "日式和风洗手间",
+      "outfit": "淡蓝落肩长袖衬衫、蕾丝边背心与宽腿牛仔裤"
+    },
+    "tags": [
+      "和风洗手间",
+      "障子门",
+      "绿皮书",
+      "秘密阅读",
+      "落肩衬衫",
+      "2:3构图"
+    ],
+    "prompt": "主題：\n青シャツと秘密の読書\n\n主体：\n画面中央、細長い和風のトイレで便座に座り、緑の古書を読む若い女性。肩を落とした淡青シャツ、膝まで下げたワイドデニム、本、床に散る赤いカップと小物が主役。\n\n人物・表情：\n小さな卵形の顔、細い顎、伏せた濃茶の瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を下へ向け、視線を開いた本へ集中させた穏やかな表情。濃茶の長いウェーブ髪は薄い前髪を残して両肩へ流れる。\n\n服装・ポーズ：\n白いレース縁のリブタンクトップ、その上に淡い青の長袖シャツを両肩から落とす。淡色の太いデニムパンツはベルト付きで膝まで下げ、白い尖ったパンプス。便座へ座って膝を開き、両手で大きな緑表紙の本を胸前に開く。\n\n背景・光：\n画面右に木枠の障子戸、左に木の洗面台、紙ホルダーとタオル、中央背景に棚、鉢植え、香り瓶、額。前景の床に赤い紙カップ二つ、白いバッグ、携帯電話、小箱。正面上方の柔らかな暖色光が狭い室内を均一に照らす。\n\n構図・カメラ：\n2:3の縦構図、床より少し高い正面カメラで頭上の額から靴先と前景小物まで全身を収める。人物を中央へ大きく、左右の木枠で囲み、本を中央、カップを左下、バッグを右下へ配置。靴先近くまでピント、奥棚は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。デニムの皺、シャツ、古書、木枠、障子、床の小物を高精細にし、木色、淡青、緑へ赤いカップを差し色にする。\n\nネガティブ：\n読書と便座姿勢変更；床の小物やデニム省略",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持狭长日式和风空间、木质障子门与洗手台、垂眸阅读绿皮古书以及落肩淡青衬衫与散落小物件的画面连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/japanese-restroom-reading-book-01.jpg",
+      "https://img.iceotter.com/characters/japanese-restroom-reading-book-02.jpg",
+      "https://img.iceotter.com/characters/japanese-restroom-reading-book-03.jpg",
+      "https://img.iceotter.com/characters/japanese-restroom-reading-book-04.jpg"
+    ]
   }
 ]
