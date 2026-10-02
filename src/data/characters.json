@@ -982,5 +982,40 @@
       "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-03.jpg",
       "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-04.jpg"
     ]
+  },
+  {
+    "id": "korean-soft-glam-grey-contacts-portrait",
+    "title": "Soft Korean Glam Portrait with Grey Contacts and Tilted Head",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@Chryzleenprompt",
+    "source_url": "https://x.com/Chryzleenprompt/status/2101004778453278811",
+    "preview_image": "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-01.jpg",
+    "dimensions": {
+      "country": "韩国/亚洲",
+      "gender": "女性",
+      "scene": "极简纯色室内墙面",
+      "outfit": "哈雷印花炭黑大廓形短袖T恤与银色大耳环"
+    },
+    "tags": [
+      "韩系轻妆",
+      "灰色美瞳",
+      "微醺腮红",
+      "直闪光灯",
+      "复古CCD感",
+      "9:16构图"
+    ],
+    "prompt": "Create image: A hyper-photorealistic shot of the same subject in the attached image, detailed pores, rosy dewy skin, Douyin glass-skin, pink gloss lips, aegyosal, blush, grey contacts, wispy lashes, brushed brows, thin liner. Expression / Pose: Soft feminine expression, relaxed half-lidded gaze, chin slightly raised, subtle head tilt, gently arched neck, one shoulder slightly closer to camera, natural asymmetrical stance. Camera: Old CCD digicam, direct flash, grain, soft contrast. Makeup: Fresh Korean soft-glam, natural glow, pink blush, wispy lashes, thin winged liner, shimmering eyeshadow. Hair: Long straight black hair, lifted roots, extreme side part, loose strands naturally covering one eye and framing the face. Outfit: Oversized charcoal-grey Harley-Davidson graphic T-shirt, slightly distressed hem, black shoulder bag strap, large silver hoop earrings. Background: Actual plain light-colored interior wall with soft shadowing and minimal surroundings. Composition: Natural asymmetrical chest-up framing, head fully visible with natural headroom, preserve the tilted pose without copying the exact crop. Branding: Tiny lowercase “chryzleen” as a subtle realistic physical fabric label, exact spelling, only once. Negative prompt: AI look, plastic skin, stiff pose, frontal pose, unnatural symmetry, extreme crop, cut-off head, altered identity, generic background, random text, duplicated branding, watermark.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持细腻通透的韩系水光肌肤与微醺腮红、灰色美瞳眼神、复古CCD直闪质感，以及炭灰色哈雷印花廓形T恤与侧分黑长直发的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-01.jpg",
+      "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-02.jpg",
+      "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-03.jpg",
+      "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-04.jpg"
+    ]
   }
 ]
