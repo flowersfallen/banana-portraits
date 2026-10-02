@@ -702,5 +702,40 @@
       "https://img.iceotter.com/characters/bus-window-afternoon-white-03.jpg",
       "https://img.iceotter.com/characters/bus-window-afternoon-white-04.jpg"
     ]
+  },
+  {
+    "id": "commuter-train-strap-white-portrait",
+    "title": "Woman in white shirt grips strap on crowded commuter train",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "3:4",
+    "author": "@CyberTotal2026",
+    "source_url": "https://x.com/CyberTotal2026/status/2104514956846669959",
+    "preview_image": "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "拥挤通勤电车",
+      "outfit": "微透白色无袖翻领衬衫与黑色高腰裙"
+    },
+    "tags": [
+      "通勤电车",
+      "电车吊环",
+      "微汗夏日",
+      "透光白衬衫",
+      "日系通勤",
+      "3:4构图"
+    ],
+    "prompt": "主題：\n満員電車の白シャツ\n\n主体：\n画面中央、混雑する通勤電車でつり革を握る白シャツ姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を右へ向け、視線を遠くへ流した暑さをこらえる落ち着いた表情。濃茶の髪を低いまとめ髪にし、濡れた薄い前髪と後れ毛を残す。\n\n服装・ポーズ：\n汗で透ける白いノースリーブ襟付きボタンシャツ、黒いハイウエストスカート、黒革ショルダーバッグ。右腕を真上へ伸ばして三角のつり革を握り、左腕を身体の横へ下ろして立つ。\n\n背景・光：\n画面左から画面右の背景に、画面左右と奥を埋める白シャツの乗客、銀のポール、つり革、蛍光灯の電車内。上方の柔らかな白色蛍光灯が顔と汗の光沢を均一に照らす。\n\n構図・カメラ：\n3:4の縦構図、胸の高さからの近い正面カメラで頭頂から腰下までの半身を収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。上げた腕と周囲の乗客を画面端で裁切し、横顔と白いシャツにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、黒、银、肌色の通勤色を保つ。\n\nネガティブ：\nつり革姿勢変更；車内と白シャツ省略",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日本早高峰通勤电车、手握三角吊环微汗神情、透感无袖白衬衫与通勤黑裙装配色的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
+      "https://img.iceotter.com/characters/commuter-train-strap-white-02.jpg",
+      "https://img.iceotter.com/characters/commuter-train-strap-white-03.jpg",
+      "https://img.iceotter.com/characters/commuter-train-strap-white-04.jpg"
+    ]
   }
 ]
