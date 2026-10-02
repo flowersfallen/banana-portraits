@@ -807,5 +807,40 @@
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-03.jpg",
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-04.jpg"
     ]
+  },
+  {
+    "id": "blue-lockers-ice-cream-street-portrait",
+    "title": "Young Woman Sits on Floor with Ice Cream at Blue Lockers",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@Aqsahere_",
+    "source_url": "https://x.com/Aqsahere_/status/2104499010585153671",
+    "preview_image": "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
+    "dimensions": {
+      "country": "通用/街头",
+      "gender": "女性",
+      "scene": "室内蓝色储物柜区",
+      "outfit": "黑色毛绒落肩开衫、灰色阔腿牛仔裤与白色棒球帽"
+    },
+    "tags": [
+      "蓝色储物柜",
+      "香草冰淇淋",
+      "街头潮搭",
+      "阔腿牛仔裤",
+      "落肩开衫",
+      "9:16构图"
+    ],
+    "prompt": "A realistic full-body fashion photo of a young woman sitting casually on the floor in front of a wall of blue locker doors. She has long, wavy light-brown hair and wears a white baseball cap, a black fuzzy oversized cardigan slipping slightly off one shoulder over a white top, loose silver-gray baggy jeans, and chunky black sneakers. She holds a vanilla ice cream cone in one hand and looks directly at the camera with a calm, slightly pouty expression. Her pose is relaxed and stylish, with her knees bent and legs spread naturally.\nThe background features rows of deep-blue lockers with small numbered labels and electronic keypad locks, creating an urban indoor setting. Soft overhead lighting, realistic skin and hair texture, detailed clothing fibers, natural proportions, candid street-fashion photography, slightly wide-angle perspective, high-resolution smartphone photo, muted cool tones, sharp subject with subtle background depth, vertical composition.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持深蓝色电子锁储物柜背景、随性席地而坐手拿甜筒的街头穿搭造型，以及黑色毛绒落肩开衫与银灰阔腿裤的连贯质感。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-02.jpg",
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-03.jpg",
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-04.jpg"
+    ]
   }
 ]
