@@ -947,5 +947,40 @@
       "https://img.iceotter.com/characters/woman-cat-blue-caps-03.jpg",
       "https://img.iceotter.com/characters/woman-cat-blue-caps-04.jpg"
     ]
+  },
+  {
+    "id": "yellow-wildflowers-mountain-bouquet-portrait",
+    "title": "Joyful Woman in Yellow Wildflowers Holding Bouquet Toward Camera",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "4:5",
+    "author": "@Aqsahere_",
+    "source_url": "https://x.com/Aqsahere_/status/2104223825042771969",
+    "preview_image": "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
+    "dimensions": {
+      "country": "自然/旷野",
+      "gender": "女性",
+      "scene": "黄色野花花海与远山",
+      "outfit": "白色一字肩长袖上衣与棕色格纹百褶短裙"
+    },
+    "tags": [
+      "黄色花海",
+      "手捧花束",
+      "一字肩白衣",
+      "壮丽远山",
+      "清新春日",
+      "4:5构图"
+    ],
+    "prompt": "A photorealistic cinematic portrait of a young woman sitting in a vibrant field of yellow wildflowers with dramatic green mountains rising in the background. She has long, straight dark brown hair gently moving in the breeze, with a few loose strands across her face. She is smiling brightly and looking directly at the camera with a joyful, carefree expression.\nShe wears a soft white off-shoulder long-sleeve top with a simple delicate necklace and a brown plaid mini skirt. She sits naturally among the flowers with her legs bent to one side. One hand rests gently against her cheek while the other extends toward the camera, holding a small bouquet of fresh yellow flowers, creating a beautiful foreground perspective.\nThe foreground flowers are slightly out of focus while the woman remains sharply detailed. Behind her is a vast field of vivid yellow blossoms, followed by lush green hills and a dramatic rugged mountain range beneath a cloudy blue-gray sky.\nComposition: vertical 4:5 portrait, medium-to-full body framing, low natural camera angle, subject centered, bouquet extending toward the lens for depth, mountains clearly visible in the background.\nLighting: soft natural daylight, gentle highlights on her face and hair, diffused sunlight through clouds, realistic shadows, fresh spring atmosphere.\nPhotography style: ultra-realistic outdoor lifestyle photography, natural skin texture, realistic hair strands, detailed flowers, shallow depth of field, cinematic depth, subtle foreground bokeh, natural color grading, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped flowers, fake mountains, oversaturated colors, excessive HDR, artificial lighting, excessive blur, low resolution, text, watermark, logo.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持壮美苍翠山峦与金黄野花花海的户外景致，手持花束伸向镜头的透视景深，以及一字肩白色上衣与棕色格纹短裙的明朗氛围。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-02.jpg",
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-03.jpg",
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-04.jpg"
+    ]
   }
 ]
