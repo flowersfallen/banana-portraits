@@ -737,5 +737,40 @@
       "https://img.iceotter.com/characters/commuter-train-strap-white-03.jpg",
       "https://img.iceotter.com/characters/commuter-train-strap-white-04.jpg"
     ]
+  },
+  {
+    "id": "tennis-court-kneeling-white-bikini-portrait",
+    "title": "Athletic Woman Kneels On Tennis Court In White Bikini And Cream Skirt",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "2:3",
+    "author": "@CyberTotal2026",
+    "source_url": "https://x.com/CyberTotal2026/status/2104155840705929394",
+    "preview_image": "https://img.iceotter.com/characters/tennis-court-kneeling-white-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/tennis-court-kneeling-white-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "户外网球场",
+      "outfit": "白色三角比基尼与奶油黄系带围裹裙"
+    },
+    "tags": [
+      "网球场",
+      "单膝点地",
+      "网球拍",
+      "白色发带",
+      "夏日日光",
+      "2:3构图"
+    ],
+    "prompt": "主題：\n白コートの膝休み\n\n主体：\n画面中央、屋外テニスコートでラケットを持ち膝をつく女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を左へわずかに向け、視線をカメラへ合わせた爽やかな微笑み。濃茶の長い髪を後ろへ流し、白い幅広ヘッドバンドを着ける。\n\n服装・ポーズ：\n細い肩紐の白い三角ビキニトップ、ウエストで結ぶ淡いクリームと黄の巻きミニスカート、白いテニスシューズ。コートへ片膝をつき、もう片脚を立て、片手でラケットの柄を握り床へ斜めに置く。\n\n背景・光：\n白線のある青緑のテニスコート、金網、遠くの緑と淡い空。画面左上から明るい夏の日差しが肩と脚へ入り、影は柔らかい。\n\n構図・カメラ：\n2:3の縦構図、膝の高さの斜め正面カメラで頭頂から靴までの全身を収めるポートレート。人物を中央へ大きく配置。ラケット先端とコートを下端で自然に裁切し、顔と白い衣装にピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、クリーム、青緑の明るい夏色を保つ。\n\nネガティブ：\n立ち姿への変更；ラケットとヘッドバンド省略",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持户外青绿网球场、单膝点地持拍姿态、白色宽发带与比基尼围裹裙配色的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/tennis-court-kneeling-white-01.jpg",
+      "https://img.iceotter.com/characters/tennis-court-kneeling-white-02.jpg",
+      "https://img.iceotter.com/characters/tennis-court-kneeling-white-03.jpg",
+      "https://img.iceotter.com/characters/tennis-court-kneeling-white-04.jpg"
+    ]
   }
 ]
