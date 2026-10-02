@@ -877,5 +877,40 @@
       "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-03.jpg",
       "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-04.jpg"
     ]
+  },
+  {
+    "id": "night-terrace-black-mini-dress-portrait",
+    "title": "Woman in black mini dress walks on night terrace, warm light",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "3:4",
+    "author": "@CyberTotal2026",
+    "source_url": "https://x.com/CyberTotal2026/status/2104545660523418100",
+    "preview_image": "https://img.iceotter.com/characters/night-terrace-black-dress-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/night-terrace-black-dress-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "夜景露台",
+      "outfit": "高开叉光泽丝绒深V黑短裙与银色细带高跟鞋"
+    },
+    "tags": [
+      "夜景露台",
+      "黑色短裙",
+      "丝绒开叉",
+      "暖光间接照明",
+      "优雅漫步",
+      "3:4构图"
+    ],
+    "prompt": "主題：\n夜景テラスの黒ドレス\n\n主体：\n画面中央、夜景のテラスを歩く黒いミニドレス姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を正面へ向け、視線をカメラへ合わせて控えめに微笑む表情。濃茶の長いウェーブ髪をハーフアップにし、黒いリボンを後ろへ付ける。\n\n服装・ポーズ：\n黒い光沢ベルベット、細い肩紐、深いVネック、右腿の高いスリットと飾り金具を持つミニドレス、銀ストラップヒール。片脚を前へ交差して歩き、左腕を自然に下ろし、右手で黒い小型バッグの肩紐を持つ。\n\n背景・光：\n画面左から画面右の背景に、左に照明を巻いた樹木と夜景、右にアーチ窓の石造建物とテラス席。画面左右の暖かな柔らかい間接灯が顔、脚、濡れた床を照らす。\n\n構図・カメラ：\n3:4の縦構図、腰より低い正面カメラで頭頂からヒールまでの全身を収めるポートレート。人物を中央へ大きく配置し、画面高の大部分を占める。床と両側のテラスを残し、顔と黒ドレスにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、金、肌色の華やかな夜色を保つ。\n\nネガティブ：\n歩行姿勢変更；黒ドレスのスリット省略",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持暖色间接照明的夜景石造露台、微湿反光地面、高开叉光泽丝绒黑吊带裙与交叉步态的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/night-terrace-black-dress-01.jpg",
+      "https://img.iceotter.com/characters/night-terrace-black-dress-02.jpg",
+      "https://img.iceotter.com/characters/night-terrace-black-dress-03.jpg",
+      "https://img.iceotter.com/characters/night-terrace-black-dress-04.jpg"
+    ]
   }
 ]
