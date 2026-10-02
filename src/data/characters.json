@@ -667,5 +667,40 @@
       "https://img.iceotter.com/characters/straw-hat-shop-selfie-03.jpg",
       "https://img.iceotter.com/characters/straw-hat-shop-selfie-04.jpg"
     ]
+  },
+  {
+    "id": "bus-window-afternoon-white-portrait",
+    "title": "Woman in white gazes from bus window in afternoon light",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "4:5",
+    "author": "@CyberTotal2026",
+    "source_url": "https://x.com/CyberTotal2026/status/2104169430393532694",
+    "preview_image": "https://img.iceotter.com/characters/bus-window-afternoon-white-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/bus-window-afternoon-white-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "路线巴士车内",
+      "outfit": "白色透感细吊带上衣"
+    },
+    "tags": [
+      "巴士车窗",
+      "午后斜阳",
+      "静谧侧颜",
+      "透光白衣",
+      "日系纪实",
+      "4:5构图"
+    ],
+    "prompt": "主題：\nバス窓の白い午後\n\n主体：\n画面中央から右、日本の路線バスの窓側席に座る白い服の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を左へ向け、視線を窓の外へ流した静かな横顔。濃茶の長いストレート髪を下ろし、薄い前髪と耳元の毛束を残す。\n\n服装・ポーズ：\n白い透け感のある細肩紐トップと白いボトム、下に茶色のブラトップ。青い座席へ腰掛け、背を窓側へ預け、両手を腿付近へ置く。\n\n背景・光：\n青い布張り座席、手すり、案内表示を持つ日本のバス車内、窓外に街並み。画面左の大窓から強い午後の直射日光が顔と白布を照らす。\n\n構図・カメラ：\n4:5の縦構図、通路側からの目線高さの斜めカメラで頭頂から腿までの三分身を収めるポートレート。人物を右寄りへ大きく配置。座席と腿を下端で裁切し、横顔と透ける白い衣装にピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、青、茶、日差しの金色を保つ。\n\nネガティブ：\n車内を別空間へ変更；窓を見る横顔変更",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日本巴士车窗斜阳照射、静谧侧颜流转眼神、白色透感细吊带与蓝色布艺座椅配色的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/bus-window-afternoon-white-01.jpg",
+      "https://img.iceotter.com/characters/bus-window-afternoon-white-02.jpg",
+      "https://img.iceotter.com/characters/bus-window-afternoon-white-03.jpg",
+      "https://img.iceotter.com/characters/bus-window-afternoon-white-04.jpg"
+    ]
   }
 ]
