@@ -1017,5 +1017,40 @@
       "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-03.jpg",
       "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-04.jpg"
     ]
+  },
+  {
+    "id": "train-platform-orange-flowers-motion-blur-portrait",
+    "title": "Woman on train platform holds orange flowers as yellow train blurs behind",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@codewithhajra",
+    "source_url": "https://x.com/codewithhajra/status/2099868412507746395",
+    "preview_image": "https://img.iceotter.com/characters/train-platform-orange-flowers-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/train-platform-orange-flowers-01.jpg",
+    "dimensions": {
+      "country": "欧洲/电影感",
+      "gender": "女性",
+      "scene": "地铁站台与飞驰黄色列车",
+      "outfit": "大廓形黑色毛呢大衣与鲜亮橘红花束"
+    },
+    "tags": [
+      "地铁站台",
+      "动态模糊",
+      "亮橘花束",
+      "黄色列车",
+      "电影静帧",
+      "9:16构图"
+    ],
+    "prompt": "A cinematic photorealistic street photography image of a woman standing on a train platform holding a bouquet of vivid orange-red flowers. The composition is a medium shot captured from a straight-on eye-level perspective, with the subject positioned exactly in the center of the frame. She stands still while a yellow subway or train passes behind her at high speed, creating strong horizontal motion blur across the entire background. The contrast between her stillness and the moving train creates a quiet, emotional, almost film-still atmosphere. The woman has shoulder-length dark brown hair with soft bangs, slightly messy from the wind created by the passing train. A few strands of hair move across her face naturally. She wears a structured oversized black coat or blazer with a minimalist silhouette, creating a sharp contrast against the warm bouquet in her arms. She holds a large bouquet of orange gerbera-like flowers close to her chest, the only bright color accent in the muted scene. Her expression is calm, distant, and introspective, with a subtle melancholic mood. The environment is a modern urban train station with a dark platform edge and a moving yellow metro carriage behind her. The train windows and doors are heavily blurred due to motion, forming abstract horizontal streaks of warm yellow, beige, gray, and black. The background feels anonymous and metropolitan, emphasizing solitude in a busy city. The subject remains relatively sharp while the world around her appears to move. Lighting is soft and cinematic, resembling an overcast evening or early morning urban atmosphere. A mixture of cool ambient daylight and warm artificial train lights creates a subtle teal-orange color contrast. Shadows are deep but natural, with gentle highlights on the flowers, hair edges, and coat texture. The overall exposure is slightly dark and moody, preserving the cinematic feeling. Color palette: charcoal black, muted gray, deep navy, warm amber, mustard yellow, burnt orange, and dark green. Textures include matte wool fabric of the coat, delicate flower petals, slightly windblown hair, reflective metal train surfaces, and blurred glass windows. The visual style is high-end editorial street photography mixed with European cinema aesthetics. Shot on a 50mm lens at a slow shutter speed (around 1/15 sec) to capture intentional motion blur while keeping the subject sharp. Subtle analog film grain, Kodak Portra-inspired tones, soft contrast, realistic skin texture, natural imperfections, shallow depth of field, atmospheric urban mood, documentary photography feeling.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持静止人物与背景飞驰黄色列车强烈横向动感模糊（1/15s慢门）的电影静帧张力，以及黑色大廓形毛呢大衣与怀抱亮橘色雏菊花束的冷暖视觉焦点。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/train-platform-orange-flowers-01.jpg",
+      "https://img.iceotter.com/characters/train-platform-orange-flowers-02.jpg",
+      "https://img.iceotter.com/characters/train-platform-orange-flowers-03.jpg",
+      "https://img.iceotter.com/characters/train-platform-orange-flowers-04.jpg"
+    ]
   }
 ]
