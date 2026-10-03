@@ -415,41 +415,6 @@
     ]
   },
   {
-    "id": "caught-off-guard-dim-indoor-portrait",
-    "title": "居家昏暗微光偶遇抓拍",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
-    "source_url": "https://x.com/BubbleBrain/status/2046190539213885806",
-    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-217",
-    "preview_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
-    "dimensions": {
-      "country": "韩国",
-      "gender": "女性",
-      "scene": "室内生活",
-      "outfit": "家居吊带"
-    },
-    "tags": [
-      "老式CCD",
-      "未设防抓拍",
-      "意外回眸",
-      "居家薄开衫",
-      "瞬态微模糊"
-    ],
-    "prompt": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young East Asian female idol, soft innocent look, mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised, eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression, loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing, unprepared, intimate, accidental moment, evokes curiosity and protectiveness, natural skin texture, visible pores, no plastic smoothing --ar 9:16",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持老式 CCD 闪光灯瞬态美学、未设防的回眸惊喜神态与居家薄开衫人物设定的一致性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-02.jpg",
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-03.jpg",
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-04.jpg"
-    ]
-  },
-  {
     "id": "minimalist-boutique-fullbody-portrait",
     "title": "极简精品店全身漫步写真",
     "category": "character",
@@ -517,6 +482,42 @@
       "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-02.jpg",
       "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-03.jpg",
       "https://img.iceotter.com/characters/korean-soft-glam-grey-contacts-04.jpg"
+    ]
+  },
+  {
+    "id": "1990s-camera-style-portrait",
+    "title": "90年代闪光灯复古胶片人像",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana (Google Flow)",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@kingofdairyque (via Awesome Prompts)",
+    "source_url": "https://x.com/kingofdairyque/status/1991780760030961768?s=20",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/nb-1990s-camera-style-portrait.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/nb-1990s-camera-style-portrait",
+    "preview_image": "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "生活日常",
+      "outfit": "复古毛衣"
+    },
+    "tags": [
+      "复古胶片",
+      "90年代闪光灯",
+      "生活写真",
+      "自然真实",
+      "35mm"
+    ],
+    "prompt": "Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting. The 35mm lens flash creates a nostalgic glow.",
+    "flow_usage_tip": "在 Google Flow 中生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代直打闪光灯胶片光影与人物面容的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
+      "https://img.iceotter.com/characters/1990s-camera-portrait-02.jpg",
+      "https://img.iceotter.com/characters/1990s-camera-portrait-03.jpg",
+      "https://img.iceotter.com/characters/1990s-camera-portrait-04.jpg"
     ]
   },
   {
@@ -626,42 +627,6 @@
     ]
   },
   {
-    "id": "1990s-camera-style-portrait",
-    "title": "90年代闪光灯复古胶片人像",
-    "category": "character",
-    "status": "verified",
-    "source_model": "Nano Banana (Google Flow)",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@kingofdairyque (via Awesome Prompts)",
-    "source_url": "https://x.com/kingofdairyque/status/1991780760030961768?s=20",
-    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/nb-1990s-camera-style-portrait.md",
-    "web_url": "https://awesomeprompts.xyz/prompt/portraits/nb-1990s-camera-style-portrait",
-    "preview_image": "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
-    "dimensions": {
-      "country": "东亚",
-      "gender": "女性",
-      "scene": "生活日常",
-      "outfit": "复古毛衣"
-    },
-    "tags": [
-      "复古胶片",
-      "90年代闪光灯",
-      "生活写真",
-      "自然真实",
-      "35mm"
-    ],
-    "prompt": "Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting. The 35mm lens flash creates a nostalgic glow.",
-    "flow_usage_tip": "在 Google Flow 中生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代直打闪光灯胶片光影与人物面容的一致性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
-      "https://img.iceotter.com/characters/1990s-camera-portrait-02.jpg",
-      "https://img.iceotter.com/characters/1990s-camera-portrait-03.jpg",
-      "https://img.iceotter.com/characters/1990s-camera-portrait-04.jpg"
-    ]
-  },
-  {
     "id": "train-platform-orange-flowers-motion-blur-portrait",
     "title": "Woman on train platform holds orange flowers as yellow train blurs behind",
     "category": "character",
@@ -694,6 +659,41 @@
       "https://img.iceotter.com/characters/train-platform-orange-flowers-02.jpg",
       "https://img.iceotter.com/characters/train-platform-orange-flowers-03.jpg",
       "https://img.iceotter.com/characters/train-platform-orange-flowers-04.jpg"
+    ]
+  },
+  {
+    "id": "caught-off-guard-dim-indoor-portrait",
+    "title": "居家昏暗微光偶遇抓拍",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2046190539213885806",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-217",
+    "preview_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "家居吊带"
+    },
+    "tags": [
+      "老式CCD",
+      "未设防抓拍",
+      "意外回眸",
+      "居家薄开衫",
+      "瞬态微模糊"
+    ],
+    "prompt": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young East Asian female idol, soft innocent look, mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised, eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression, loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing, unprepared, intimate, accidental moment, evokes curiosity and protectiveness, natural skin texture, visible pores, no plastic smoothing --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持老式 CCD 闪光灯瞬态美学、未设防的回眸惊喜神态与居家薄开衫人物设定的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-02.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-03.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-04.jpg"
     ]
   },
   {
