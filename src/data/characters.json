@@ -767,6 +767,70 @@
     "github_url": "https://github.com/BigPengSays/awesome-gpt-image-2-prompts#238-富士风情侣将吻未吻人像"
   },
   {
+    "id": "charming-vintage-vibes-gemini-nano-banana",
+    "title": "Charming Vintage Vibes with Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994256542238167068-charming-vintage-vibes-with-gemini-nano-banana-3-0/",
+    "preview_image": "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
+    "dimensions": {
+      "country": "东亚/居家",
+      "gender": "女性",
+      "scene": "温馨凌乱卧室/编织沙发回眸",
+      "outfit": "米色宽松复古T恤(背印FRISTO)、浅色高腰牛仔短裤、白色球鞋"
+    },
+    "tags": [
+      "奥林巴斯MJU2",
+      "居家复古",
+      "编织沙发",
+      "FRISTO",
+      "回眸胶片",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"image_generation\": {\n    \"identity\": {\n      \"preserve_original\": true,\n      \"reference_match\": true,\n      \"description\": \"Facial features must remain exactly identical to the provided reference photo.\"\n    },\n    \"photo_style\": {\n      \"type\": \"hyperrealistic lifestyle photo\",\n      \"camera_vibe\": \"Olympus MJU II aesthetic\",\n      \"lighting\": \"warm dim indoor lighting OR 35mm film-style flash\",\n      \"tone\": \"warm vintage VSCO vibe\",\n      \"texture\": \"soft grain, subtle film rendering\",\n      \"framing\": \"wide shot showing interior room details\"\n    },\n    \"subject\": {\n      \"pose\": {\n        \"body\": \"sitting on a woven sofa with back turned to the viewer\",\n        \"legs\": \"folded comfortably\",\n        \"hands\": \"one hand resting on the sofa\",\n        \"head\": \"looking over shoulder at the camera\",\n        \"expression\": \"playful, soft, naturally charming\"\n      },\n      \"appearance\": {\n        \"hair\": {\n          \"length\": \"long\",\n          \"style\": \"loose with a side part\",\n          \"accessory\": \"simple small hair clip\"\n        },\n        \"makeup\": {\n          \"style\": \"light Korean glass-skin makeup\",\n          \"details\": {\n            \"skin\": \"glowy, dewy finish\",\n            \"lips\": \"soft pink\",\n            \"eyes\": \"minimal eyeshadow, natural lashes\"\n          }\n        }\n      },\n      \"clothing\": {\n        \"top\": {\n          \"type\": \"cream oversized vintage T-shirt\",\n          \"print\": \"bold graphic text 'FRISTO' on the back\"\n        },\n        \"bottom\": {\n          \"type\": \"light high-waisted denim shorts\"\n        },\n        \"shoes\": {\n          \"type\": \"white sneakers\"\n        }\n      }\n    },\n    \"environment\": {\n      \"setting\": \"cozy messy room\",\n      \"elements\": [\n        \"woven sofa\",\n        \"white pillows\",\n        \"scattered clothes in the foreground\",\n        \"soft indoor clutter for authentic lifestyle atmosphere\"\n      ],\n      \"lighting_effects\": [\n        \"warm dim glow\",\n        \"or direct compact film camera flash\",\n        \"soft warm shadows enhancing vintage mood\"\n      ]\n    },\n    \"aesthetic\": {\n      \"style\": \"vintage lifestyle editorial\",\n      \"vibe\": \"warm, nostalgic, candid\",\n      \"features\": [\n        \"rich room detail\",\n        \"natural textures of fabric and skin\",\n        \"soft grain and warm tones\"\n      ]\n    }\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持奥林巴斯 μ2 (Olympus MJU II) 室内暖调微弱闪光胶片颗粒、温馨生活感房间沙发背景，以及米色宽松 T 恤背后印花、浅色高腰牛仔短裤与回眸微笑的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-02.jpg",
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-03.jpg",
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-04.jpg"
+    ]
+  },
+  {
+    "id": "candid-nights-embracing-the-city-vibe",
+    "title": "Candid Nights: Embracing the City Vibe",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1992985230303527355-candid-nights-embracing-the-city-vibe/",
+    "preview_image": "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
+    "dimensions": {
+      "country": "东亚/街头",
+      "gender": "女性",
+      "scene": "夜晚城市街头/明黄法拉利F8",
+      "outfit": "军绿色V领针织短款背心、黑色短裤、NB 530运动鞋"
+    },
+    "tags": [
+      "夜景街拍",
+      "闪光灯胶片",
+      "法拉利F8",
+      "35mm胶片",
+      "工装休闲",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"image_metadata\": {\n    \"resolution\": \"1200x1200px\",\n    \"genre\": \"Candid street portrait\",\n    \"editing_note\": \"Face edited without alteration to features\"\n  },\n  \"photography_style\": {\n    \"medium\": \"Analog 35mm film-style\",\n    \"overall_aesthetic\": [\n      \"raw\",\n      \"nostalgic\",\n      \"gritty\"\n    ],\n    \"visual_artifacts\": {\n      \"grain\": \"Subtle but distinct film grain visible throughout frame\",\n      \"bokeh\": \"Soft in background\"\n    },\n    \"color_grade\": {\n      \"palette\": \"Muted and slightly warm\",\n      \"contrast\": \"High contrast (typical of flash)\"\n    }\n  },\n  \"lighting_characteristics\": {\n    \"primary_source\": {\n      \"type\": \"Camera flash\",\n      \"direction\": \"Direct, shining on face and body\"\n    },\n    \"effects_on_subject\": {\n      \"highlights\": \"Strong\",\n      \"shadows\": \"Sharp, cast behind subject\",\n      \"skin_glow\": \"Slight glow from flash\"\n    },\n    \"ambient_light\": {\n      \"level\": \"Minimal\",\n      \"sources\": [\n        \"streetlights\",\n        \"car headlights\",\n        \"neon signs\"\n      ],\n      \"appearance\": \"Blurred and slightly halated\"\n    }\n  },\n  \"subject_details\": {\n    \"pose\": {\n      \"stance\": \"Leaning next to vehicle\",\n      \"arms\": \"Folded across chest\",\n      \"style\": \"Natural, candid\"\n    },\n    \"expression\": \"Slight smile towards the camera\",\n    \"features\": {\n      \"skin_texture\": \"Natural\"\n    },\n    \"attire\": {\n      \"top\": \"Army green V-neck knit crop vest\",\n      \"bottom\": \"Black shorts\",\n      \"footwear\": \"White-grey New Balance 530 sneakers\"\n    }\n  },\n  \"environmental_context\": {\n    \"time_of_day\": \"Night\",\n    \"setting\": \"Dark city street\",\n    \"key_elements\": {\n      \"foreground_object\": \"Bright yellow Ferrari F8\",\n      \"background\": {\n        \"brightness\": \"Dark\",\n        \"noise_level\": \"Minimal\"\n      }\n    }\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 35mm 胶片夜景直闪光影、亮黄色法拉利跑车前景与暗调城市街道，以及军绿色 V 领针织背心、黑色短裤与 NB 530 跑鞋的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-02.jpg",
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-03.jpg",
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-04.jpg"
+    ]
+  },
+  {
     "id": "white-studio-tennis-portrait",
     "title": "极简纯白影棚网球写真",
     "category": "character",
@@ -901,70 +965,6 @@
       "https://img.iceotter.com/characters/chic-coastal-blazer-deck-02.jpg",
       "https://img.iceotter.com/characters/chic-coastal-blazer-deck-03.jpg",
       "https://img.iceotter.com/characters/chic-coastal-blazer-deck-04.jpg"
-    ]
-  },
-  {
-    "id": "charming-vintage-vibes-gemini-nano-banana",
-    "title": "Charming Vintage Vibes with Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994256542238167068-charming-vintage-vibes-with-gemini-nano-banana-3-0/",
-    "preview_image": "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
-    "dimensions": {
-      "country": "东亚/居家",
-      "gender": "女性",
-      "scene": "温馨凌乱卧室/编织沙发回眸",
-      "outfit": "米色宽松复古T恤(背印FRISTO)、浅色高腰牛仔短裤、白色球鞋"
-    },
-    "tags": [
-      "奥林巴斯MJU2",
-      "居家复古",
-      "编织沙发",
-      "FRISTO",
-      "回眸胶片",
-      "9:16构图"
-    ],
-    "prompt": "{\n  \"image_generation\": {\n    \"identity\": {\n      \"preserve_original\": true,\n      \"reference_match\": true,\n      \"description\": \"Facial features must remain exactly identical to the provided reference photo.\"\n    },\n    \"photo_style\": {\n      \"type\": \"hyperrealistic lifestyle photo\",\n      \"camera_vibe\": \"Olympus MJU II aesthetic\",\n      \"lighting\": \"warm dim indoor lighting OR 35mm film-style flash\",\n      \"tone\": \"warm vintage VSCO vibe\",\n      \"texture\": \"soft grain, subtle film rendering\",\n      \"framing\": \"wide shot showing interior room details\"\n    },\n    \"subject\": {\n      \"pose\": {\n        \"body\": \"sitting on a woven sofa with back turned to the viewer\",\n        \"legs\": \"folded comfortably\",\n        \"hands\": \"one hand resting on the sofa\",\n        \"head\": \"looking over shoulder at the camera\",\n        \"expression\": \"playful, soft, naturally charming\"\n      },\n      \"appearance\": {\n        \"hair\": {\n          \"length\": \"long\",\n          \"style\": \"loose with a side part\",\n          \"accessory\": \"simple small hair clip\"\n        },\n        \"makeup\": {\n          \"style\": \"light Korean glass-skin makeup\",\n          \"details\": {\n            \"skin\": \"glowy, dewy finish\",\n            \"lips\": \"soft pink\",\n            \"eyes\": \"minimal eyeshadow, natural lashes\"\n          }\n        }\n      },\n      \"clothing\": {\n        \"top\": {\n          \"type\": \"cream oversized vintage T-shirt\",\n          \"print\": \"bold graphic text 'FRISTO' on the back\"\n        },\n        \"bottom\": {\n          \"type\": \"light high-waisted denim shorts\"\n        },\n        \"shoes\": {\n          \"type\": \"white sneakers\"\n        }\n      }\n    },\n    \"environment\": {\n      \"setting\": \"cozy messy room\",\n      \"elements\": [\n        \"woven sofa\",\n        \"white pillows\",\n        \"scattered clothes in the foreground\",\n        \"soft indoor clutter for authentic lifestyle atmosphere\"\n      ],\n      \"lighting_effects\": [\n        \"warm dim glow\",\n        \"or direct compact film camera flash\",\n        \"soft warm shadows enhancing vintage mood\"\n      ]\n    },\n    \"aesthetic\": {\n      \"style\": \"vintage lifestyle editorial\",\n      \"vibe\": \"warm, nostalgic, candid\",\n      \"features\": [\n        \"rich room detail\",\n        \"natural textures of fabric and skin\",\n        \"soft grain and warm tones\"\n      ]\n    }\n  }\n}",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持奥林巴斯 μ2 (Olympus MJU II) 室内暖调微弱闪光胶片颗粒、温馨生活感房间沙发背景，以及米色宽松 T 恤背后印花、浅色高腰牛仔短裤与回眸微笑的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
-      "https://img.iceotter.com/characters/vintage-sofa-fristo-02.jpg",
-      "https://img.iceotter.com/characters/vintage-sofa-fristo-03.jpg",
-      "https://img.iceotter.com/characters/vintage-sofa-fristo-04.jpg"
-    ]
-  },
-  {
-    "id": "candid-nights-embracing-the-city-vibe",
-    "title": "Candid Nights: Embracing the City Vibe",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1992985230303527355-candid-nights-embracing-the-city-vibe/",
-    "preview_image": "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
-    "dimensions": {
-      "country": "东亚/街头",
-      "gender": "女性",
-      "scene": "夜晚城市街头/明黄法拉利F8",
-      "outfit": "军绿色V领针织短款背心、黑色短裤、NB 530运动鞋"
-    },
-    "tags": [
-      "夜景街拍",
-      "闪光灯胶片",
-      "法拉利F8",
-      "35mm胶片",
-      "工装休闲",
-      "9:16构图"
-    ],
-    "prompt": "{\n  \"image_metadata\": {\n    \"resolution\": \"1200x1200px\",\n    \"genre\": \"Candid street portrait\",\n    \"editing_note\": \"Face edited without alteration to features\"\n  },\n  \"photography_style\": {\n    \"medium\": \"Analog 35mm film-style\",\n    \"overall_aesthetic\": [\n      \"raw\",\n      \"nostalgic\",\n      \"gritty\"\n    ],\n    \"visual_artifacts\": {\n      \"grain\": \"Subtle but distinct film grain visible throughout frame\",\n      \"bokeh\": \"Soft in background\"\n    },\n    \"color_grade\": {\n      \"palette\": \"Muted and slightly warm\",\n      \"contrast\": \"High contrast (typical of flash)\"\n    }\n  },\n  \"lighting_characteristics\": {\n    \"primary_source\": {\n      \"type\": \"Camera flash\",\n      \"direction\": \"Direct, shining on face and body\"\n    },\n    \"effects_on_subject\": {\n      \"highlights\": \"Strong\",\n      \"shadows\": \"Sharp, cast behind subject\",\n      \"skin_glow\": \"Slight glow from flash\"\n    },\n    \"ambient_light\": {\n      \"level\": \"Minimal\",\n      \"sources\": [\n        \"streetlights\",\n        \"car headlights\",\n        \"neon signs\"\n      ],\n      \"appearance\": \"Blurred and slightly halated\"\n    }\n  },\n  \"subject_details\": {\n    \"pose\": {\n      \"stance\": \"Leaning next to vehicle\",\n      \"arms\": \"Folded across chest\",\n      \"style\": \"Natural, candid\"\n    },\n    \"expression\": \"Slight smile towards the camera\",\n    \"features\": {\n      \"skin_texture\": \"Natural\"\n    },\n    \"attire\": {\n      \"top\": \"Army green V-neck knit crop vest\",\n      \"bottom\": \"Black shorts\",\n      \"footwear\": \"White-grey New Balance 530 sneakers\"\n    }\n  },\n  \"environmental_context\": {\n    \"time_of_day\": \"Night\",\n    \"setting\": \"Dark city street\",\n    \"key_elements\": {\n      \"foreground_object\": \"Bright yellow Ferrari F8\",\n      \"background\": {\n        \"brightness\": \"Dark\",\n        \"noise_level\": \"Minimal\"\n      }\n    }\n  }\n}",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 35mm 胶片夜景直闪光影、亮黄色法拉利跑车前景与暗调城市街道，以及军绿色 V 领针织背心、黑色短裤与 NB 530 跑鞋的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
-      "https://img.iceotter.com/characters/candid-nights-city-vibe-02.jpg",
-      "https://img.iceotter.com/characters/candid-nights-city-vibe-03.jpg",
-      "https://img.iceotter.com/characters/candid-nights-city-vibe-04.jpg"
     ]
   },
   {
