@@ -1035,38 +1035,6 @@
     ]
   },
   {
-    "id": "cinematic-charm-modern-film-noir-portrait",
-    "title": "Cinematic Charm: A Modern Film Noir Portrait",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994360675217408267-cinematic-charm-a-modern-film-noir-portrait/",
-    "preview_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
-    "dimensions": {
-      "country": "东亚/室内",
-      "gender": "女性",
-      "scene": "极简灰色客厅/直闪高角度自拍",
-      "outfit": "质感灰色泡泡袖褶皱连衣裙、白色布艺缎带头饰、'A'字吊坠项链"
-    },
-    "tags": [
-      "现代黑色电影",
-      "直闪自拍",
-      "泡泡袖连衣裙",
-      "白色缎带",
-      "冷调微醺",
-      "9:16构图"
-    ],
-    "prompt": "{\n  \"generation_task\": {\n    \"title\": \"Cinematic Flash Selfie - Film Noir Style\",\n    \"version\": \"2.0\",\n    \"strict_constraints\": {\n      \"face_preservation\": \"Face must remain 100% unaltered from reference.\",\n      \"lighting_type\": \"Direct on-camera flash only.\",\n      \"view_angle\": \"High-angle (approx. 30 degrees).\"\n    },\n    \"prompt_components\": {\n      \"subject\": {\n        \"demographics\": \"Beautiful woman\",\n        \"hair\": {\n          \"style\": \"Long, wavy, tied half-up\",\n          \"accessory\": \"White cloth ribbon knotted at top of head\",\n          \"details\": \"Thin bangs framing the face\"\n        },\n        \"facial_features\": {\n          \"skin\": \"Shiny texture (due to flash), small freckles on nose and upper cheeks\",\n          \"makeup\": {\n            \"style\": \"Doll-like\",\n            \"lips\": \"Matte, blurred, muted rose tone\",\n            \"cheeks\": \"Soft pink blush on cheeks and nose\",\n            \"eyes\": \"Long curled eyelashes, thin eyeliner with subtle wing\"\n          }\n        },\n        \"wardrobe\": {\n          \"clothing\": \"Textured gray dress, puff sleeves, ruffle details\",\n          \"jewelry\": \"Simple necklace with 'A' pendant\"\n        },\n        \"hands\": {\n          \"pose\": \"Index finger touching cheek\",\n          \"nails\": \"Almond-shaped, blue base, small soft-sparkle crystals\"\n        },\n        \"expression\": {\n          \"type\": \"Pouting, cute, dreamy, slightly cheerful\",\n          \"vibe\": \"Charming with cinematic feel\"\n        }\n      },\n      \"environment\": {\n        \"location\": \"Minimalist gray living room\",\n        \"lighting_condition\": \"Dimly lit room\",\n        \"background_visibility\": \"Dark, falling into shadow behind the subject\"\n      },\n      \"technical_specs\": {\n        \"camera_type\": \"Digital camera simulating 35mm analog film\",\n        \"lighting_setup\": \"Strong direct camera flash (harsh light)\",\n        \"contrast\": \"High contrast (Chiaroscuro), bright face vs. dark background\",\n        \"angle\": \"High-angle selfie, 30 degrees elevation\",\n        \"color_grading\": \"Cool tones, muted colors, soft textures\"\n      },\n      \"artistic_style\": {\n        \"genre\": \"Film noir elegance mixed with modern casualness\",\n        \"texture_quality\": \"Ultra-realistic, 8k, detailed skin pores, hair strands, and fabric weave\",\n        \"atmosphere\": \"Cold light reflection, modern warmth\"\n      }\n    },\n    \"compiled_prompts\": {\n      \"stable_diffusion_format\": \"high angle selfie, 30 degree angle, beautiful woman, long wavy hair half-up with white ribbon knot, thin bangs, doll-like makeup, matte rose lips, soft blush, freckles, textured gray dress puff sleeves, 'A' pendant, blue almond nails with crystals, pouting expression finger on cheek, strong direct camera flash, dark minimalist gray living room, film noir aesthetic, cool tones, shiny skin texture, high contrast, ultra-realistic, 8k, highly detailed --no altered face, warm lighting, vector, painting\",\n      \"midjourney_format\": \"/imagine prompt: extreme close-up high-angle selfie of a woman with white ribbon in wavy hair :: textured gray dress with puff sleeves :: doll-like makeup, matte rose lips, blue nails with crystals :: strong direct flash photography, dim room, film noir elegance, cool tones, shiny skin texture, sharp contrast :: shot on 35mm analog, photorealistic, 8k --ar 4:5 --stylize 250 --v 6.0\"\n    }\n  }\n}",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持直闪强光阴影对比（Chiaroscuro）、极简暗调背景与冷灰胶片色调，以及灰色泡泡袖连衣裙、白色缎带半扎发与食指轻点脸颊自拍动作的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-02.jpg",
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-03.jpg",
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-04.jpg"
-    ]
-  },
-  {
     "id": "night-smartphone-glow-sofa-portrait",
     "title": "夜间手机光沙发肖像",
     "category": "character",
@@ -1102,38 +1070,70 @@
     ]
   },
   {
-    "id": "japanese-onsen-veranda-portrait",
-    "title": "日式温泉旅馆缘侧写真",
+    "id": "cinematic-charm-modern-film-noir-portrait",
+    "title": "Cinematic Charm: A Modern Film Noir Portrait",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994360675217408267-cinematic-charm-a-modern-film-noir-portrait/",
+    "preview_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+    "dimensions": {
+      "country": "东亚/室内",
+      "gender": "女性",
+      "scene": "极简灰色客厅/直闪高角度自拍",
+      "outfit": "质感灰色泡泡袖褶皱连衣裙、白色布艺缎带头饰、'A'字吊坠项链"
+    },
+    "tags": [
+      "现代黑色电影",
+      "直闪自拍",
+      "泡泡袖连衣裙",
+      "白色缎带",
+      "冷调微醺",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"generation_task\": {\n    \"title\": \"Cinematic Flash Selfie - Film Noir Style\",\n    \"version\": \"2.0\",\n    \"strict_constraints\": {\n      \"face_preservation\": \"Face must remain 100% unaltered from reference.\",\n      \"lighting_type\": \"Direct on-camera flash only.\",\n      \"view_angle\": \"High-angle (approx. 30 degrees).\"\n    },\n    \"prompt_components\": {\n      \"subject\": {\n        \"demographics\": \"Beautiful woman\",\n        \"hair\": {\n          \"style\": \"Long, wavy, tied half-up\",\n          \"accessory\": \"White cloth ribbon knotted at top of head\",\n          \"details\": \"Thin bangs framing the face\"\n        },\n        \"facial_features\": {\n          \"skin\": \"Shiny texture (due to flash), small freckles on nose and upper cheeks\",\n          \"makeup\": {\n            \"style\": \"Doll-like\",\n            \"lips\": \"Matte, blurred, muted rose tone\",\n            \"cheeks\": \"Soft pink blush on cheeks and nose\",\n            \"eyes\": \"Long curled eyelashes, thin eyeliner with subtle wing\"\n          }\n        },\n        \"wardrobe\": {\n          \"clothing\": \"Textured gray dress, puff sleeves, ruffle details\",\n          \"jewelry\": \"Simple necklace with 'A' pendant\"\n        },\n        \"hands\": {\n          \"pose\": \"Index finger touching cheek\",\n          \"nails\": \"Almond-shaped, blue base, small soft-sparkle crystals\"\n        },\n        \"expression\": {\n          \"type\": \"Pouting, cute, dreamy, slightly cheerful\",\n          \"vibe\": \"Charming with cinematic feel\"\n        }\n      },\n      \"environment\": {\n        \"location\": \"Minimalist gray living room\",\n        \"lighting_condition\": \"Dimly lit room\",\n        \"background_visibility\": \"Dark, falling into shadow behind the subject\"\n      },\n      \"technical_specs\": {\n        \"camera_type\": \"Digital camera simulating 35mm analog film\",\n        \"lighting_setup\": \"Strong direct camera flash (harsh light)\",\n        \"contrast\": \"High contrast (Chiaroscuro), bright face vs. dark background\",\n        \"angle\": \"High-angle selfie, 30 degrees elevation\",\n        \"color_grading\": \"Cool tones, muted colors, soft textures\"\n      },\n      \"artistic_style\": {\n        \"genre\": \"Film noir elegance mixed with modern casualness\",\n        \"texture_quality\": \"Ultra-realistic, 8k, detailed skin pores, hair strands, and fabric weave\",\n        \"atmosphere\": \"Cold light reflection, modern warmth\"\n      }\n    },\n    \"compiled_prompts\": {\n      \"stable_diffusion_format\": \"high angle selfie, 30 degree angle, beautiful woman, long wavy hair half-up with white ribbon knot, thin bangs, doll-like makeup, matte rose lips, soft blush, freckles, textured gray dress puff sleeves, 'A' pendant, blue almond nails with crystals, pouting expression finger on cheek, strong direct camera flash, dark minimalist gray living room, film noir aesthetic, cool tones, shiny skin texture, high contrast, ultra-realistic, 8k, highly detailed --no altered face, warm lighting, vector, painting\",\n      \"midjourney_format\": \"/imagine prompt: extreme close-up high-angle selfie of a woman with white ribbon in wavy hair :: textured gray dress with puff sleeves :: doll-like makeup, matte rose lips, blue nails with crystals :: strong direct flash photography, dim room, film noir elegance, cool tones, shiny skin texture, sharp contrast :: shot on 35mm analog, photorealistic, 8k --ar 4:5 --stylize 250 --v 6.0\"\n    }\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持直闪强光阴影对比（Chiaroscuro）、极简暗调背景与冷灰胶片色调，以及灰色泡泡袖连衣裙、白色缎带半扎发与食指轻点脸颊自拍动作的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-02.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-03.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-04.jpg"
+    ]
+  },
+  {
+    "id": "commuter-train-strap-white-portrait",
+    "title": "Woman in white shirt grips strap on crowded commuter train",
     "category": "character",
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
     "aspect_ratio": "9:16",
-    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
-    "source_url": "https://x.com/BubbleBrain/status/2045092449803284923",
-    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-272",
-    "preview_image": "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
+    "author": "@CyberTotal2026",
+    "source_url": "https://x.com/CyberTotal2026/status/2104514956846669959",
+    "preview_image": "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
     "dimensions": {
       "country": "日本",
       "gender": "女性",
-      "scene": "室内生活",
-      "outfit": "日式浴衣"
+      "scene": "拥挤通勤电车",
+      "outfit": "微透白色无袖翻领衬衫与黑色高腰裙"
     },
     "tags": [
-      "35mm胶片",
-      "温泉旅馆",
-      "木质缘侧",
-      "暖调胶片",
-      "自然微光"
+      "通勤电车",
+      "电车吊环",
+      "微汗夏日",
+      "透光白衬衫",
+      "日系通勤",
+      "9:16构图"
     ],
-    "prompt": "35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere --ar 9:16",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日式温泉旅馆木质缘侧场景、暖调灯笼微光与松弛浴衣坐姿的人物设定一致性。",
+    "prompt": "主題：\n満員電車の白シャツ\n\n主体：\n画面中央、混雑する通勤電車でつり革を握る白シャツ姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を右へ向け、視線を遠くへ流した暑さをこらえる落ち着いた表情。濃茶の髪を低いまとめ髪にし、濡れた薄い前髪と後れ毛を残す。\n\n服装・ポーズ：\n汗で透ける白いノースリーブ襟付きボタンシャツ、黒いハイウエストスカート、黒革ショルダーバッグ。右腕を真上へ伸ばして三角のつり革を握り、左腕を身体の横へ下ろして立つ。\n\n背景・光：\n画面左から画面右の背景に、画面左右と奥を埋める白シャツの乗客、銀のポール、つり革、蛍光灯の電車内。上方の柔らかな白色蛍光灯が顔と汗の光沢を均一に照らす。\n\n構図・カメラ：\n3:4の縦構図、胸の高さからの近い正面カメラで頭頂から腰下までの半身を収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。上げた腕と周囲の乗客を画面端で裁切し、横顔と白いシャツにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、黒、銀、肌色の通勤色を保つ。\n\nネガティブ：\nつり革姿勢変更；車内と白シャツ省略",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日本早高峰通勤电车、手握三角吊环微汗神情、透感无袖白衬衫与通勤黑裙装配色的连贯性。",
     "gallery_images": [
-      "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
-      "https://img.iceotter.com/characters/japanese-onsen-veranda-02.jpg",
-      "https://img.iceotter.com/characters/japanese-onsen-veranda-03.jpg",
-      "https://img.iceotter.com/characters/japanese-onsen-veranda-04.jpg"
+      "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
+      "https://img.iceotter.com/characters/commuter-train-strap-white-02.jpg",
+      "https://img.iceotter.com/characters/commuter-train-strap-white-03.jpg",
+      "https://img.iceotter.com/characters/commuter-train-strap-white-04.jpg"
     ]
   },
   {
@@ -1169,6 +1169,41 @@
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-02.jpg",
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-03.jpg",
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-04.jpg"
+    ]
+  },
+  {
+    "id": "japanese-onsen-veranda-portrait",
+    "title": "日式温泉旅馆缘侧写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2045092449803284923",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-272",
+    "preview_image": "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
+    "dimensions": {
+      "country": "日本",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "日式浴衣"
+    },
+    "tags": [
+      "35mm胶片",
+      "温泉旅馆",
+      "木质缘侧",
+      "暖调胶片",
+      "自然微光"
+    ],
+    "prompt": "35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日式温泉旅馆木质缘侧场景、暖调灯笼微光与松弛浴衣坐姿的人物设定一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-01.jpg",
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-02.jpg",
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-03.jpg",
+      "https://img.iceotter.com/characters/japanese-onsen-veranda-04.jpg"
     ]
   },
   {
@@ -1236,38 +1271,6 @@
       "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-02.jpg",
       "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-03.jpg",
       "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-04.jpg"
-    ]
-  },
-  {
-    "id": "sultry-glamour-black-lace-leopard",
-    "title": "Sultry Glamour: Black Lace & Leopard Elegance",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "source_url": "https://banana.iceotter.com/",
-    "preview_image": "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
-    "dimensions": {
-      "country": "东亚/高端室内",
-      "gender": "女性",
-      "scene": "现代轻奢公寓/大理石桌面",
-      "outfit": "黑色睫毛蕾丝深V挂脖上衣、拼接高腰豹纹裙、品牌双C耳环"
-    },
-    "tags": [
-      "纯欲主播",
-      "黑蕾丝挂脖",
-      "豹纹拼接",
-      "水光肌",
-      "大理石台面",
-      "9:16构图"
-    ],
-    "prompt": "{\n  \"subject\": {\n    \"identity\": \"Breathtakingly gorgeous East Asian live streamer in her early 20s, top-tier goddess visual, seductive and elegant charm\",\n    \"facial_features\": {\n      \"face_shape\": \"Delicate V-shaped jawline, small refined chin\",\n      \"skin\": \"Luminous pale porcelain glass-skin, radiant dewy glow, completely smooth\",\n      \"eyes\": \"Large expressive sparkling eyes, distinct double eyelids, prominent cute aegyo-sal\",\n      \"nose_and_lips\": \"Dainty sculpted straight nose, plump glossy gradient cherry-red lips, subtle blush\",\n      \"hair_and_jewelry\": \"Long silky straight jet-black hair parted in center falling gracefully, designer interlocking logo earrings\"\n    },\n    \"physique\": {\n      \"bust\": \"Extremely voluptuous, full bust with deep defined cleavage\",\n      \"torso\": \"Slender shoulders, graceful collarbones, narrow feminine waist\"\n    },\n    \"pose\": \"Seated indoors, leaning slightly forward toward the camera at a marble tabletop, captivating direct eye contact\"\n  },\n  \"attire\": {\n    \"top\": \"Sensual black halter plunge top with delicate sheer eyelash lace embroidery along deep V-neckline, accentuating chest curves\",\n    \"bottom_accent\": \"High-waisted leopard print dress section visible below the lace bustier\"\n  },\n  \"environment_and_lighting\": {\n    \"setting\": \"Modern luxury apartment interior, clean glass partition, marble countertop\",\n    \"lighting\": \"Soft warm flattering indoor ambient lighting, sparkling catchlights in eyes, subtle skin glow\",\n    \"camera\": \"Professional glamour portrait photography, 50mm f/1.4 lens, shallow depth of field, 9:16 vertical composition\"\n  },\n  \"negative_prompt\": \"phone screenshot, livestream UI, icons, play button, chat overlay, battery icon, text, watermark, rough skin, bad face, deformed hands, lowres, blurry\"\n}",
-    "flow_usage_tip": "在 Nano Banana Pro 中使用该提示词生成后，在后续分镜中可保持大光圈人像镜头下清透水光冷白皮、深 V 睫毛蕾丝挂脖上衣、高腰豹纹裙身与现代轻奢室内暖调光影的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
-      "https://img.iceotter.com/characters/black-lace-leopard-glamour-02.jpg",
-      "https://img.iceotter.com/characters/black-lace-leopard-glamour-03.jpg",
-      "https://img.iceotter.com/characters/black-lace-leopard-glamour-04.jpg"
     ]
   },
   {
@@ -1341,38 +1344,67 @@
     ]
   },
   {
-    "id": "commuter-train-strap-white-portrait",
-    "title": "Woman in white shirt grips strap on crowded commuter train",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
+    "id": "sultry-glamour-black-lace-leopard",
+    "title": "Sultry Glamour: Black Lace & Leopard Elegance",
     "aspect_ratio": "9:16",
-    "author": "@CyberTotal2026",
-    "source_url": "https://x.com/CyberTotal2026/status/2104514956846669959",
-    "preview_image": "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://banana.iceotter.com/",
+    "preview_image": "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
     "dimensions": {
-      "country": "日本",
+      "country": "东亚/高端室内",
       "gender": "女性",
-      "scene": "拥挤通勤电车",
-      "outfit": "微透白色无袖翻领衬衫与黑色高腰裙"
+      "scene": "现代轻奢公寓/大理石桌面",
+      "outfit": "黑色睫毛蕾丝深V挂脖上衣、拼接高腰豹纹裙、品牌双C耳环"
     },
     "tags": [
-      "通勤电车",
-      "电车吊环",
-      "微汗夏日",
-      "透光白衬衫",
-      "日系通勤",
+      "纯欲主播",
+      "黑蕾丝挂脖",
+      "豹纹拼接",
+      "水光肌",
+      "大理石台面",
       "9:16构图"
     ],
-    "prompt": "主題：\n満員電車の白シャツ\n\n主体：\n画面中央、混雑する通勤電車でつり革を握る白シャツ姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を右へ向け、視線を遠くへ流した暑さをこらえる落ち着いた表情。濃茶の髪を低いまとめ髪にし、濡れた薄い前髪と後れ毛を残す。\n\n服装・ポーズ：\n汗で透ける白いノースリーブ襟付きボタンシャツ、黒いハイウエストスカート、黒革ショルダーバッグ。右腕を真上へ伸ばして三角のつり革を握り、左腕を身体の横へ下ろして立つ。\n\n背景・光：\n画面左から画面右の背景に、画面左右と奥を埋める白シャツの乗客、銀のポール、つり革、蛍光灯の電車内。上方の柔らかな白色蛍光灯が顔と汗の光沢を均一に照らす。\n\n構図・カメラ：\n3:4の縦構図、胸の高さからの近い正面カメラで頭頂から腰下までの半身を収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。上げた腕と周囲の乗客を画面端で裁切し、横顔と白いシャツにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、黒、銀、肌色の通勤色を保つ。\n\nネガティブ：\nつり革姿勢変更；車内と白シャツ省略",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日本早高峰通勤电车、手握三角吊环微汗神情、透感无袖白衬衫与通勤黑裙装配色的连贯性。",
+    "prompt": "{\n  \"subject\": {\n    \"identity\": \"Breathtakingly gorgeous East Asian live streamer in her early 20s, top-tier goddess visual, seductive and elegant charm\",\n    \"facial_features\": {\n      \"face_shape\": \"Delicate V-shaped jawline, small refined chin\",\n      \"skin\": \"Luminous pale porcelain glass-skin, radiant dewy glow, completely smooth\",\n      \"eyes\": \"Large expressive sparkling eyes, distinct double eyelids, prominent cute aegyo-sal\",\n      \"nose_and_lips\": \"Dainty sculpted straight nose, plump glossy gradient cherry-red lips, subtle blush\",\n      \"hair_and_jewelry\": \"Long silky straight jet-black hair parted in center falling gracefully, designer interlocking logo earrings\"\n    },\n    \"physique\": {\n      \"bust\": \"Extremely voluptuous, full bust with deep defined cleavage\",\n      \"torso\": \"Slender shoulders, graceful collarbones, narrow feminine waist\"\n    },\n    \"pose\": \"Seated indoors, leaning slightly forward toward the camera at a marble tabletop, captivating direct eye contact\"\n  },\n  \"attire\": {\n    \"top\": \"Sensual black halter plunge top with delicate sheer eyelash lace embroidery along deep V-neckline, accentuating chest curves\",\n    \"bottom_accent\": \"High-waisted leopard print dress section visible below the lace bustier\"\n  },\n  \"environment_and_lighting\": {\n    \"setting\": \"Modern luxury apartment interior, clean glass partition, marble countertop\",\n    \"lighting\": \"Soft warm flattering indoor ambient lighting, sparkling catchlights in eyes, subtle skin glow\",\n    \"camera\": \"Professional glamour portrait photography, 50mm f/1.4 lens, shallow depth of field, 9:16 vertical composition\"\n  },\n  \"negative_prompt\": \"phone screenshot, livestream UI, icons, play button, chat overlay, battery icon, text, watermark, rough skin, bad face, deformed hands, lowres, blurry\"\n}",
+    "flow_usage_tip": "在 Nano Banana Pro 中使用该提示词生成后，在后续分镜中可保持大光圈人像镜头下清透水光冷白皮、深 V 睫毛蕾丝挂脖上衣、高腰豹纹裙身与现代轻奢室内暖调光影的连贯性。",
     "gallery_images": [
-      "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
-      "https://img.iceotter.com/characters/commuter-train-strap-white-02.jpg",
-      "https://img.iceotter.com/characters/commuter-train-strap-white-03.jpg",
-      "https://img.iceotter.com/characters/commuter-train-strap-white-04.jpg"
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-02.jpg",
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-03.jpg",
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-04.jpg"
+    ]
+  },
+  {
+    "id": "balancing-life-and-laughter-yoga-kitchen-table",
+    "title": "Balancing Life and Laughter: Yoga at the Kitchen Table",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1995519480974156069-balancing-life-and-laughter-yoga-at-the-kitchen-table/",
+    "preview_image": "https://img.iceotter.com/characters/kitchen-table-yoga-balance-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/kitchen-table-yoga-balance-01.jpg",
+    "dimensions": {
+      "country": "欧美/居家",
+      "gender": "女性",
+      "scene": "温馨厨房餐桌/母亲背景",
+      "outfit": "白色螺纹修身连体瑜伽服"
+    },
+    "tags": [
+      "高难度瑜伽",
+      "餐桌倒立",
+      "幽默生活抓拍",
+      "连体瑜伽服",
+      "真实生活感",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"type\": \"photo_edit\",\n  \"version\": 1,\n  \"input_image\": \"USER_REFERENCE_IMAGE_HERE\",\n  \"prompt\": \"highly realistic candid indoor photo of the same young woman from the original fridge image, wearing the same tight white ribbed one-piece bodysuit, same hairstyle and tattoos, in the same cozy kitchen-dining space with the fridge and warm indoor lighting. Now she is on top of the dining table doing an advanced yoga forearm balance pose inspired by the reference: forearms and elbows on the table, shoulders stacked over elbows, back arched, hips high in the air, legs bent and extended in a graceful split-like curve, toes pointed. The wooden dining table is clear enough to hold her, with some everyday items around like plates or a mug. In the background, her elderly mother is sitting at the dining table or just behind it, holding a cane, watching her with a surprised, slightly amused and confused expression, not cruel, just shocked and skeptical. Keep the mother clearly older with gentle wrinkles, gray hair, simple home clothes. Keep the same warm cozy indoor lighting, fridge light and kitchen details, realistic shadows and highlights, natural color grading. The camera angle is similar to the original fridge photo, phone-level perspective. Add subtle fine film grain and light digital noise like a real phone photo, very realistic, no stylization, no text or logos, natural human proportions.\",\n  \"negative_prompt\": \"mocking or cruel expressions towards the elderly woman, humiliation, caricature features, extra limbs, distorted anatomy, deformed hands, plastic skin, over-smooth airbrushed skin, cartoon, illustration, painting, anime, 3d render, heavy blur, very low resolution, exaggerated body parts, nudity, see-through clothing, wardrobe malfunction, logos, text, watermark, frame, border\",\n  \"style\": {\n    \"realism_level\": \"photo_realistic\",\n    \"aesthetic\": \"cozy_real_life\",\n    \"color_grade\": \"natural_warm_indoor\",\n    \"skin_detail\": \"high\",\n    \"film_grain\": \"subtle\",\n    \"digital_noise\": \"subtle\",\n    \"sharpness\": \"medium\"\n  },\n  \"camera\": {\n    \"angle\": \"slightly_off_center_eye_level\",\n    \"framing\": \"full_body_with_table_and_mother_in_background\",\n    \"focal_length_mm\": 26,\n    \"depth_of_field\": \"medium\",\n    \"focus_point\": \"young_woman_on_table\",\n    \"lighting\": \"soft_indoor_with_kitchen_lights\"\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 作为 photo_edit 模式生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持真实手机抓拍生活质感、同一人物的白色螺纹紧身连衣瑜伽服与发型纹身特征、背景母亲神情及温馨厨房光影的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-01.jpg",
+      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-02.jpg",
+      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-03.jpg",
+      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-04.jpg"
     ]
   },
   {
@@ -1409,38 +1441,6 @@
       "https://img.iceotter.com/characters/goth-unicorn-ride-02.jpg",
       "https://img.iceotter.com/characters/goth-unicorn-ride-03.jpg",
       "https://img.iceotter.com/characters/goth-unicorn-ride-04.jpg"
-    ]
-  },
-  {
-    "id": "balancing-life-and-laughter-yoga-kitchen-table",
-    "title": "Balancing Life and Laughter: Yoga at the Kitchen Table",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1995519480974156069-balancing-life-and-laughter-yoga-at-the-kitchen-table/",
-    "preview_image": "https://img.iceotter.com/characters/kitchen-table-yoga-balance-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/kitchen-table-yoga-balance-01.jpg",
-    "dimensions": {
-      "country": "欧美/居家",
-      "gender": "女性",
-      "scene": "温馨厨房餐桌/母亲背景",
-      "outfit": "白色螺纹修身连体瑜伽服"
-    },
-    "tags": [
-      "高难度瑜伽",
-      "餐桌倒立",
-      "幽默生活抓拍",
-      "连体瑜伽服",
-      "真实生活感",
-      "9:16构图"
-    ],
-    "prompt": "{\n  \"type\": \"photo_edit\",\n  \"version\": 1,\n  \"input_image\": \"USER_REFERENCE_IMAGE_HERE\",\n  \"prompt\": \"highly realistic candid indoor photo of the same young woman from the original fridge image, wearing the same tight white ribbed one-piece bodysuit, same hairstyle and tattoos, in the same cozy kitchen-dining space with the fridge and warm indoor lighting. Now she is on top of the dining table doing an advanced yoga forearm balance pose inspired by the reference: forearms and elbows on the table, shoulders stacked over elbows, back arched, hips high in the air, legs bent and extended in a graceful split-like curve, toes pointed. The wooden dining table is clear enough to hold her, with some everyday items around like plates or a mug. In the background, her elderly mother is sitting at the dining table or just behind it, holding a cane, watching her with a surprised, slightly amused and confused expression, not cruel, just shocked and skeptical. Keep the mother clearly older with gentle wrinkles, gray hair, simple home clothes. Keep the same warm cozy indoor lighting, fridge light and kitchen details, realistic shadows and highlights, natural color grading. The camera angle is similar to the original fridge photo, phone-level perspective. Add subtle fine film grain and light digital noise like a real phone photo, very realistic, no stylization, no text or logos, natural human proportions.\",\n  \"negative_prompt\": \"mocking or cruel expressions towards the elderly woman, humiliation, caricature features, extra limbs, distorted anatomy, deformed hands, plastic skin, over-smooth airbrushed skin, cartoon, illustration, painting, anime, 3d render, heavy blur, very low resolution, exaggerated body parts, nudity, see-through clothing, wardrobe malfunction, logos, text, watermark, frame, border\",\n  \"style\": {\n    \"realism_level\": \"photo_realistic\",\n    \"aesthetic\": \"cozy_real_life\",\n    \"color_grade\": \"natural_warm_indoor\",\n    \"skin_detail\": \"high\",\n    \"film_grain\": \"subtle\",\n    \"digital_noise\": \"subtle\",\n    \"sharpness\": \"medium\"\n  },\n  \"camera\": {\n    \"angle\": \"slightly_off_center_eye_level\",\n    \"framing\": \"full_body_with_table_and_mother_in_background\",\n    \"focal_length_mm\": 26,\n    \"depth_of_field\": \"medium\",\n    \"focus_point\": \"young_woman_on_table\",\n    \"lighting\": \"soft_indoor_with_kitchen_lights\"\n  }\n}",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 作为 photo_edit 模式生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持真实手机抓拍生活质感、同一人物的白色螺纹紧身连衣瑜伽服与发型纹身特征、背景母亲神情及温馨厨房光影的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-01.jpg",
-      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-02.jpg",
-      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-03.jpg",
-      "https://img.iceotter.com/characters/kitchen-table-yoga-balance-04.jpg"
     ]
   }
 ]
