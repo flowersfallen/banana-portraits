@@ -1346,5 +1346,37 @@
       "https://img.iceotter.com/characters/night-market-royal-blue-03.jpg",
       "https://img.iceotter.com/characters/night-market-royal-blue-04.jpg"
     ]
+  },
+  {
+    "id": "cinematic-charm-modern-film-noir-portrait",
+    "title": "Cinematic Charm: A Modern Film Noir Portrait",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994360675217408267-cinematic-charm-a-modern-film-noir-portrait/",
+    "preview_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+    "dimensions": {
+      "country": "东亚/室内",
+      "gender": "女性",
+      "scene": "极简灰色客厅/直闪高角度自拍",
+      "outfit": "质感灰色泡泡袖褶皱连衣裙、白色布艺缎带头饰、'A'字吊坠项链"
+    },
+    "tags": [
+      "现代黑色电影",
+      "直闪自拍",
+      "泡泡袖连衣裙",
+      "白色缎带",
+      "冷调微醺",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"generation_task\": {\n    \"title\": \"Cinematic Flash Selfie - Film Noir Style\",\n    \"version\": \"2.0\",\n    \"strict_constraints\": {\n      \"face_preservation\": \"Face must remain 100% unaltered from reference.\",\n      \"lighting_type\": \"Direct on-camera flash only.\",\n      \"view_angle\": \"High-angle (approx. 30 degrees).\"\n    },\n    \"prompt_components\": {\n      \"subject\": {\n        \"demographics\": \"Beautiful woman\",\n        \"hair\": {\n          \"style\": \"Long, wavy, tied half-up\",\n          \"accessory\": \"White cloth ribbon knotted at top of head\",\n          \"details\": \"Thin bangs framing the face\"\n        },\n        \"facial_features\": {\n          \"skin\": \"Shiny texture (due to flash), small freckles on nose and upper cheeks\",\n          \"makeup\": {\n            \"style\": \"Doll-like\",\n            \"lips\": \"Matte, blurred, muted rose tone\",\n            \"cheeks\": \"Soft pink blush on cheeks and nose\",\n            \"eyes\": \"Long curled eyelashes, thin eyeliner with subtle wing\"\n          }\n        },\n        \"wardrobe\": {\n          \"clothing\": \"Textured gray dress, puff sleeves, ruffle details\",\n          \"jewelry\": \"Simple necklace with 'A' pendant\"\n        },\n        \"hands\": {\n          \"pose\": \"Index finger touching cheek\",\n          \"nails\": \"Almond-shaped, blue base, small soft-sparkle crystals\"\n        },\n        \"expression\": {\n          \"type\": \"Pouting, cute, dreamy, slightly cheerful\",\n          \"vibe\": \"Charming with cinematic feel\"\n        }\n      },\n      \"environment\": {\n        \"location\": \"Minimalist gray living room\",\n        \"lighting_condition\": \"Dimly lit room\",\n        \"background_visibility\": \"Dark, falling into shadow behind the subject\"\n      },\n      \"technical_specs\": {\n        \"camera_type\": \"Digital camera simulating 35mm analog film\",\n        \"lighting_setup\": \"Strong direct camera flash (harsh light)\",\n        \"contrast\": \"High contrast (Chiaroscuro), bright face vs. dark background\",\n        \"angle\": \"High-angle selfie, 30 degrees elevation\",\n        \"color_grading\": \"Cool tones, muted colors, soft textures\"\n      },\n      \"artistic_style\": {\n        \"genre\": \"Film noir elegance mixed with modern casualness\",\n        \"texture_quality\": \"Ultra-realistic, 8k, detailed skin pores, hair strands, and fabric weave\",\n        \"atmosphere\": \"Cold light reflection, modern warmth\"\n      }\n    },\n    \"compiled_prompts\": {\n      \"stable_diffusion_format\": \"high angle selfie, 30 degree angle, beautiful woman, long wavy hair half-up with white ribbon knot, thin bangs, doll-like makeup, matte rose lips, soft blush, freckles, textured gray dress puff sleeves, 'A' pendant, blue almond nails with crystals, pouting expression finger on cheek, strong direct camera flash, dark minimalist gray living room, film noir aesthetic, cool tones, shiny skin texture, high contrast, ultra-realistic, 8k, highly detailed --no altered face, warm lighting, vector, painting\",\n      \"midjourney_format\": \"/imagine prompt: extreme close-up high-angle selfie of a woman with white ribbon in wavy hair :: textured gray dress with puff sleeves :: doll-like makeup, matte rose lips, blue nails with crystals :: strong direct flash photography, dim room, film noir elegance, cool tones, shiny skin texture, sharp contrast :: shot on 35mm analog, photorealistic, 8k --ar 4:5 --stylize 250 --v 6.0\"\n    }\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持直闪强光阴影对比（Chiaroscuro）、极简暗调背景与冷灰胶片色调，以及灰色泡泡袖连衣裙、白色缎带半扎发与食指轻点脸颊自拍动作的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-02.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-03.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-04.jpg"
+    ]
   }
 ]
