@@ -1410,5 +1410,37 @@
       "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-03.jpg",
       "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-04.jpg"
     ]
+  },
+  {
+    "id": "sultry-glamour-black-lace-leopard",
+    "title": "Sultry Glamour: Black Lace & Leopard Elegance",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://banana.iceotter.com/",
+    "preview_image": "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
+    "dimensions": {
+      "country": "东亚/高端室内",
+      "gender": "女性",
+      "scene": "现代轻奢公寓/大理石桌面",
+      "outfit": "黑色睫毛蕾丝深V挂脖上衣、拼接高腰豹纹裙、品牌双C耳环"
+    },
+    "tags": [
+      "纯欲主播",
+      "黑蕾丝挂脖",
+      "豹纹拼接",
+      "水光肌",
+      "大理石台面",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"subject\": {\n    \"identity\": \"Breathtakingly gorgeous East Asian live streamer in her early 20s, top-tier goddess visual, seductive and elegant charm\",\n    \"facial_features\": {\n      \"face_shape\": \"Delicate V-shaped jawline, small refined chin\",\n      \"skin\": \"Luminous pale porcelain glass-skin, radiant dewy glow, completely smooth\",\n      \"eyes\": \"Large expressive sparkling eyes, distinct double eyelids, prominent cute aegyo-sal\",\n      \"nose_and_lips\": \"Dainty sculpted straight nose, plump glossy gradient cherry-red lips, subtle blush\",\n      \"hair_and_jewelry\": \"Long silky straight jet-black hair parted in center falling gracefully, designer interlocking logo earrings\"\n    },\n    \"physique\": {\n      \"bust\": \"Extremely voluptuous, full bust with deep defined cleavage\",\n      \"torso\": \"Slender shoulders, graceful collarbones, narrow feminine waist\"\n    },\n    \"pose\": \"Seated indoors, leaning slightly forward toward the camera at a marble tabletop, captivating direct eye contact\"\n  },\n  \"attire\": {\n    \"top\": \"Sensual black halter plunge top with delicate sheer eyelash lace embroidery along deep V-neckline, accentuating chest curves\",\n    \"bottom_accent\": \"High-waisted leopard print dress section visible below the lace bustier\"\n  },\n  \"environment_and_lighting\": {\n    \"setting\": \"Modern luxury apartment interior, clean glass partition, marble countertop\",\n    \"lighting\": \"Soft warm flattering indoor ambient lighting, sparkling catchlights in eyes, subtle skin glow\",\n    \"camera\": \"Professional glamour portrait photography, 50mm f/1.4 lens, shallow depth of field, 9:16 vertical composition\"\n  },\n  \"negative_prompt\": \"phone screenshot, livestream UI, icons, play button, chat overlay, battery icon, text, watermark, rough skin, bad face, deformed hands, lowres, blurry\"\n}",
+    "flow_usage_tip": "在 Nano Banana Pro 中使用该提示词生成后，在后续分镜中可保持大光圈人像镜头下清透水光冷白皮、深 V 睫毛蕾丝挂脖上衣、高腰豹纹裙身与现代轻奢室内暖调光影的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-01.jpg",
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-02.jpg",
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-03.jpg",
+      "https://img.iceotter.com/characters/black-lace-leopard-glamour-04.jpg"
+    ]
   }
 ]
