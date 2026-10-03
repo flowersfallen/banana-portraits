@@ -1122,5 +1122,37 @@
       "https://img.iceotter.com/characters/zootopia-dreamscape-plush-03.jpg",
       "https://img.iceotter.com/characters/zootopia-dreamscape-plush-04.jpg"
     ]
+  },
+  {
+    "id": "candid-nights-embracing-the-city-vibe",
+    "title": "Candid Nights: Embracing the City Vibe",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1992985230303527355-candid-nights-embracing-the-city-vibe/",
+    "preview_image": "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
+    "dimensions": {
+      "country": "东亚/街头",
+      "gender": "女性",
+      "scene": "夜晚城市街头/明黄法拉利F8",
+      "outfit": "军绿色V领针织短款背心、黑色短裤、NB 530运动鞋"
+    },
+    "tags": [
+      "夜景街拍",
+      "闪光灯胶片",
+      "法拉利F8",
+      "35mm胶片",
+      "工装休闲",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"image_metadata\": {\n    \"resolution\": \"1200x1200px\",\n    \"genre\": \"Candid street portrait\",\n    \"editing_note\": \"Face edited without alteration to features\"\n  },\n  \"photography_style\": {\n    \"medium\": \"Analog 35mm film-style\",\n    \"overall_aesthetic\": [\n      \"raw\",\n      \"nostalgic\",\n      \"gritty\"\n    ],\n    \"visual_artifacts\": {\n      \"grain\": \"Subtle but distinct film grain visible throughout frame\",\n      \"bokeh\": \"Soft in background\"\n    },\n    \"color_grade\": {\n      \"palette\": \"Muted and slightly warm\",\n      \"contrast\": \"High contrast (typical of flash)\"\n    }\n  },\n  \"lighting_characteristics\": {\n    \"primary_source\": {\n      \"type\": \"Camera flash\",\n      \"direction\": \"Direct, shining on face and body\"\n    },\n    \"effects_on_subject\": {\n      \"highlights\": \"Strong\",\n      \"shadows\": \"Sharp, cast behind subject\",\n      \"skin_glow\": \"Slight glow from flash\"\n    },\n    \"ambient_light\": {\n      \"level\": \"Minimal\",\n      \"sources\": [\n        \"streetlights\",\n        \"car headlights\",\n        \"neon signs\"\n      ],\n      \"appearance\": \"Blurred and slightly halated\"\n    }\n  },\n  \"subject_details\": {\n    \"pose\": {\n      \"stance\": \"Leaning next to vehicle\",\n      \"arms\": \"Folded across chest\",\n      \"style\": \"Natural, candid\"\n    },\n    \"expression\": \"Slight smile towards the camera\",\n    \"features\": {\n      \"skin_texture\": \"Natural\"\n    },\n    \"attire\": {\n      \"top\": \"Army green V-neck knit crop vest\",\n      \"bottom\": \"Black shorts\",\n      \"footwear\": \"White-grey New Balance 530 sneakers\"\n    }\n  },\n  \"environmental_context\": {\n    \"time_of_day\": \"Night\",\n    \"setting\": \"Dark city street\",\n    \"key_elements\": {\n      \"foreground_object\": \"Bright yellow Ferrari F8\",\n      \"background\": {\n        \"brightness\": \"Dark\",\n        \"noise_level\": \"Minimal\"\n      }\n    }\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 35mm 胶片夜景直闪光影、亮黄色法拉利跑车前景与暗调城市街道，以及军绿色 V 领针织背心、黑色短裤与 NB 530 跑鞋的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-01.jpg",
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-02.jpg",
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-03.jpg",
+      "https://img.iceotter.com/characters/candid-nights-city-vibe-04.jpg"
+    ]
   }
 ]
