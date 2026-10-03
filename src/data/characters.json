@@ -1186,5 +1186,37 @@
       "https://img.iceotter.com/characters/modern-pub-charming-vibes-03.jpg",
       "https://img.iceotter.com/characters/modern-pub-charming-vibes-04.jpg"
     ]
+  },
+  {
+    "id": "breezy-elegance-on-the-walkway",
+    "title": "Breezy Elegance on the Walkway",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1992863330726203428-breezy-elegance-on-the-walkway/",
+    "preview_image": "https://img.iceotter.com/characters/walkway-breezy-elegance-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/walkway-breezy-elegance-01.jpg",
+    "dimensions": {
+      "country": "东亚/都市",
+      "gender": "女性",
+      "scene": "户外步道/自然阳光",
+      "outfit": "黑色运动背心Crop top、黑色阔腿牛仔裤露出CK边、巴黎世家机车包"
+    },
+    "tags": [
+      "时尚大片",
+      "自然阳光",
+      "巴黎世家机车包",
+      "CK内边",
+      "运动混搭",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"image_generation_parameters\": {\n    \"resolution\": \"1200x1200px\",\n    \"aspect_ratio\": \"1:1\",\n    \"reference_usage\": \"Preserve facial features from reference image strictly\"\n  },\n  \"visual_style\": {\n    \"genre\": \"High-fashion editorial, realistic portrait\",\n    \"technique\": \"Natural sunlight photography\",\n    \"atmosphere\": \"Dreamy, gentle elegance, soft cinematic feel\",\n    \"lighting\": \"Sunlight streaming from left, creating sharp highlights on hair and skin against slightly darkened background\"\n  },\n  \"subject_breakdown\": {\n    \"appearance\": {\n      \"hair\": \"Long dark brown hair 👤, flowing to waist, loose Korean-style curls at ends, small strands across face\",\n      \"expression\": \"Dreamy, confident, slightly cheerful 📸📀 🙅🏻♀️💁🏻♀️🧏🏻♀️\",\n      \"makeup\": \"Natural makeup 💄💋, rosy cheeks, thin eyeliner, mascara, pink-orange lip gloss\"\n    },\n    \"pose\": \"Right arm slightly lifted, left arm holding black Balenciaga City bag / sitting sideways resting chin on hand / talking on phone naturally\",\n    \"outfit\": \"Black sports bra crop top 👚👗👙🩲, wide-leg black jeans showing white Calvin Klein waistband, silver short necklace (LV pendant), small thick hoop earrings, minimal silver ring\"\n  },\n  \"lighting_and_effects\": {\n    \"lighting\": \"Natural sunlight 🌌 from front–side highlighting cheeks and nose tip\",\n    \"effects\": \"Cinematic lighting 🎞️🎞️, ultra HD 👑✨, hyper-realistic, sharp textures, stunning light and shadow effect\"\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持侧逆自然阳光光影、清冷高级时装杂志感，以及黑色运动背心、露 CK 裤头的黑色阔腿裤与巴黎世家机车包的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/walkway-breezy-elegance-01.jpg",
+      "https://img.iceotter.com/characters/walkway-breezy-elegance-02.jpg",
+      "https://img.iceotter.com/characters/walkway-breezy-elegance-03.jpg",
+      "https://img.iceotter.com/characters/walkway-breezy-elegance-04.jpg"
+    ]
   }
 ]
