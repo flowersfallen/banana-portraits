@@ -111,9 +111,9 @@ export default function Home() {
           allPrompts={allPrompts}
         />
 
-        {/* Masonry Waterfall Gallery Grid */}
+        {/* Left-to-right Grid Gallery */}
         {filteredPrompts.length > 0 ? (
-          <div className="mt-4 sm:mt-6 columns-2 md:columns-3 lg:columns-4 gap-3 sm:gap-4 [column-fill:_balance]">
+          <div className="mt-4 sm:mt-6 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
             {filteredPrompts.map((item) => (
               <PromptCard
                 key={item.id}

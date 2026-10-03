@@ -24,7 +24,7 @@ export const PromptCard: React.FC<PromptCardProps> = ({ item, onSelect }) => {
   return (
     <div
       onClick={() => onSelect(item)}
-      className="group relative cursor-pointer break-inside-avoid rounded-xl sm:rounded-2xl overflow-hidden bg-white border border-neutral-200/80 shadow-[0_2px_12px_rgba(0,0,0,0.03)] hover:shadow-[0_12px_36px_rgba(0,0,0,0.08)] transition-all duration-300 flex flex-col mb-3 sm:mb-4"
+      className="group relative cursor-pointer rounded-xl sm:rounded-2xl overflow-hidden bg-white border border-neutral-200/80 shadow-[0_2px_12px_rgba(0,0,0,0.03)] hover:shadow-[0_12px_36px_rgba(0,0,0,0.08)] transition-all duration-300 flex flex-col h-full"
     >
       {/* Image Container */}
       <div className="relative w-full overflow-hidden bg-neutral-100 aspect-[3/4]">
