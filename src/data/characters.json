@@ -1239,41 +1239,6 @@
     ]
   },
   {
-    "id": "blonde-bed-prone-cozy-selfie-portrait",
-    "title": "Cozy Bedroom Selfie of Blonde Woman Lying Prone on Bed",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@PromptHero Community",
-    "source_url": "https://prompthero.com/prompt/4e26f5257db-chatgpt-image-gpt-image-2-sora-type-bedroominterior-lighting-naturaldaylight-atmosphere-casual-cozy-domestic-subjectpose-position-lyingproneonbed-orientation-facingcamera-legs-kneesbentupwards-anklescrossed-arms-leftarmextendedforselfie-head",
-    "preview_image": "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-01.jpg",
-    "dimensions": {
-      "country": "欧美/居家",
-      "gender": "女性",
-      "scene": "温馨采光卧室大床",
-      "outfit": "浅粉罗纹细肩带背心、红色荷叶边短裤与白袜"
-    },
-    "tags": [
-      "卧室俯拍",
-      "床上午后",
-      "金发自拍",
-      "居家慵懒",
-      "TOML结构化提示词",
-      "9:16构图"
-    ],
-    "prompt": "(SORA)\ntype = bedroom_interior\nlighting = natural_daylight\natmosphere = casual, cozy, domestic\n\n[subject.pose]\nposition = lying_prone_on_bed\norientation = facing_camera\nlegs = knees_bent_upwards, ankles_crossed\narms = left_arm_extended_for_selfie\nhead = resting_on_pillow\n\n[subject.appearance]\nhair = long, straight, blonde\nexpression = gentle_smile, direct_eye_contact\ncomplexion = fair, rosy_cheeks\n\n[subject.attire.top]\nitem = tank_top\ncolor = light_pink\ntexture = ribbed\nstyle = spaghetti_straps\n\n[subject.attire.bottom]\nitem = lounge_shorts\ncolor = red\ndetails = ruffled_hem, scrunched_texture\n\n[subject.attire.accessories]\nfeet = white_crew_socks\n\n[environment.bedding]\nsheets = white, rumpled\npillows = white_with_floral_pattern\nduvet = white, puffy\n\n[environment.background_elements.windows]\nquantity = 2\nfeatures = white_frames, horizontal_blinds\n\n[environment.background_elements.furniture.side_table]\nlocation = left_side\nvisible_items = skincare_products, pink_mug, small_potted_plant, tissues\n\n[composition]\nangle = high_angle_selfie\nframing = medium_shot\nfocus = sharp_subject, soft_background\nironically large bust and hips",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持明亮自然漫射光的温馨卧室场景、俯角自拍与趴卧交叉小腿的惬意动作，以及粉色细肩带与红色褶边居家服的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-01.jpg",
-      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-02.jpg",
-      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-03.jpg",
-      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-04.jpg"
-    ]
-  },
-  {
     "id": "autumn-lake-wooden-boat-black-dress-portrait",
     "title": "Woman in black dress sits on wooden boat on calm autumn lake",
     "category": "character",
@@ -1306,6 +1271,41 @@
       "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-02.jpg",
       "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-03.jpg",
       "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-04.jpg"
+    ]
+  },
+  {
+    "id": "blonde-bed-prone-cozy-selfie-portrait",
+    "title": "Cozy Bedroom Selfie of Blonde Woman Lying Prone on Bed",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@PromptHero Community",
+    "source_url": "https://prompthero.com/prompt/4e26f5257db-chatgpt-image-gpt-image-2-sora-type-bedroominterior-lighting-naturaldaylight-atmosphere-casual-cozy-domestic-subjectpose-position-lyingproneonbed-orientation-facingcamera-legs-kneesbentupwards-anklescrossed-arms-leftarmextendedforselfie-head",
+    "preview_image": "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-01.jpg",
+    "dimensions": {
+      "country": "欧美/居家",
+      "gender": "女性",
+      "scene": "温馨采光卧室大床",
+      "outfit": "浅粉罗纹细肩带背心、红色荷叶边短裤与白袜"
+    },
+    "tags": [
+      "卧室俯拍",
+      "床上午后",
+      "金发自拍",
+      "居家慵懒",
+      "TOML结构化提示词",
+      "9:16构图"
+    ],
+    "prompt": "(SORA)\ntype = bedroom_interior\nlighting = natural_daylight\natmosphere = casual, cozy, domestic\n\n[subject.pose]\nposition = lying_prone_on_bed\norientation = facing_camera\nlegs = knees_bent_upwards, ankles_crossed\narms = left_arm_extended_for_selfie\nhead = resting_on_pillow\n\n[subject.appearance]\nhair = long, straight, blonde\nexpression = gentle_smile, direct_eye_contact\ncomplexion = fair, rosy_cheeks\n\n[subject.attire.top]\nitem = tank_top\ncolor = light_pink\ntexture = ribbed\nstyle = spaghetti_straps\n\n[subject.attire.bottom]\nitem = lounge_shorts\ncolor = red\ndetails = ruffled_hem, scrunched_texture\n\n[subject.attire.accessories]\nfeet = white_crew_socks\n\n[environment.bedding]\nsheets = white, rumpled\npillows = white_with_floral_pattern\nduvet = white, puffy\n\n[environment.background_elements.windows]\nquantity = 2\nfeatures = white_frames, horizontal_blinds\n\n[environment.background_elements.furniture.side_table]\nlocation = left_side\nvisible_items = skincare_products, pink_mug, small_potted_plant, tissues\n\n[composition]\nangle = high_angle_selfie\nframing = medium_shot\nfocus = sharp_subject, soft_background\nironically large bust and hips",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持明亮自然漫射光的温馨卧室场景、俯角自拍与趴卧交叉小腿的惬意动作，以及粉色细肩带与红色褶边居家服的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-01.jpg",
+      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-02.jpg",
+      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-03.jpg",
+      "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-04.jpg"
     ]
   },
   {
