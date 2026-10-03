@@ -9,7 +9,7 @@
     "aspect_ratio": "9:16",
     "author": "@john_my07",
     "source_url": "https://x.com/john_my07/status/2054573350199111928",
-    "preview_image": "https://img.gptimage2prompt.net/prompt-images/repo4/hoodie.jpg",
+    "preview_image": "https://img.iceotter.com/characters/korean-hoodie-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/korean-hoodie-01.jpg",
     "dimensions": {
       "country": "韩国",
@@ -44,7 +44,7 @@
     "aspect_ratio": "9:16",
     "author": "@BubbleBrain",
     "source_url": "https://x.com/BubbleBrain/status/2046518189509734903",
-    "preview_image": "https://img.gptimage2prompt.net/prompt-images/repo2/soft-black-mist-idol-portrait.jpg",
+    "preview_image": "https://img.iceotter.com/characters/soft-black-mist-idol-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/soft-black-mist-idol-01.jpg",
     "dimensions": {
       "country": "韩国",
@@ -79,7 +79,7 @@
     "aspect_ratio": "9:16",
     "author": "@BubbleBrain",
     "source_url": "https://x.com/BubbleBrain/status/2046502288102170757",
-    "preview_image": "https://img.gptimage2prompt.net/prompt-images/repo2/fujifilm-couple-portrait.jpg",
+    "preview_image": "https://img.iceotter.com/characters/fujifilm-couple-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/fujifilm-couple-01.jpg",
     "dimensions": {
       "country": "日本",
@@ -116,7 +116,7 @@
     "source_url": "https://x.com/kingofdairyque/status/1991780760030961768?s=20",
     "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/nb-1990s-camera-style-portrait.md",
     "web_url": "https://awesomeprompts.xyz/prompt/portraits/nb-1990s-camera-style-portrait",
-    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/nb-1990s-camera-style-portrait.webp",
+    "preview_image": "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/1990s-camera-portrait-01.jpg",
     "dimensions": {
       "country": "东亚",
@@ -147,11 +147,11 @@
     "status": "verified",
     "source_model": "Nano Banana (Google Flow)",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "3:4",
+    "aspect_ratio": "9:16",
     "author": "@saniaspeaks_ (via awesome-gpt-image-2-5-prompts)",
     "source_url": "https://x.com/saniaspeaks_/status/2097532595814940683",
     "github_url": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts#case-coastal-abbey-travel-portrait",
-    "preview_image": "https://pbs.twimg.com/media/HRvuwVcasAAwAwf?format=jpg&name=900x900",
+    "preview_image": "https://img.iceotter.com/characters/coastal-abbey-travel-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/coastal-abbey-travel-01.jpg",
     "dimensions": {
       "country": "东亚",
@@ -186,7 +186,7 @@
     "author": "BubbleBrain (via awesome-gpt-image-2-5-prompts)",
     "source_url": "https://x.com/BubbleBrain/status/2098315158997307550",
     "github_url": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts#case-nineties-japanese-ccd-photo",
-    "preview_image": "https://pbs.twimg.com/media/HR62IojbwAAfQ9w?format=jpg&name=medium",
+    "preview_image": "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
     "dimensions": {
       "country": "韩国",
@@ -222,7 +222,7 @@
     "source_url": "https://x.com/kingofdairyque/status/1994028996816982182",
     "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait.md",
     "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait",
-    "preview_image": "https://raw.githubusercontent.com/samuxbuilds/awesome-prompts/main/public/media/portraits/pg-1994028996816982182.webp",
+    "preview_image": "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
     "dimensions": {
       "country": "东亚",
@@ -257,7 +257,7 @@
     "author": "@BubbleBrain (via magiccreator-ai)",
     "source_url": "https://x.com/BubbleBrain/status/2044846335728467996",
     "github_url": "https://github.com/magiccreator-ai/awesome-gpt-image-2-prompts#white-studio-tennis-portrait",
-    "preview_image": "https://pbs.twimg.com/media/HGDAtXuaAAASgnW.jpg",
+    "preview_image": "https://img.iceotter.com/characters/white-studio-tennis-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/white-studio-tennis-01.jpg",
     "dimensions": {
       "country": "韩国",
@@ -323,7 +323,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "2:3",
+    "aspect_ratio": "9:16",
     "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
     "source_url": "https://x.com/BubbleBrain/status/2052217544388546827",
     "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-399",
@@ -675,7 +675,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "4:5",
+    "aspect_ratio": "9:16",
     "author": "@CyberTotal2026",
     "source_url": "https://x.com/CyberTotal2026/status/2104169430393532694",
     "preview_image": "https://img.iceotter.com/characters/bus-window-afternoon-white-01.jpg",
@@ -692,7 +692,7 @@
       "静谧侧颜",
       "透光白衣",
       "日系纪实",
-      "4:5构图"
+      "9:16构图"
     ],
     "prompt": "主題：\nバス窓の白い午後\n\n主体：\n画面中央から右、日本の路線バスの窓側席に座る白い服の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を左へ向け、視線を窓の外へ流した静かな横顔。濃茶の長いストレート髪を下ろし、薄い前髪と耳元の毛束を残す。\n\n服装・ポーズ：\n白い透け感のある細肩紐トップと白いボトム、下に茶色のブラトップ。青い座席へ腰掛け、背を窓側へ預け、両手を腿付近へ置く。\n\n背景・光：\n青い布張り座席、手すり、案内表示を持つ日本のバス車内、窓外に街並み。画面左の大窓から強い午後の直射日光が顔と白布を照らす。\n\n構図・カメラ：\n4:5の縦構図、通路側からの目線高さの斜めカメラで頭頂から腿までの三分身を収めるポートレート。人物を右寄りへ大きく配置。座席と腿を下端で裁切し、横顔と透ける白い衣装にピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、青、茶、日差しの金色を保つ。\n\nネガティブ：\n車内を別空間へ変更；窓を見る横顔変更",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日本巴士车窗斜阳照射、静谧侧颜流转眼神、白色透感细吊带与蓝色布艺座椅配色的连贯性。",
@@ -710,7 +710,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "3:4",
+    "aspect_ratio": "9:16",
     "author": "@CyberTotal2026",
     "source_url": "https://x.com/CyberTotal2026/status/2104514956846669959",
     "preview_image": "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
@@ -727,7 +727,7 @@
       "微汗夏日",
       "透光白衬衫",
       "日系通勤",
-      "3:4构图"
+      "9:16构图"
     ],
     "prompt": "主題：\n満員電車の白シャツ\n\n主体：\n画面中央、混雑する通勤電車でつり革を握る白シャツ姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を右へ向け、視線を遠くへ流した暑さをこらえる落ち着いた表情。濃茶の髪を低いまとめ髪にし、濡れた薄い前髪と後れ毛を残す。\n\n服装・ポーズ：\n汗で透ける白いノースリーブ襟付きボタンシャツ、黒いハイウエストスカート、黒革ショルダーバッグ。右腕を真上へ伸ばして三角のつり革を握り、左腕を身体の横へ下ろして立つ。\n\n背景・光：\n画面左から画面右の背景に、画面左右と奥を埋める白シャツの乗客、銀のポール、つり革、蛍光灯の電車内。上方の柔らかな白色蛍光灯が顔と汗の光沢を均一に照らす。\n\n構図・カメラ：\n3:4の縦構図、胸の高さからの近い正面カメラで頭頂から腰下までの半身を収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。上げた腕と周囲の乗客を画面端で裁切し、横顔と白いシャツにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、黒、银、肌色の通勤色を保つ。\n\nネガティブ：\nつり革姿勢変更；車内と白シャツ省略",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日本早高峰通勤电车、手握三角吊环微汗神情、透感无袖白衬衫与通勤黑裙装配色的连贯性。",
@@ -745,7 +745,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "2:3",
+    "aspect_ratio": "9:16",
     "author": "@CyberTotal2026",
     "source_url": "https://x.com/CyberTotal2026/status/2104155840705929394",
     "preview_image": "https://img.iceotter.com/characters/tennis-court-kneeling-white-01.jpg",
@@ -762,7 +762,7 @@
       "网球拍",
       "白色发带",
       "夏日日光",
-      "2:3构图"
+      "9:16构图"
     ],
     "prompt": "主題：\n白コートの膝休み\n\n主体：\n画面中央、屋外テニスコートでラケットを持ち膝をつく女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を左へわずかに向け、視線をカメラへ合わせた爽やかな微笑み。濃茶の長い髪を後ろへ流し、白い幅広ヘッドバンドを着ける。\n\n服装・ポーズ：\n細い肩紐の白い三角ビキニトップ、ウエストで結ぶ淡いクリームと黄の巻きミニスカート、白いテニスシューズ。コートへ片膝をつき、もう片脚を立て、片手でラケットの柄を握り床へ斜めに置く。\n\n背景・光：\n白線のある青緑のテニスコート、金網、遠くの緑と淡い空。画面左上から明るい夏の日差しが肩と脚へ入り、影は柔らかい。\n\n構図・カメラ：\n2:3の縦構図、膝の高さの斜め正面カメラで頭頂から靴までの全身を収めるポートレート。人物を中央へ大きく配置。ラケット先端とコートを下端で自然に裁切し、顔と白い衣装にピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、クリーム、青緑の明るい夏色を保つ。\n\nネガティブ：\n立ち姿への変更；ラケットとヘッドバンド省略",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持户外青绿网球场、单膝点地持拍姿态、白色宽发带与比基尼围裹裙配色的连贯性。",
@@ -780,7 +780,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "2:3",
+    "aspect_ratio": "9:16",
     "author": "@CyberTotal2026",
     "source_url": "https://x.com/CyberTotal2026/status/2102203475757015262",
     "preview_image": "https://img.iceotter.com/characters/japanese-restroom-reading-book-01.jpg",
@@ -797,7 +797,7 @@
       "绿皮书",
       "秘密阅读",
       "落肩衬衫",
-      "2:3构图"
+      "9:16构图"
     ],
     "prompt": "主題：\n青シャツと秘密の読書\n\n主体：\n画面中央、細長い和風のトイレで便座に座り、緑の古書を読む若い女性。肩を落とした淡青シャツ、膝まで下げたワイドデニム、本、床に散る赤いカップと小物が主役。\n\n人物・表情：\n小さな卵形の顔、細い顎、伏せた濃茶の瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を下へ向け、視線を開いた本へ集中させた穏やかな表情。濃茶の長いウェーブ髪は薄い前髪を残して両肩へ流れる。\n\n服装・ポーズ：\n白いレース縁のリブタンクトップ、その上に淡い青の長袖シャツを両肩から落とす。淡色の太いデニムパンツはベルト付きで膝まで下げ、白い尖ったパンプス。便座へ座って膝を開き、両手で大きな緑表紙の本を胸前に開く。\n\n背景・光：\n画面右に木枠の障子戸、左に木の洗面台、紙ホルダーとタオル、中央背景に棚、鉢植え、香り瓶、額。前景の床に赤い紙カップ二つ、白いバッグ、携帯電話、小箱。正面上方の柔らかな暖色光が狭い室内を均一に照らす。\n\n構図・カメラ：\n2:3の縦構図、床より少し高い正面カメラで頭上の額から靴先と前景小物まで全身を収める。人物を中央へ大きく、左右の木枠で囲み、本を中央、カップを左下、バッグを右下へ配置。靴先近くまでピント、奥棚は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。デニムの皺、シャツ、古書、木枠、障子、床の小物を高精細にし、木色、淡青、緑へ赤いカップを差し色にする。\n\nネガティブ：\n読書と便座姿勢変更；床の小物やデニム省略",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持狭长日式和风空间、木质障子门与洗手台、垂眸阅读绿皮古书以及落肩淡青衬衫与散落小物件的画面连贯性。",
@@ -850,7 +850,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "3:4",
+    "aspect_ratio": "9:16",
     "author": "@oye_samia",
     "source_url": "https://x.com/oye_samia/status/2104431639132778667",
     "preview_image": "https://img.iceotter.com/characters/autumn-lake-boat-black-dress-01.jpg",
@@ -867,7 +867,7 @@
       "黑色西装裙",
       "及膝长靴",
       "古石拱桥",
-      "3:4构图"
+      "9:16构图"
     ],
     "prompt": "Ultra-realistic iPhone photo, 3:4.\n\nIdentity lock: my photo is the only reference. Keep the original face exactly, identity 1:1. Features, eye color, and asymmetry unchanged, no deformation.\n\nCamera: iPhone rear, regular photo mode, no Portrait mode / flash / filters. Camera inside a small wooden boat opposite the woman, 1.8–2.2 m away, height 85–100 cm.\n\nThe woman sits on a wooden bench almost in full length, legs elegantly crossed, torso slightly 3/4, head turned to the side, gaze past the camera.\n\nOutfit: short fitted black preppy blazer-dress, structured shoulders, round neckline, central closure, white shirt collar + cuffs, thin white piping on two small breast pockets, sheer black tights.\n\nShoes: tall black riding boots to the knee, straight wide shaft, low massive sole, small metal emblem on the side; white ribbed socks visible at the top.\n\nOn the bench to the right: a small structured black top-handle bag with gold hardware.\n\nHair: long, wavy, loose; large soft voluminous waves, airy volume at the roots, light natural movement from the wind. Do not change external characteristics.\n\nLocation: wooden rowboat on a calm lake; to the right an old light stone bridge with an arch and balustrade; real golden-yellow / ochre autumn trees all around.\n\nReal late sunlight, −0.3 EV, automatic white balance, natural iPhone colors and sharpness.\n\nNo filter / LUT / preset / HDR / flash / bokeh / cinematic grading / orange skin / AI gloss.",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持静谧秋水木船、古典石拱桥与金黄秋叶背景，以及黑色学院风西装裙搭及膝高筒骑兵靴的优雅名媛风貌。",
@@ -885,7 +885,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "3:4",
+    "aspect_ratio": "9:16",
     "author": "@CyberTotal2026",
     "source_url": "https://x.com/CyberTotal2026/status/2104545660523418100",
     "preview_image": "https://img.iceotter.com/characters/night-terrace-black-dress-01.jpg",
@@ -902,7 +902,7 @@
       "丝绒开叉",
       "暖光间接照明",
       "优雅漫步",
-      "3:4构图"
+      "9:16构图"
     ],
     "prompt": "主題：\n夜景テラスの黒ドレス\n\n主体：\n画面中央、夜景のテラスを歩く黒いミニドレス姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を正面へ向け、視線をカメラへ合わせて控えめに微笑む表情。濃茶の長いウェーブ髪をハーフアップにし、黒いリボンを後ろへ付ける。\n\n服装・ポーズ：\n黒い光沢ベルベット、細い肩紐、深いVネック、右腿の高いスリットと飾り金具を持つミニドレス、銀ストラップヒール。片脚を前へ交差して歩き、左腕を自然に下ろし、右手で黒い小型バッグの肩紐を持つ。\n\n背景・光：\n画面左から画面右の背景に、左に照明を巻いた樹木と夜景、右にアーチ窓の石造建物とテラス席。画面左右の暖かな柔らかい間接灯が顔、脚、濡れた床を照らす。\n\n構図・カメラ：\n3:4の縦構図、腰より低い正面カメラで頭頂からヒールまでの全身を収めるポートレート。人物を中央へ大きく配置し、画面高の大部分を占める。床と両側のテラスを残し、顔と黒ドレスにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、金、肌色の華やかな夜色を保つ。\n\nネガティブ：\n歩行姿勢変更；黒ドレスのスリット省略",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持暖色间接照明的夜景石造露台、微湿反光地面、高开叉光泽丝绒黑吊带裙与交叉步态的连贯性。",
@@ -955,7 +955,7 @@
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
-    "aspect_ratio": "4:5",
+    "aspect_ratio": "9:16",
     "author": "@Aqsahere_",
     "source_url": "https://x.com/Aqsahere_/status/2104223825042771969",
     "preview_image": "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
@@ -972,7 +972,7 @@
       "一字肩白衣",
       "壮丽远山",
       "清新春日",
-      "4:5构图"
+      "9:16构图"
     ],
     "prompt": "A photorealistic cinematic portrait of a young woman sitting in a vibrant field of yellow wildflowers with dramatic green mountains rising in the background. She has long, straight dark brown hair gently moving in the breeze, with a few loose strands across her face. She is smiling brightly and looking directly at the camera with a joyful, carefree expression.\nShe wears a soft white off-shoulder long-sleeve top with a simple delicate necklace and a brown plaid mini skirt. She sits naturally among the flowers with her legs bent to one side. One hand rests gently against her cheek while the other extends toward the camera, holding a small bouquet of fresh yellow flowers, creating a beautiful foreground perspective.\nThe foreground flowers are slightly out of focus while the woman remains sharply detailed. Behind her is a vast field of vivid yellow blossoms, followed by lush green hills and a dramatic rugged mountain range beneath a cloudy blue-gray sky.\nComposition: vertical 4:5 portrait, medium-to-full body framing, low natural camera angle, subject centered, bouquet extending toward the lens for depth, mountains clearly visible in the background.\nLighting: soft natural daylight, gentle highlights on her face and hair, diffused sunlight through clouds, realistic shadows, fresh spring atmosphere.\nPhotography style: ultra-realistic outdoor lifestyle photography, natural skin texture, realistic hair strands, detailed flowers, shallow depth of field, cinematic depth, subtle foreground bokeh, natural color grading, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped flowers, fake mountains, oversaturated colors, excessive HDR, artificial lighting, excessive blur, low resolution, text, watermark, logo.",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持壮美苍翠山峦与金黄野花花海的户外景致，手持花束伸向镜头的透视景深，以及一字肩白色上衣与棕色格纹短裙的明朗氛围。",
