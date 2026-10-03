@@ -646,21 +646,21 @@
     "preview_image": "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
     "verified_image": "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
     "dimensions": {
-      "country": "欧美",
+      "country": "欧美/日常",
       "gender": "女性",
-      "scene": "帽子精品店",
-      "outfit": "鼠尾草绿休闲短袖与宽檐草帽"
+      "scene": "木质展架帽子专卖店",
+      "outfit": "鼠尾草绿宽松短袖、斜挎浅奶油背带与宽檐皮带草帽"
     },
     "tags": [
-      "草帽专卖店",
-      "镜面自拍",
+      "帽子店自拍",
       "宽檐草帽",
       "鼠尾草绿",
-      "波点手机壳",
-      "自然光人像"
+      "斑点手机壳",
+      "木质展架",
+      "9:16构图"
     ],
-    "prompt": "A woman with wavy brown hair and a wide-brimmed straw hat takes a selfie in a hat shop, holding her phone with a spotted case while making a subtle pout. Documentary Style, Human Portrait, Close Up, Natural Light.",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持棕色波浪卷发、鼠尾草绿休闲短袖穿搭、带皮质系带的宽檐草帽与帽子店镜面自拍构图的一致性。",
+    "prompt": "The person has long wavy brown hair and light skin with long, polished nails. They are wearing a sage-green, loose-fitting short-sleeved top, light-colored pants or shorts, and a light cream crossbody strap across their torso. They are holding up a smartphone with a brown-and-white spotted phone case to take the selfie, partially covering their face while making a subtle pouting expression. Hat: They are wearing a wide-brimmed straw-style hat with a dark brown leather band around the crown and a brown chin cord hanging down. They are holding the brim of the hat with their right hand.\nBackground: The background is filled with wooden shelves and displays packed with a wide variety of hats in diverse styles, shapes, and colors .including blue, black, brown, white, and tan.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持帽子专卖店木质展示架与丰富各色帽子背景、手持棕白斑点壳手机自拍微撅嘴神态，以及鼠尾草绿短袖与系绳宽檐草帽的连贯性。",
     "gallery_images": [
       "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
       "https://img.iceotter.com/characters/straw-hat-shop-selfie-02.jpg",
@@ -729,7 +729,7 @@
       "日系通勤",
       "9:16构图"
     ],
-    "prompt": "主題：\n満員電車の白シャツ\n\n主体：\n画面中央、混雑する通勤電車でつり革を握る白シャツ姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を右へ向け、視線を遠くへ流した暑さをこらえる落ち着いた表情。濃茶の髪を低いまとめ髪にし、濡れた薄い前髪と後れ毛を残す。\n\n服装・ポーズ：\n汗で透ける白いノースリーブ襟付きボタンシャツ、黒いハイウエストスカート、黒革ショルダーバッグ。右腕を真上へ伸ばして三角のつり革を握り、左腕を身体の横へ下ろして立つ。\n\n背景・光：\n画面左から画面右の背景に、画面左右と奥を埋める白シャツの乗客、銀のポール、つり革、蛍光灯の電車内。上方の柔らかな白色蛍光灯が顔と汗の光沢を均一に照らす。\n\n構図・カメラ：\n3:4の縦構図、胸の高さからの近い正面カメラで頭頂から腰下までの半身を収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。上げた腕と周囲の乗客を画面端で裁切し、横顔と白いシャツにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、黒、银、肌色の通勤色を保つ。\n\nネガティブ：\nつり革姿勢変更；車内と白シャツ省略",
+    "prompt": "主題：\n満員電車の白シャツ\n\n主体：\n画面中央、混雑する通勤電車でつり革を握る白シャツ姿の女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を右へ向け、視線を遠くへ流した暑さをこらえる落ち着いた表情。濃茶の髪を低いまとめ髪にし、濡れた薄い前髪と後れ毛を残す。\n\n服装・ポーズ：\n汗で透ける白いノースリーブ襟付きボタンシャツ、黒いハイウエストスカート、黒革ショルダーバッグ。右腕を真上へ伸ばして三角のつり革を握り、左腕を身体の横へ下ろして立つ。\n\n背景・光：\n画面左から画面右の背景に、画面左右と奥を埋める白シャツの乗客、銀のポール、つり革、蛍光灯の電車内。上方の柔らかな白色蛍光灯が顔と汗の光沢を均一に照らす。\n\n構図・カメラ：\n3:4の縦構図、胸の高さからの近い正面カメラで頭頂から腰下までの半身を収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。上げた腕と周囲の乗客を画面端で裁切し、横顔と白いシャツにピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、黒、銀、肌色の通勤色を保つ。\n\nネガティブ：\nつり革姿勢変更；車内と白シャツ省略",
     "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日本早高峰通勤电车、手握三角吊环微汗神情、透感无袖白衬衫与通勤黑裙装配色的连贯性。",
     "gallery_images": [
       "https://img.iceotter.com/characters/commuter-train-strap-white-01.jpg",
