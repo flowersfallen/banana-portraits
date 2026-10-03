@@ -1087,5 +1087,40 @@
       "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-03.jpg",
       "https://img.iceotter.com/characters/blonde-bed-cozy-selfie-04.jpg"
     ]
+  },
+  {
+    "id": "zootopia-dreamscape-plush-dolls-portrait",
+    "title": "Cinematic Charm: A Zootopia Dreamscape",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@Awesome Prompts",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1993898539571884456-cinematic-charm-a-zootopia-dreamscape/",
+    "preview_image": "https://img.iceotter.com/characters/zootopia-dreamscape-plush-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/zootopia-dreamscape-plush-01.jpg",
+    "dimensions": {
+      "country": "欧美/游乐园",
+      "gender": "女性",
+      "scene": "游乐园玩偶店/奖品墙",
+      "outfit": "米色蕾丝边吊带短背心、低腰白牛仔裤与朱迪兔耳发箍"
+    },
+    "tags": [
+      "疯狂动物城",
+      "朱迪兔耳",
+      "玩偶墙",
+      "蝴蝶层理发",
+      "富士Pro400H",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"prompt\": \"Cinematic close-up portrait of a young woman with smooth fair skin, large sharp eyes, slightly flushed pink cheeks, and glossy red lips. Her long, dark brown hair is styled in a modern 'butterfly cut' with layered volume, looking slightly messy with a few strands framing her face. She is wearing a cream cropped tank top with yellow lace trim, showing slight cleavage and a hint of her midriff, emphasizing a slim waist. She has on low-rise white jeans with a brown suede belt. She is wearing a Judy Hopps bunny-ear headband and Nick Wilde fox-head earrings. She is holding two plush dolls, Nick Wilde and Judy Hopps from Disney's Zootopia, in her left arm. She faces the camera with a slight, bright, and lively smile. The background is a dense display of stacked Nick Wilde and Judy Hopps plush toys, suggesting a doll shop or carnival prize wall in an amusement park. The image has a strong film grain, a vintage old-lens filter, and a color palette inspired by Fuji Film Pro 400H, with slightly saturated yet soft and natural colors.\",\n  \"style\": {\n    \"camera\": \"Cinematic close-up, old film camera\",\n    \"film_stock\": \"Fuji Film Pro 400H\",\n    \"filter\": \"Old-lens filter, strong film grain\",\n    \"lighting\": \"Natural, bright\"\n  },\n  \"subject_details\": {\n    \"gender\": \"female\",\n    \"age\": \"young adult\",\n    \"hair\": \"Long, dark brown, butterfly cut, layered volume, slightly messy\",\n    \"face\": \"Smooth fair skin, large sharp eyes, slightly flushed pink cheeks, glossy red lips, slight smile\",\n    \"attire\": \"Cream cropped tank top with yellow lace trim, low-rise white jeans, brown suede belt, Judy Hopps bunny-ear headband, Nick Wilde earrings, short brown shoulder bag\"\n  },\n  \"props\": [\n    \"Nick Wilde plush doll\",\n    \"Judy Hopps plush doll\"\n  ],\n  \"setting\": {\n    \"location\": \"Doll shop/prize wall in an amusement park\",\n    \"background_elements\": \"Rows of stacked Nick Wilde and Judy Hopps plushies\"\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持富士胶片 Pro 400H 柔和胶片颗粒质感、游乐园密密麻麻的疯狂动物城玩偶墙背景，以及头戴朱迪兔耳、怀抱玩偶、蝴蝶发层次感与米白蕾丝背心的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/zootopia-dreamscape-plush-01.jpg",
+      "https://img.iceotter.com/characters/zootopia-dreamscape-plush-02.jpg",
+      "https://img.iceotter.com/characters/zootopia-dreamscape-plush-03.jpg",
+      "https://img.iceotter.com/characters/zootopia-dreamscape-plush-04.jpg"
+    ]
   }
 ]
