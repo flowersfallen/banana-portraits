@@ -240,38 +240,38 @@
     ]
   },
   {
-    "id": "tokyo-street-film-portrait",
-    "title": "东京下町街头胶片街拍",
+    "id": "caught-off-guard-dim-indoor-portrait",
+    "title": "居家昏暗微光偶遇抓拍",
     "category": "character",
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
     "aspect_ratio": "9:16",
     "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
-    "source_url": "https://x.com/BubbleBrain/status/2055491616392052887",
-    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-434",
-    "preview_image": "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
+    "source_url": "https://x.com/BubbleBrain/status/2046190539213885806",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-217",
+    "preview_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
     "dimensions": {
-      "country": "日本",
+      "country": "韩国",
       "gender": "女性",
-      "scene": "街头纪实",
-      "outfit": "日常便服"
+      "scene": "室内生活",
+      "outfit": "家居吊带"
     },
     "tags": [
-      "35mm胶片",
-      "东京街头",
-      "纪实快照",
-      "毛绒外套",
-      "自然回眸"
+      "老式CCD",
+      "未设防抓拍",
+      "意外回眸",
+      "居家薄开衫",
+      "瞬态微模糊"
     ],
-    "prompt": "film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, distant pedestrians softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 20-year-old East Asian female, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy jacket, playful yet subtly serene expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic photography texture, spontaneous candid energy, highly attractive girl casually posing on the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, slight motion blur from slow shutter, authentic everyday realism --ar 9:16",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持东京下町街头 35mm 胶片质感与自然回眸人物设定的一致性。",
+    "prompt": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young East Asian female idol, soft innocent look, mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised, eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression, loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing, unprepared, intimate, accidental moment, evokes curiosity and protectiveness, natural skin texture, visible pores, no plastic smoothing --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持老式 CCD 闪光灯瞬态美学、未设防的回眸惊喜神态与居家薄开衫人物设定的一致性。",
     "gallery_images": [
-      "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
-      "https://img.iceotter.com/characters/tokyo-street-film-02.jpg",
-      "https://img.iceotter.com/characters/tokyo-street-film-03.jpg",
-      "https://img.iceotter.com/characters/tokyo-street-film-04.jpg"
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-02.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-03.jpg",
+      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-04.jpg"
     ]
   },
   {
@@ -415,6 +415,41 @@
     ]
   },
   {
+    "id": "straw-hat-shop-selfie-portrait",
+    "title": "Woman in Straw Hat Takes Selfie Inside a Hat Shop",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@DaniaSafvi",
+    "source_url": "https://x.com/DaniaSafvi/status/2104449544046133546",
+    "preview_image": "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
+    "dimensions": {
+      "country": "欧美/日常",
+      "gender": "女性",
+      "scene": "木质展架帽子专卖店",
+      "outfit": "鼠尾草绿宽松短袖、斜挎浅奶油背带与宽檐皮带草帽"
+    },
+    "tags": [
+      "帽子店自拍",
+      "宽檐草帽",
+      "鼠尾草绿",
+      "斑点手机壳",
+      "木质展架",
+      "9:16构图"
+    ],
+    "prompt": "The person has long wavy brown hair and light skin with long, polished nails. They are wearing a sage-green, loose-fitting short-sleeved top, light-colored pants or shorts, and a light cream crossbody strap across their torso. They are holding up a smartphone with a brown-and-white spotted phone case to take the selfie, partially covering their face while making a subtle pouting expression. Hat: They are wearing a wide-brimmed straw-style hat with a dark brown leather band around the crown and a brown chin cord hanging down. They are holding the brim of the hat with their right hand.\nBackground: The background is filled with wooden shelves and displays packed with a wide variety of hats in diverse styles, shapes, and colors .including blue, black, brown, white, and tan.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持帽子专卖店木质展示架与丰富各色帽子背景、手持棕白斑点壳手机自拍微撅嘴神态，以及鼠尾草绿短袖与系绳宽檐草帽的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
+      "https://img.iceotter.com/characters/straw-hat-shop-selfie-02.jpg",
+      "https://img.iceotter.com/characters/straw-hat-shop-selfie-03.jpg",
+      "https://img.iceotter.com/characters/straw-hat-shop-selfie-04.jpg"
+    ]
+  },
+  {
     "id": "minimalist-boutique-fullbody-portrait",
     "title": "极简精品店全身漫步写真",
     "category": "character",
@@ -485,6 +520,42 @@
     ]
   },
   {
+    "id": "retro-reverie-90s-winter-portrait",
+    "title": "90年代冬日树下倾角复古写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@kingofdairyque (via Awesome Prompts)",
+    "source_url": "https://x.com/kingofdairyque/status/1994028996816982182",
+    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait.md",
+    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait",
+    "preview_image": "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "自然风光",
+      "outfit": "休闲日常"
+    },
+    "tags": [
+      "90年代",
+      "冬日树下",
+      "荷兰角构图",
+      "胶片噪点",
+      "复古法兰绒"
+    ],
+    "prompt": "Cinematic high grain 90s portrait Dutch angle tilted shot, 23-year-old woman leaning against tree taking picture dynamic composition, wearing oversized flannel shirt layers winter, long hair hanging sideways, serene dreamy atmosphere but dynamic framing, warm orange cool blue contrast nostalgic grading, heavy film grain texture noise throughout, artistic playful moment nature photography, diagonal tree lines background, vintage 90s aesthetic mood, editorial nostalgic winter artistic captured, modern retro film noise masterpiece.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代法兰绒与冬日树下倾斜构图的胶片氛围与人物面容一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
+      "https://img.iceotter.com/characters/retro-reverie-winter-02.jpg",
+      "https://img.iceotter.com/characters/retro-reverie-winter-03.jpg",
+      "https://img.iceotter.com/characters/retro-reverie-winter-04.jpg"
+    ]
+  },
+  {
     "id": "1990s-camera-style-portrait",
     "title": "90年代闪光灯复古胶片人像",
     "category": "character",
@@ -521,74 +592,38 @@
     ]
   },
   {
-    "id": "straw-hat-shop-selfie-portrait",
-    "title": "Woman in Straw Hat Takes Selfie Inside a Hat Shop",
+    "id": "tokyo-street-film-portrait",
+    "title": "东京下町街头胶片街拍",
     "category": "character",
     "status": "verified",
     "source_model": "GPT Image 2",
     "target_model": "Nano Banana Pro",
     "aspect_ratio": "9:16",
-    "author": "@DaniaSafvi",
-    "source_url": "https://x.com/DaniaSafvi/status/2104449544046133546",
-    "preview_image": "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2055491616392052887",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-434",
+    "preview_image": "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
     "dimensions": {
-      "country": "欧美/日常",
+      "country": "日本",
       "gender": "女性",
-      "scene": "木质展架帽子专卖店",
-      "outfit": "鼠尾草绿宽松短袖、斜挎浅奶油背带与宽檐皮带草帽"
+      "scene": "街头纪实",
+      "outfit": "日常便服"
     },
     "tags": [
-      "帽子店自拍",
-      "宽檐草帽",
-      "鼠尾草绿",
-      "斑点手机壳",
-      "木质展架",
-      "9:16构图"
+      "35mm胶片",
+      "东京街头",
+      "纪实快照",
+      "毛绒外套",
+      "自然回眸"
     ],
-    "prompt": "The person has long wavy brown hair and light skin with long, polished nails. They are wearing a sage-green, loose-fitting short-sleeved top, light-colored pants or shorts, and a light cream crossbody strap across their torso. They are holding up a smartphone with a brown-and-white spotted phone case to take the selfie, partially covering their face while making a subtle pouting expression. Hat: They are wearing a wide-brimmed straw-style hat with a dark brown leather band around the crown and a brown chin cord hanging down. They are holding the brim of the hat with their right hand.\nBackground: The background is filled with wooden shelves and displays packed with a wide variety of hats in diverse styles, shapes, and colors .including blue, black, brown, white, and tan.",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持帽子专卖店木质展示架与丰富各色帽子背景、手持棕白斑点壳手机自拍微撅嘴神态，以及鼠尾草绿短袖与系绳宽檐草帽的连贯性。",
+    "prompt": "film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, distant pedestrians softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 20-year-old East Asian female, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy jacket, playful yet subtly serene expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic photography texture, spontaneous candid energy, highly attractive girl casually posing on the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, slight motion blur from slow shutter, authentic everyday realism --ar 9:16",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持东京下町街头 35mm 胶片质感与自然回眸人物设定的一致性。",
     "gallery_images": [
-      "https://img.iceotter.com/characters/straw-hat-shop-selfie-01.jpg",
-      "https://img.iceotter.com/characters/straw-hat-shop-selfie-02.jpg",
-      "https://img.iceotter.com/characters/straw-hat-shop-selfie-03.jpg",
-      "https://img.iceotter.com/characters/straw-hat-shop-selfie-04.jpg"
-    ]
-  },
-  {
-    "id": "retro-reverie-90s-winter-portrait",
-    "title": "90年代冬日树下倾角复古写真",
-    "category": "character",
-    "status": "verified",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@kingofdairyque (via Awesome Prompts)",
-    "source_url": "https://x.com/kingofdairyque/status/1994028996816982182",
-    "github_url": "https://github.com/samuxbuilds/awesome-prompts/blob/main/prompts/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait.md",
-    "web_url": "https://awesomeprompts.xyz/prompt/portraits/pg-1994028996816982182-retro-reverie-a-90s-winter-portrait",
-    "preview_image": "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
-    "dimensions": {
-      "country": "东亚",
-      "gender": "女性",
-      "scene": "自然风光",
-      "outfit": "休闲日常"
-    },
-    "tags": [
-      "90年代",
-      "冬日树下",
-      "荷兰角构图",
-      "胶片噪点",
-      "复古法兰绒"
-    ],
-    "prompt": "Cinematic high grain 90s portrait Dutch angle tilted shot, 23-year-old woman leaning against tree taking picture dynamic composition, wearing oversized flannel shirt layers winter, long hair hanging sideways, serene dreamy atmosphere but dynamic framing, warm orange cool blue contrast nostalgic grading, heavy film grain texture noise throughout, artistic playful moment nature photography, diagonal tree lines background, vintage 90s aesthetic mood, editorial nostalgic winter artistic captured, modern retro film noise masterpiece.",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代法兰绒与冬日树下倾斜构图的胶片氛围与人物面容一致性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/retro-reverie-winter-01.jpg",
-      "https://img.iceotter.com/characters/retro-reverie-winter-02.jpg",
-      "https://img.iceotter.com/characters/retro-reverie-winter-03.jpg",
-      "https://img.iceotter.com/characters/retro-reverie-winter-04.jpg"
+      "https://img.iceotter.com/characters/tokyo-street-film-01.jpg",
+      "https://img.iceotter.com/characters/tokyo-street-film-02.jpg",
+      "https://img.iceotter.com/characters/tokyo-street-film-03.jpg",
+      "https://img.iceotter.com/characters/tokyo-street-film-04.jpg"
     ]
   },
   {
@@ -659,41 +694,6 @@
       "https://img.iceotter.com/characters/train-platform-orange-flowers-02.jpg",
       "https://img.iceotter.com/characters/train-platform-orange-flowers-03.jpg",
       "https://img.iceotter.com/characters/train-platform-orange-flowers-04.jpg"
-    ]
-  },
-  {
-    "id": "caught-off-guard-dim-indoor-portrait",
-    "title": "居家昏暗微光偶遇抓拍",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
-    "source_url": "https://x.com/BubbleBrain/status/2046190539213885806",
-    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-217",
-    "preview_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
-    "dimensions": {
-      "country": "韩国",
-      "gender": "女性",
-      "scene": "室内生活",
-      "outfit": "家居吊带"
-    },
-    "tags": [
-      "老式CCD",
-      "未设防抓拍",
-      "意外回眸",
-      "居家薄开衫",
-      "瞬态微模糊"
-    ],
-    "prompt": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young East Asian female idol, soft innocent look, mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised, eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression, loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing, unprepared, intimate, accidental moment, evokes curiosity and protectiveness, natural skin texture, visible pores, no plastic smoothing --ar 9:16",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持老式 CCD 闪光灯瞬态美学、未设防的回眸惊喜神态与居家薄开衫人物设定的一致性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-01.jpg",
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-02.jpg",
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-03.jpg",
-      "https://img.iceotter.com/characters/caught-off-guard-dim-indoor-04.jpg"
     ]
   },
   {
