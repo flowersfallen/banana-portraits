@@ -1154,5 +1154,37 @@
       "https://img.iceotter.com/characters/candid-nights-city-vibe-03.jpg",
       "https://img.iceotter.com/characters/candid-nights-city-vibe-04.jpg"
     ]
+  },
+  {
+    "id": "charming-vibes-at-the-modern-pub",
+    "title": "Charming Vibes at the Modern Pub",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1996561195424260299-charming-vibes-at-the-modern-pub/",
+    "preview_image": "https://img.iceotter.com/characters/modern-pub-charming-vibes-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/modern-pub-charming-vibes-01.jpg",
+    "dimensions": {
+      "country": "东亚/酒吧",
+      "gender": "女性",
+      "scene": "现代小酒馆/圆桌酒杯",
+      "outfit": "黑色抹胸上衣、低腰牛仔裤、黑色细布颈圈"
+    },
+    "tags": [
+      "现代酒馆",
+      "佳能IXUS",
+      "卡片机闪光",
+      "黑色抹胸",
+      "微醺氛围",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"image_parameters\": {\n    \"style\": \"Canon IXUS aesthetic\",\n    \"type\": \"Point-and-shoot photography\",\n    \"quality\": \"Hyper-realistic\",\n    \"tone\": \"Sharp, direct\",\n    \"lighting_and_atmosphere\": \"Realistic, flash-style/direct lighting\"\n  },\n  \"subject\": {\n    \"constraints\": {\n      \"facial_identity\": \"Match reference image exactly 100%\",\n      \"face_edits\": \"None allowed\"\n    },\n    \"hair\": {\n      \"style\": \"Long, natural, lightly messy layered look\",\n      \"movement\": \"Blowing gently in the wind\",\n      \"details\": \"Strands slightly covering part of face\"\n    },\n    \"makeup\": {\n      \"cheeks_and_nose\": \"Soft pink blush with blurred effect\",\n      \"lips\": \"Subtle pink-orange tinted outline\"\n    },\n    \"expression\": [\n      \"Cute\",\n      \"Naive\",\n      \"Cheerful\",\n      \"Slightly sexy/undone charm\"\n    ],\n    \"pose\": {\n      \"body_position\": \"Half-sitting, half-standing\",\n      \"action\": \"Flicking hair\"\n    },\n    \"clothing\": {\n      \"top\": \"Black strapless top\",\n      \"bottom\": \"Low-waisted jeans with a floating waistline\",\n      \"neck\": \"Thin black fabric choker/wrap\"\n    },\n    \"accessories\": [\n      \"Small pendant necklace\",\n      \"Gold watch\"\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Modern pub\",\n    \"foreground_props\": [\n      \"Round table\",\n      \"Bottle of liquor\",\n      \"Glass of liquor\"\n    ]\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持佳能 IXUS 卡片机直闪锐利光感、现代小酒馆微醺吧台与酒杯圆桌氛围，以及黑色抹胸、低腰牛仔裤、黑色细颈带与轻撩发丝的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/modern-pub-charming-vibes-01.jpg",
+      "https://img.iceotter.com/characters/modern-pub-charming-vibes-02.jpg",
+      "https://img.iceotter.com/characters/modern-pub-charming-vibes-03.jpg",
+      "https://img.iceotter.com/characters/modern-pub-charming-vibes-04.jpg"
+    ]
   }
 ]
