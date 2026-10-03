@@ -1003,38 +1003,6 @@
     ]
   },
   {
-    "id": "sunlit-allure-streamer-grey-denim",
-    "title": "Sunlit Allure: The Streamer in Grey & Denim",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "source_url": "https://banana.iceotter.com/",
-    "preview_image": "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-01.jpg",
-    "dimensions": {
-      "country": "东亚/采光长廊",
-      "gender": "女性",
-      "scene": "现代建筑采光长廊/自然逆光",
-      "outfit": "修身灰色针织露脐短T、卷边浅蓝牛仔短裤、细丝圆框眼镜"
-    },
-    "tags": [
-      "纯欲主播",
-      "自然逆光",
-      "沙漏身材",
-      "灰T恤",
-      "牛仔短裤",
-      "9:16构图"
-    ],
-    "prompt": "{\n  \"subject\": {\n    \"identity\": \"Stunningly gorgeous top-tier live streamer, K-pop visual center level beauty, pure-and-alluring (纯欲) aesthetic, early 20s\",\n    \"facial_features\": {\n      \"face_shape\": \"Flawless V-line jawline, delicate small chin\",\n      \"skin\": \"Luminous pale porcelain glass-skin, radiant dewy glow, smooth and soft\",\n      \"eyes\": \"Large sparkling almond-shaped eyes, clear double eyelids, prominent cute aegyo-sal, soft mascara\",\n      \"nose_and_lips\": \"Dainty sculpted nose, plump glossy cherry-pink gradient lips, seductive sweet smile\",\n      \"hair_and_glasses\": \"Delicate thin-wire round glasses, glossy dark hair in loose low twintails, wispy see-through bangs framing cheekbones\"\n    },\n    \"physique\": {\n      \"bust\": \"Full, well-proportioned voluptuous chest\",\n      \"waist\": \"Ultra-slim snatched waistline with a flat, smooth midriff\",\n      \"hips\": \"Curvaceous hips and toned legs in an hourglass silhouette\"\n    }\n  },\n  \"attire\": {\n    \"top\": \"Snug heather-grey fine-knit cropped baby tee with lettuce hem, stretching tightly over the bust\",\n    \"bottom\": \"Fitted light-wash denim hot pants with rolled cuffs, showcasing hip curves\"\n  },\n  \"photography_style\": {\n    \"type\": \"High-end commercial fashion portrait photography (NOT a screenshot, clean image without any UI or icons)\",\n    \"lens\": \"50mm prime portrait lens, f/1.4\",\n    \"lighting\": \"Golden natural sunlight backlighting with soft sun flare, clean and soft frontal fill light illuminating her face perfectly\",\n    \"composition\": \"9:16 vertical medium-full portrait, tack-sharp focus on eyes and facial beauty\"\n  },\n  \"negative_prompt\": \"phone screenshot, livestream UI, app overlay, icons, play button, chat box, text, watermark, bad face, ugly, asymmetrical eyes, rough skin, mature look, coarse pores, lowres, blurry\"\n}",
-    "flow_usage_tip": "在 Nano Banana Pro 中使用该提示词生成后，在后续分镜中可保持大光圈定焦人像镜头清透水光肌、金色自然逆光与镜头光晕，以及灰色修身露脐针织短 T、卷边牛仔短裤、金属细圆框眼镜与低双马尾造型的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-01.jpg",
-      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-02.jpg",
-      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-03.jpg",
-      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-04.jpg"
-    ]
-  },
-  {
     "id": "night-smartphone-glow-sofa-portrait",
     "title": "夜间手机光沙发肖像",
     "category": "character",
@@ -1099,6 +1067,38 @@
       "https://img.iceotter.com/characters/modern-noir-flash-selfie-02.jpg",
       "https://img.iceotter.com/characters/modern-noir-flash-selfie-03.jpg",
       "https://img.iceotter.com/characters/modern-noir-flash-selfie-04.jpg"
+    ]
+  },
+  {
+    "id": "sunlit-allure-streamer-grey-denim",
+    "title": "Sunlit Allure: The Streamer in Grey & Denim",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://banana.iceotter.com/",
+    "preview_image": "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-01.jpg",
+    "dimensions": {
+      "country": "东亚/采光长廊",
+      "gender": "女性",
+      "scene": "现代建筑采光长廊/自然逆光",
+      "outfit": "修身灰色针织露脐短T、卷边浅蓝牛仔短裤、细丝圆框眼镜"
+    },
+    "tags": [
+      "纯欲主播",
+      "自然逆光",
+      "沙漏身材",
+      "灰T恤",
+      "牛仔短裤",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"subject\": {\n    \"identity\": \"Stunningly gorgeous top-tier live streamer, K-pop visual center level beauty, pure-and-alluring (纯欲) aesthetic, early 20s\",\n    \"facial_features\": {\n      \"face_shape\": \"Flawless V-line jawline, delicate small chin\",\n      \"skin\": \"Luminous pale porcelain glass-skin, radiant dewy glow, smooth and soft\",\n      \"eyes\": \"Large sparkling almond-shaped eyes, clear double eyelids, prominent cute aegyo-sal, soft mascara\",\n      \"nose_and_lips\": \"Dainty sculpted nose, plump glossy cherry-pink gradient lips, seductive sweet smile\",\n      \"hair_and_glasses\": \"Delicate thin-wire round glasses, glossy dark hair in loose low twintails, wispy see-through bangs framing cheekbones\"\n    },\n    \"physique\": {\n      \"bust\": \"Full, well-proportioned voluptuous chest\",\n      \"waist\": \"Ultra-slim snatched waistline with a flat, smooth midriff\",\n      \"hips\": \"Curvaceous hips and toned legs in an hourglass silhouette\"\n    }\n  },\n  \"attire\": {\n    \"top\": \"Snug heather-grey fine-knit cropped baby tee with lettuce hem, stretching tightly over the bust\",\n    \"bottom\": \"Fitted light-wash denim hot pants with rolled cuffs, showcasing hip curves\"\n  },\n  \"photography_style\": {\n    \"type\": \"High-end commercial fashion portrait photography (NOT a screenshot, clean image without any UI or icons)\",\n    \"lens\": \"50mm prime portrait lens, f/1.4\",\n    \"lighting\": \"Golden natural sunlight backlighting with soft sun flare, clean and soft frontal fill light illuminating her face perfectly\",\n    \"composition\": \"9:16 vertical medium-full portrait, tack-sharp focus on eyes and facial beauty\"\n  },\n  \"negative_prompt\": \"phone screenshot, livestream UI, app overlay, icons, play button, chat box, text, watermark, bad face, ugly, asymmetrical eyes, rough skin, mature look, coarse pores, lowres, blurry\"\n}",
+    "flow_usage_tip": "在 Nano Banana Pro 中使用该提示词生成后，在后续分镜中可保持大光圈定焦人像镜头清透水光肌、金色自然逆光与镜头光晕，以及灰色修身露脐针织短 T、卷边牛仔短裤、金属细圆框眼镜与低双马尾造型的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-01.jpg",
+      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-02.jpg",
+      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-03.jpg",
+      "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-04.jpg"
     ]
   }
 ]
