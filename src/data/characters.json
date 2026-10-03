@@ -275,146 +275,6 @@
     ]
   },
   {
-    "id": "woman-cat-blue-caps-street-selfie-portrait",
-    "title": "Young woman and matching cat wear blue caps in street selfie",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@Aqsahere_",
-    "source_url": "https://x.com/Aqsahere_/status/2104556185101721610",
-    "preview_image": "https://img.iceotter.com/characters/woman-cat-blue-caps-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/woman-cat-blue-caps-01.jpg",
-    "dimensions": {
-      "country": "欧洲/街头",
-      "gender": "女性",
-      "scene": "欧洲街头人行道",
-      "outfit": "复古牛仔蓝棒球帽与蓝色花纹针织毛衣（同款小蓝帽橘猫）"
-    },
-    "tags": [
-      "萌宠自拍",
-      "同款小帽",
-      "橘猫",
-      "复古牛仔帽",
-      "欧洲街景",
-      "9:16构图"
-    ],
-    "prompt": "A realistic close-up street selfie of a young woman with long, wavy light-brown hair and soft natural makeup, wearing a vintage blue denim baseball cap and a cozy blue patterned sweater. She is sitting outdoors on a city sidewalk, looking directly into the camera with a calm, slightly pouty expression. She is holding a cute ginger tabby cat in her arms, and the cat is wearing a small blue baseball cap, creating a playful matching look. The cat faces the camera with a relaxed expression and detailed fur.\nBehind them is an elegant European-style building with cream stone walls, tall windows decorated with vivid red curtains, red awnings, and a parked dark car along the street. Natural daytime lighting, candid smartphone selfie aesthetic, realistic skin and hair texture, detailed cat fur, shallow depth of field, slightly wide-angle perspective, vibrant but natural colors, high-resolution photography, vertical composition.",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持欧洲典雅石墙街景、红色雨棚与复古窗幔背景，以及女子与怀中橘白猫咪佩戴情侣款蓝色棒球帽的俏皮互动质感。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/woman-cat-blue-caps-01.jpg",
-      "https://img.iceotter.com/characters/woman-cat-blue-caps-02.jpg",
-      "https://img.iceotter.com/characters/woman-cat-blue-caps-03.jpg",
-      "https://img.iceotter.com/characters/woman-cat-blue-caps-04.jpg"
-    ]
-  },
-  {
-    "id": "yellow-wildflowers-mountain-bouquet-portrait",
-    "title": "Joyful Woman in Yellow Wildflowers Holding Bouquet Toward Camera",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@Aqsahere_",
-    "source_url": "https://x.com/Aqsahere_/status/2104223825042771969",
-    "preview_image": "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
-    "dimensions": {
-      "country": "自然/旷野",
-      "gender": "女性",
-      "scene": "黄色野花花海与远山",
-      "outfit": "白色一字肩长袖上衣与棕色格纹百褶短裙"
-    },
-    "tags": [
-      "黄色花海",
-      "手捧花束",
-      "一字肩白衣",
-      "壮丽远山",
-      "清新春日",
-      "9:16构图"
-    ],
-    "prompt": "A photorealistic cinematic portrait of a young woman sitting in a vibrant field of yellow wildflowers with dramatic green mountains rising in the background. She has long, straight dark brown hair gently moving in the breeze, with a few loose strands across her face. She is smiling brightly and looking directly at the camera with a joyful, carefree expression.\nShe wears a soft white off-shoulder long-sleeve top with a simple delicate necklace and a brown plaid mini skirt. She sits naturally among the flowers with her legs bent to one side. One hand rests gently against her cheek while the other extends toward the camera, holding a small bouquet of fresh yellow flowers, creating a beautiful foreground perspective.\nThe foreground flowers are slightly out of focus while the woman remains sharply detailed. Behind her is a vast field of vivid yellow blossoms, followed by lush green hills and a dramatic rugged mountain range beneath a cloudy blue-gray sky.\nComposition: vertical 4:5 portrait, medium-to-full body framing, low natural camera angle, subject centered, bouquet extending toward the lens for depth, mountains clearly visible in the background.\nLighting: soft natural daylight, gentle highlights on her face and hair, diffused sunlight through clouds, realistic shadows, fresh spring atmosphere.\nPhotography style: ultra-realistic outdoor lifestyle photography, natural skin texture, realistic hair strands, detailed flowers, shallow depth of field, cinematic depth, subtle foreground bokeh, natural color grading, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped flowers, fake mountains, oversaturated colors, excessive HDR, artificial lighting, excessive blur, low resolution, text, watermark, logo.",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持壮美苍翠山峦与金黄野花花海的户外景致，手持花束伸向镜头的透视景深，以及一字肩白色上衣与棕色格纹短裙的明朗氛围。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
-      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-02.jpg",
-      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-03.jpg",
-      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-04.jpg"
-    ]
-  },
-  {
-    "id": "blue-lockers-ice-cream-street-portrait",
-    "title": "Young Woman Sits on Floor with Ice Cream at Blue Lockers",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@Aqsahere_",
-    "source_url": "https://x.com/Aqsahere_/status/2104499010585153671",
-    "preview_image": "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
-    "dimensions": {
-      "country": "通用/街头",
-      "gender": "女性",
-      "scene": "室内蓝色储物柜区",
-      "outfit": "黑色毛绒落肩开衫、灰色阔腿牛仔裤与白色棒球帽"
-    },
-    "tags": [
-      "蓝色储物柜",
-      "香草冰淇淋",
-      "街头潮搭",
-      "阔腿牛仔裤",
-      "落肩开衫",
-      "9:16构图"
-    ],
-    "prompt": "A realistic full-body fashion photo of a young woman sitting casually on the floor in front of a wall of blue locker doors. She has long, wavy light-brown hair and wears a white baseball cap, a black fuzzy oversized cardigan slipping slightly off one shoulder over a white top, loose silver-gray baggy jeans, and chunky black sneakers. She holds a vanilla ice cream cone in one hand and looks directly at the camera with a calm, slightly pouty expression. Her pose is relaxed and stylish, with her knees bent and legs spread naturally.\nThe background features rows of deep-blue lockers with small numbered labels and electronic keypad locks, creating an urban indoor setting. Soft overhead lighting, realistic skin and hair texture, detailed clothing fibers, natural proportions, candid street-fashion photography, slightly wide-angle perspective, high-resolution smartphone photo, muted cool tones, sharp subject with subtle background depth, vertical composition.",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持深蓝色电子锁储物柜背景、随性席地而坐手拿甜筒的街头穿搭造型，以及黑色毛绒落肩开衫与银灰阔腿裤的连贯质感。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
-      "https://img.iceotter.com/characters/blue-lockers-ice-cream-02.jpg",
-      "https://img.iceotter.com/characters/blue-lockers-ice-cream-03.jpg",
-      "https://img.iceotter.com/characters/blue-lockers-ice-cream-04.jpg"
-    ]
-  },
-  {
-    "id": "record-label-stairwell-portrait",
-    "title": "唱片公司楼梯间日常写真",
-    "category": "character",
-    "status": "verified",
-    "source_model": "GPT Image 2",
-    "target_model": "Nano Banana Pro",
-    "aspect_ratio": "9:16",
-    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
-    "source_url": "https://x.com/BubbleBrain/status/2052217544388546827",
-    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-399",
-    "preview_image": "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
-    "dimensions": {
-      "country": "韩国",
-      "gender": "女性",
-      "scene": "室内生活",
-      "outfit": "日常便服"
-    },
-    "tags": [
-      "日系负片",
-      "楼梯间纪实",
-      "私享生活感",
-      "西装工装裤",
-      "松弛回眸"
-    ],
-    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic portrait image, final target size 1216x1536 portrait\n\nCreate a photorealistic image of a fictional adult Korean female idol in her mid-20s, not resembling any real celebrity. Maintain a Japanese negative film look: soft overexposure, faded neutrals, low contrast, subtle grain, and imperfect snapshot framing.\n\nScene/backdrop: the back stairwell of a small record label building, with moving boxes, scuffed concrete steps, a gray metal handrail, and a pale security light. The atmosphere should feel quiet, slightly intimate, and workaday, as if caught in a private in-between moment after practice and during moving day.\n\nSubject: a Korean female idol with a naturally attractive, understated sensuality rather than overt glamour. She should feel quietly magnetic, relaxed, and a little teasing without being provocative.\n\nWardrobe/props: a slightly cropped black blazer worn casually and slightly open, over a fitted heather-gray ribbed tee that softly outlines the figure without revealing cleavage, loose khaki cargo pants sitting naturally on the waist, a thin silver chain necklace, a roll of black gaffer tape placed beside her, and one sneaker lace still half-tied. The styling should feel subtly sexier and more feminine than purely casual, but still fully modest and non-revealing.\n\nComposition/framing: tall portrait. The subject is seated on the stairs with one knee slightly raised and one leg relaxed lower on the step, leaning back lightly with one hand braced behind her on the stair for support. The other hand is near her half-tied sneaker, as if she has just paused while tying it. Her blazer falls naturally along the body, her posture creating a soft, elegant silhouette. Her head is tilted up toward the camera with a calm, slightly sultry, self-possessed expression. The pose should feel candid yet subtly alluring, natural rather than staged.\n\nLighting/mood: flat stairwell light, understated backstage realism, soft grain, muted tones, gentle highlight bloom, and a quiet intimate mood. Keep the image photorealistic, restrained, and cinematic, with no excessive glamour and no nudity. --ar 2:3",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日系负片低反差色调、唱片公司楼梯间日常与松弛坐姿人物设定的一致性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
-      "https://img.iceotter.com/characters/record-label-stairwell-02.jpg",
-      "https://img.iceotter.com/characters/record-label-stairwell-03.jpg",
-      "https://img.iceotter.com/characters/record-label-stairwell-04.jpg"
-    ]
-  },
-  {
     "id": "straw-hat-shop-selfie-portrait",
     "title": "Woman in Straw Hat Takes Selfie Inside a Hat Shop",
     "category": "character",
@@ -697,6 +557,146 @@
     ]
   },
   {
+    "id": "woman-cat-blue-caps-street-selfie-portrait",
+    "title": "Young woman and matching cat wear blue caps in street selfie",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@Aqsahere_",
+    "source_url": "https://x.com/Aqsahere_/status/2104556185101721610",
+    "preview_image": "https://img.iceotter.com/characters/woman-cat-blue-caps-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/woman-cat-blue-caps-01.jpg",
+    "dimensions": {
+      "country": "欧洲/街头",
+      "gender": "女性",
+      "scene": "欧洲街头人行道",
+      "outfit": "复古牛仔蓝棒球帽与蓝色花纹针织毛衣（同款小蓝帽橘猫）"
+    },
+    "tags": [
+      "萌宠自拍",
+      "同款小帽",
+      "橘猫",
+      "复古牛仔帽",
+      "欧洲街景",
+      "9:16构图"
+    ],
+    "prompt": "A realistic close-up street selfie of a young woman with long, wavy light-brown hair and soft natural makeup, wearing a vintage blue denim baseball cap and a cozy blue patterned sweater. She is sitting outdoors on a city sidewalk, looking directly into the camera with a calm, slightly pouty expression. She is holding a cute ginger tabby cat in her arms, and the cat is wearing a small blue baseball cap, creating a playful matching look. The cat faces the camera with a relaxed expression and detailed fur.\nBehind them is an elegant European-style building with cream stone walls, tall windows decorated with vivid red curtains, red awnings, and a parked dark car along the street. Natural daytime lighting, candid smartphone selfie aesthetic, realistic skin and hair texture, detailed cat fur, shallow depth of field, slightly wide-angle perspective, vibrant but natural colors, high-resolution photography, vertical composition.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持欧洲典雅石墙街景、红色雨棚与复古窗幔背景，以及女子与怀中橘白猫咪佩戴情侣款蓝色棒球帽的俏皮互动质感。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/woman-cat-blue-caps-01.jpg",
+      "https://img.iceotter.com/characters/woman-cat-blue-caps-02.jpg",
+      "https://img.iceotter.com/characters/woman-cat-blue-caps-03.jpg",
+      "https://img.iceotter.com/characters/woman-cat-blue-caps-04.jpg"
+    ]
+  },
+  {
+    "id": "yellow-wildflowers-mountain-bouquet-portrait",
+    "title": "Joyful Woman in Yellow Wildflowers Holding Bouquet Toward Camera",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@Aqsahere_",
+    "source_url": "https://x.com/Aqsahere_/status/2104223825042771969",
+    "preview_image": "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
+    "dimensions": {
+      "country": "自然/旷野",
+      "gender": "女性",
+      "scene": "黄色野花花海与远山",
+      "outfit": "白色一字肩长袖上衣与棕色格纹百褶短裙"
+    },
+    "tags": [
+      "黄色花海",
+      "手捧花束",
+      "一字肩白衣",
+      "壮丽远山",
+      "清新春日",
+      "9:16构图"
+    ],
+    "prompt": "A photorealistic cinematic portrait of a young woman sitting in a vibrant field of yellow wildflowers with dramatic green mountains rising in the background. She has long, straight dark brown hair gently moving in the breeze, with a few loose strands across her face. She is smiling brightly and looking directly at the camera with a joyful, carefree expression.\nShe wears a soft white off-shoulder long-sleeve top with a simple delicate necklace and a brown plaid mini skirt. She sits naturally among the flowers with her legs bent to one side. One hand rests gently against her cheek while the other extends toward the camera, holding a small bouquet of fresh yellow flowers, creating a beautiful foreground perspective.\nThe foreground flowers are slightly out of focus while the woman remains sharply detailed. Behind her is a vast field of vivid yellow blossoms, followed by lush green hills and a dramatic rugged mountain range beneath a cloudy blue-gray sky.\nComposition: vertical 4:5 portrait, medium-to-full body framing, low natural camera angle, subject centered, bouquet extending toward the lens for depth, mountains clearly visible in the background.\nLighting: soft natural daylight, gentle highlights on her face and hair, diffused sunlight through clouds, realistic shadows, fresh spring atmosphere.\nPhotography style: ultra-realistic outdoor lifestyle photography, natural skin texture, realistic hair strands, detailed flowers, shallow depth of field, cinematic depth, subtle foreground bokeh, natural color grading, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped flowers, fake mountains, oversaturated colors, excessive HDR, artificial lighting, excessive blur, low resolution, text, watermark, logo.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持壮美苍翠山峦与金黄野花花海的户外景致，手持花束伸向镜头的透视景深，以及一字肩白色上衣与棕色格纹短裙的明朗氛围。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-01.jpg",
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-02.jpg",
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-03.jpg",
+      "https://img.iceotter.com/characters/yellow-wildflowers-bouquet-04.jpg"
+    ]
+  },
+  {
+    "id": "blue-lockers-ice-cream-street-portrait",
+    "title": "Young Woman Sits on Floor with Ice Cream at Blue Lockers",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@Aqsahere_",
+    "source_url": "https://x.com/Aqsahere_/status/2104499010585153671",
+    "preview_image": "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
+    "dimensions": {
+      "country": "通用/街头",
+      "gender": "女性",
+      "scene": "室内蓝色储物柜区",
+      "outfit": "黑色毛绒落肩开衫、灰色阔腿牛仔裤与白色棒球帽"
+    },
+    "tags": [
+      "蓝色储物柜",
+      "香草冰淇淋",
+      "街头潮搭",
+      "阔腿牛仔裤",
+      "落肩开衫",
+      "9:16构图"
+    ],
+    "prompt": "A realistic full-body fashion photo of a young woman sitting casually on the floor in front of a wall of blue locker doors. She has long, wavy light-brown hair and wears a white baseball cap, a black fuzzy oversized cardigan slipping slightly off one shoulder over a white top, loose silver-gray baggy jeans, and chunky black sneakers. She holds a vanilla ice cream cone in one hand and looks directly at the camera with a calm, slightly pouty expression. Her pose is relaxed and stylish, with her knees bent and legs spread naturally.\nThe background features rows of deep-blue lockers with small numbered labels and electronic keypad locks, creating an urban indoor setting. Soft overhead lighting, realistic skin and hair texture, detailed clothing fibers, natural proportions, candid street-fashion photography, slightly wide-angle perspective, high-resolution smartphone photo, muted cool tones, sharp subject with subtle background depth, vertical composition.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持深蓝色电子锁储物柜背景、随性席地而坐手拿甜筒的街头穿搭造型，以及黑色毛绒落肩开衫与银灰阔腿裤的连贯质感。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-01.jpg",
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-02.jpg",
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-03.jpg",
+      "https://img.iceotter.com/characters/blue-lockers-ice-cream-04.jpg"
+    ]
+  },
+  {
+    "id": "record-label-stairwell-portrait",
+    "title": "唱片公司楼梯间日常写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "GPT Image 2",
+    "target_model": "Nano Banana Pro",
+    "aspect_ratio": "9:16",
+    "author": "@BubbleBrain (via freestylefly/awesome-gpt-image-2)",
+    "source_url": "https://x.com/BubbleBrain/status/2052217544388546827",
+    "github_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-399",
+    "preview_image": "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
+    "dimensions": {
+      "country": "韩国",
+      "gender": "女性",
+      "scene": "室内生活",
+      "outfit": "日常便服"
+    },
+    "tags": [
+      "日系负片",
+      "楼梯间纪实",
+      "私享生活感",
+      "西装工装裤",
+      "松弛回眸"
+    ],
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic portrait image, final target size 1216x1536 portrait\n\nCreate a photorealistic image of a fictional adult Korean female idol in her mid-20s, not resembling any real celebrity. Maintain a Japanese negative film look: soft overexposure, faded neutrals, low contrast, subtle grain, and imperfect snapshot framing.\n\nScene/backdrop: the back stairwell of a small record label building, with moving boxes, scuffed concrete steps, a gray metal handrail, and a pale security light. The atmosphere should feel quiet, slightly intimate, and workaday, as if caught in a private in-between moment after practice and during moving day.\n\nSubject: a Korean female idol with a naturally attractive, understated sensuality rather than overt glamour. She should feel quietly magnetic, relaxed, and a little teasing without being provocative.\n\nWardrobe/props: a slightly cropped black blazer worn casually and slightly open, over a fitted heather-gray ribbed tee that softly outlines the figure without revealing cleavage, loose khaki cargo pants sitting naturally on the waist, a thin silver chain necklace, a roll of black gaffer tape placed beside her, and one sneaker lace still half-tied. The styling should feel subtly sexier and more feminine than purely casual, but still fully modest and non-revealing.\n\nComposition/framing: tall portrait. The subject is seated on the stairs with one knee slightly raised and one leg relaxed lower on the step, leaning back lightly with one hand braced behind her on the stair for support. The other hand is near her half-tied sneaker, as if she has just paused while tying it. Her blazer falls naturally along the body, her posture creating a soft, elegant silhouette. Her head is tilted up toward the camera with a calm, slightly sultry, self-possessed expression. The pose should feel candid yet subtly alluring, natural rather than staged.\n\nLighting/mood: flat stairwell light, understated backstage realism, soft grain, muted tones, gentle highlight bloom, and a quiet intimate mood. Keep the image photorealistic, restrained, and cinematic, with no excessive glamour and no nudity. --ar 2:3",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持日系负片低反差色调、唱片公司楼梯间日常与松弛坐姿人物设定的一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/record-label-stairwell-01.jpg",
+      "https://img.iceotter.com/characters/record-label-stairwell-02.jpg",
+      "https://img.iceotter.com/characters/record-label-stairwell-03.jpg",
+      "https://img.iceotter.com/characters/record-label-stairwell-04.jpg"
+    ]
+  },
+  {
     "id": "soft-black-mist-idol-portrait",
     "title": "韩系黑柔滤镜偶像写真",
     "category": "character",
@@ -968,67 +968,38 @@
     ]
   },
   {
-    "id": "cinematic-charm-modern-film-noir-portrait",
-    "title": "Cinematic Charm: A Modern Film Noir Portrait",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
+    "id": "nineties-japanese-ccd-photo",
+    "title": "九十年代日杂 CCD 柔光更衣室写真",
+    "category": "character",
+    "status": "verified",
+    "source_model": "Nano Banana (Google Flow)",
     "target_model": "Nano Banana Pro",
-    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994360675217408267-cinematic-charm-a-modern-film-noir-portrait/",
-    "preview_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+    "aspect_ratio": "9:16",
+    "author": "BubbleBrain (via awesome-gpt-image-2-5-prompts)",
+    "source_url": "https://x.com/BubbleBrain/status/2098315158997307550",
+    "github_url": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts#case-nineties-japanese-ccd-photo",
+    "preview_image": "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
     "dimensions": {
-      "country": "东亚/室内",
+      "country": "韩国",
       "gender": "女性",
-      "scene": "极简灰色客厅/直闪高角度自拍",
-      "outfit": "质感灰色泡泡袖褶皱连衣裙、白色布艺缎带头饰、'A'字吊坠项链"
+      "scene": "室内生活",
+      "outfit": "休闲日常"
     },
     "tags": [
-      "现代黑色电影",
-      "直闪自拍",
-      "泡泡袖连衣裙",
-      "白色缎带",
-      "冷调微醺",
-      "9:16构图"
+      "90年代",
+      "日杂风格",
+      "CCD柔光",
+      "写实更衣室",
+      "生活写真"
     ],
-    "prompt": "{\n  \"generation_task\": {\n    \"title\": \"Cinematic Flash Selfie - Film Noir Style\",\n    \"version\": \"2.0\",\n    \"strict_constraints\": {\n      \"face_preservation\": \"Face must remain 100% unaltered from reference.\",\n      \"lighting_type\": \"Direct on-camera flash only.\",\n      \"view_angle\": \"High-angle (approx. 30 degrees).\"\n    },\n    \"prompt_components\": {\n      \"subject\": {\n        \"demographics\": \"Beautiful woman\",\n        \"hair\": {\n          \"style\": \"Long, wavy, tied half-up\",\n          \"accessory\": \"White cloth ribbon knotted at top of head\",\n          \"details\": \"Thin bangs framing the face\"\n        },\n        \"facial_features\": {\n          \"skin\": \"Shiny texture (due to flash), small freckles on nose and upper cheeks\",\n          \"makeup\": {\n            \"style\": \"Doll-like\",\n            \"lips\": \"Matte, blurred, muted rose tone\",\n            \"cheeks\": \"Soft pink blush on cheeks and nose\",\n            \"eyes\": \"Long curled eyelashes, thin eyeliner with subtle wing\"\n          }\n        },\n        \"wardrobe\": {\n          \"clothing\": \"Textured gray dress, puff sleeves, ruffle details\",\n          \"jewelry\": \"Simple necklace with 'A' pendant\"\n        },\n        \"hands\": {\n          \"pose\": \"Index finger touching cheek\",\n          \"nails\": \"Almond-shaped, blue base, small soft-sparkle crystals\"\n        },\n        \"expression\": {\n          \"type\": \"Pouting, cute, dreamy, slightly cheerful\",\n          \"vibe\": \"Charming with cinematic feel\"\n        }\n      },\n      \"environment\": {\n        \"location\": \"Minimalist gray living room\",\n        \"lighting_condition\": \"Dimly lit room\",\n        \"background_visibility\": \"Dark, falling into shadow behind the subject\"\n      },\n      \"technical_specs\": {\n        \"camera_type\": \"Digital camera simulating 35mm analog film\",\n        \"lighting_setup\": \"Strong direct camera flash (harsh light)\",\n        \"contrast\": \"High contrast (Chiaroscuro), bright face vs. dark background\",\n        \"angle\": \"High-angle selfie, 30 degrees elevation\",\n        \"color_grading\": \"Cool tones, muted colors, soft textures\"\n      },\n      \"artistic_style\": {\n        \"genre\": \"Film noir elegance mixed with modern casualness\",\n        \"texture_quality\": \"Ultra-realistic, 8k, detailed skin pores, hair strands, and fabric weave\",\n        \"atmosphere\": \"Cold light reflection, modern warmth\"\n      }\n    },\n    \"compiled_prompts\": {\n      \"stable_diffusion_format\": \"high angle selfie, 30 degree angle, beautiful woman, long wavy hair half-up with white ribbon knot, thin bangs, doll-like makeup, matte rose lips, soft blush, freckles, textured gray dress puff sleeves, 'A' pendant, blue almond nails with crystals, pouting expression finger on cheek, strong direct camera flash, dark minimalist gray living room, film noir aesthetic, cool tones, shiny skin texture, high contrast, ultra-realistic, 8k, highly detailed --no altered face, warm lighting, vector, painting\",\n      \"midjourney_format\": \"/imagine prompt: extreme close-up high-angle selfie of a woman with white ribbon in wavy hair :: textured gray dress with puff sleeves :: doll-like makeup, matte rose lips, blue nails with crystals :: strong direct flash photography, dim room, film noir elegance, cool tones, shiny skin texture, sharp contrast :: shot on 35mm analog, photorealistic, 8k --ar 4:5 --stylize 250 --v 6.0\"\n    }\n  }\n}",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持直闪强光阴影对比（Chiaroscuro）、极简暗调背景与冷灰胶片色调，以及灰色泡泡袖连衣裙、白色缎带半扎发与食指轻点脸颊自拍动作的连贯性。",
+    "prompt": "9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.\nA clearly adult Korean female idol, about 23–27 years old, fair natural skin, slender well-proportioned figure, shoulder-length black straight hair slightly messy and fluffy, long bangs falling naturally and partially covering one eye. Delicate features, haughty and languid expression, slightly looking down at the camera. Soft pink natural makeup, gentle pink lips. Keep real skin texture, fine pores, and natural facial asymmetry.\nShe wears a black thin cropped short-sleeve T-shirt in soft fitted cotton, hem stopping at the upper abdomen and exposing the waist, midriff, and natural navel. Bottom: black minimalist low-rise bikini-style bottoms, waistline sitting naturally near the hip bones, simple design.\nShe stands in a small 90s Japanese magazine-style fitting room with light beige-gray walls, a narrow full-length mirror, simple hooks, and soft overhead lighting. Natural standing pose: one leg supporting, the other slightly bent forward, hip shifted naturally to one side. Thinking pose 🤔: one hand raised, index finger lightly resting on the chin, thumb near the jawline, gesture natural and restrained; the other hand hanging naturally at her side. Head slightly tilted, eyes looking down at the camera with a careless, thoughtful look.\nLow-angle upward shot, camera close to the subject, slight wide-angle without exaggerated distortion, emphasizing vertical leg extension and slender proportions. Composition includes the head, upper body, full waist and midriff, hips, and most of the legs. Subject occupies the main part of the frame.\nSoft hazy lighting. Soft scattered light from the front and above. Slight overexposure on the cheeks, nose bridge, collarbones, shoulders, waist, midriff, and legs, blooming softly outward into clear highlight overflow, halation, bloom, and soft fog. Highlights are creamy white glow; shadows are soft and pale with no hard edges.\nOverall low contrast, low saturation, creamy gray and pale warm skin tones, slightly lifted blacks, fine CCD noise and film grain, slightly soft edges, soft-focus filter, and atmospheric haze. Like a casually captured page from a 90s Asian photo magazine.\nPhotorealistic, real-camera photography, real skin, hair strands, and fabric texture. Soft CCD, highlight bloom, hazy and dreamy but not over-retouched.\nAvoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light, strong shadows, anime look, CGI, fisheye, exaggerated wide-angle, limb deformities, extra or wrong fingers, cluttered background, cheap influencer filters.",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代日杂 CCD 柔光氛围与人物面容一致性。",
     "gallery_images": [
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-02.jpg",
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-03.jpg",
-      "https://img.iceotter.com/characters/modern-noir-flash-selfie-04.jpg"
-    ]
-  },
-  {
-    "id": "capturing-elegance-a-night-market-delight",
-    "title": "Capturing Elegance: A Night Market Delight",
-    "aspect_ratio": "9:16",
-    "source_model": "Nano Banana Pro",
-    "target_model": "Nano Banana Pro",
-    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994112331278852312-capturing-elegance-a-night-market-delight/",
-    "preview_image": "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
-    "dimensions": {
-      "country": "东亚/夜市",
-      "gender": "女性",
-      "scene": "半露天夜市帐篷/餐桌美食与冷饮",
-      "outfit": "皇家蓝缎面深V绑带上衣、金属粗圆环耳环、多层金色锁骨链"
-    },
-    "tags": [
-      "iPhone16ProMax",
-      "夜市闪光",
-      "皇家蓝缎面",
-      "原色直出",
-      "美食夜市",
-      "9:16构图"
-    ],
-    "prompt": "{\n  \"intent\": \"Generate a physically accurate, photorealistic image simulating a raw capture from an Apple iPhone 16 Pro Max 'Fusion' camera, featuring a subject with specific refined East Asian aesthetic features in a low-light environment.\",\n  \"frame\": {\n    \"aspect_ratio\": \"9:16\",\n    \"composition\": \"Vertical mobile photography composition. Medium shot, seated perspective. The subject is centered with a slight wide-angle distortion typical of smartphone lenses, emphasizing the foreground food and beverage.\",\n    \"style_mode\": \"raw_mobile_photography, Apple ProRAW simulation, computational photography aesthetic (Smart HDR 5).\"\n  },\n  \"subject\": {\n    \"identity\": \"A young adult female of East Asian phenotype, appearing to be in her early twenties, characterized by a highly polished, ethereal aesthetic.\",\n    \"physical_attributes\": \"A slender, V-shaped facial structure with a refined, delicate jawline and a pointed chin. The complexion is exceptionally fair, luminous, and flawless, resembling a porcelain texture. Features include large, expressive almond-shaped eyes with defined double eyelids and subtle tear bags (aegyo-sal), a high and narrow nose bridge with a small tip, and rosebud-shaped lips with a soft gradient pink tint. Hair is voluminous, dark, and perfectly styled in long, polished waves.\",\n    \"expression\": \"A bright, captivating smile with direct eye contact, maintaining a poised and photogenic demeanor even in a candid setting.\",\n    \"wardrobe\": \"A vivid Royal Blue (Hex color #4169E1) satin deep V-neck blouse or crop top, featuring a tie-front closure. The fabric exhibits specular highlights consistent with satin material under direct flash.\",\n    \"accessories\": \"Thick gold hoop earrings. A layered gold necklace set: a textured gold choker chain and a longer gold chain with a large gold baroque pendant.\",\n    \"pose\": \"Relaxed seated posture at a dining table. The body is angled slightly toward camera. Hands are active: right hand gripping a plastic shake cup, left hand resting near the edge holding a phone case.\"\n  },\n  \"environment\": {\n    \"location\": \"Semi-open-air night market dining tent.\",\n    \"architecture\": \"White canopy tent structure with visible metal support poles. Background depth shows a bustling scene.\",\n    \"atmosphere\": \"Vibrant night market ambience. The background is significantly darker than the foreground due to the inverse square law of the flash falloff.\",\n    \"details\": \"Blurred background signage and crowd. Red and white checkered tablecloth in the immediate foreground.\"\n  },\n  \"props\": {\n    \"food_main\": \"Roasted bone marrow on a sizzling cast iron plate, topped with crispy garlic and chili oil, served with garlic rice.\",\n    \"food_side\": \"Paper bowl with a sunny-side-up fried egg and calamansi.\",\n    \"beverage\": \"Creamy blended shake in a clear plastic dome-lid cup with black straw.\"\n  },\n  \"lighting\": {\n    \"type\": \"Smartphone flash photography mixed with ambient tungsten.\",\n    \"source\": \"Primary: iPhone 16 Pro Max 'Adaptive True Tone' flash (direct, front-facing). Secondary: Ambient warm 2700K string lights in the background.\",\n    \"color_temperature\": \"Flash balanced to approx 5000K on the subject (neutral skin tones), contrasted against a warmer 2800K background.\",\n    \"quality\": \"High contrast foreground with rapid light falloff. The subject is brightly illuminated, highlighting the smoothness of the skin and the sheen of the hair, while the background fades into shadow.\"\n  },\n  \"camera\": {\n    \"model\": \"Apple iPhone 16 Pro Max\",\n    \"sensor_format\": \"48MP Fusion Camera (1/1.28-inch sensor simulation).\",\n    \"lens\": \"24mm equivalent, f/1.78 aperture (7-element lens).\",\n    \"settings\": \"ISO 500, Shutter Speed 1/40s (handheld low light).\",\n    \"processing\": \"Photonic Engine and Deep Fusion processing. Sharp details on the subject with computational noise reduction applied to the darker background areas, enhancing the 'glass skin' effect.\"\n  },\n  \"negative\": {\n    \"style\": \"No professional studio lighting, no softboxes, no DSLR bokeh (unless computational), no painting, no illustration, no 3D render.\",\n    \"content\": \"No silver jewelry, no wrong dress color, no distorted fingers, no text overlays, no blemishes.\"\n  }\n}",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持苹果 iPhone 16 Pro Max 手机原机闪光灯直出反光感、夜市热闹微暗背景与桌前烤骨髓冷饮前景，以及皇家蓝深 V 缎面短上衣、金色叠戴项链与甜美微笑的连贯性。",
-    "gallery_images": [
-      "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
-      "https://img.iceotter.com/characters/night-market-royal-blue-02.jpg",
-      "https://img.iceotter.com/characters/night-market-royal-blue-03.jpg",
-      "https://img.iceotter.com/characters/night-market-royal-blue-04.jpg"
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-02.jpg",
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-03.jpg",
+      "https://img.iceotter.com/characters/nineties-japanese-ccd-04.jpg"
     ]
   },
   {
@@ -1064,38 +1035,35 @@
     ]
   },
   {
-    "id": "nineties-japanese-ccd-photo",
-    "title": "九十年代日杂 CCD 柔光更衣室写真",
-    "category": "character",
-    "status": "verified",
-    "source_model": "Nano Banana (Google Flow)",
-    "target_model": "Nano Banana Pro",
+    "id": "cinematic-charm-modern-film-noir-portrait",
+    "title": "Cinematic Charm: A Modern Film Noir Portrait",
     "aspect_ratio": "9:16",
-    "author": "BubbleBrain (via awesome-gpt-image-2-5-prompts)",
-    "source_url": "https://x.com/BubbleBrain/status/2098315158997307550",
-    "github_url": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts#case-nineties-japanese-ccd-photo",
-    "preview_image": "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
-    "verified_image": "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994360675217408267-cinematic-charm-a-modern-film-noir-portrait/",
+    "preview_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
     "dimensions": {
-      "country": "韩国",
+      "country": "东亚/室内",
       "gender": "女性",
-      "scene": "室内生活",
-      "outfit": "休闲日常"
+      "scene": "极简灰色客厅/直闪高角度自拍",
+      "outfit": "质感灰色泡泡袖褶皱连衣裙、白色布艺缎带头饰、'A'字吊坠项链"
     },
     "tags": [
-      "90年代",
-      "日杂风格",
-      "CCD柔光",
-      "写实更衣室",
-      "生活写真"
+      "现代黑色电影",
+      "直闪自拍",
+      "泡泡袖连衣裙",
+      "白色缎带",
+      "冷调微醺",
+      "9:16构图"
     ],
-    "prompt": "9:16 vertical, ultra-realistic portrait photography, 90s Japanese magazine fitting-room photoshoot style, soft-light CCD texture, obvious highlight bloom and slight haze.\nA clearly adult Korean female idol, about 23–27 years old, fair natural skin, slender well-proportioned figure, shoulder-length black straight hair slightly messy and fluffy, long bangs falling naturally and partially covering one eye. Delicate features, haughty and languid expression, slightly looking down at the camera. Soft pink natural makeup, gentle pink lips. Keep real skin texture, fine pores, and natural facial asymmetry.\nShe wears a black thin cropped short-sleeve T-shirt in soft fitted cotton, hem stopping at the upper abdomen and exposing the waist, midriff, and natural navel. Bottom: black minimalist low-rise bikini-style bottoms, waistline sitting naturally near the hip bones, simple design.\nShe stands in a small 90s Japanese magazine-style fitting room with light beige-gray walls, a narrow full-length mirror, simple hooks, and soft overhead lighting. Natural standing pose: one leg supporting, the other slightly bent forward, hip shifted naturally to one side. Thinking pose 🤔: one hand raised, index finger lightly resting on the chin, thumb near the jawline, gesture natural and restrained; the other hand hanging naturally at her side. Head slightly tilted, eyes looking down at the camera with a careless, thoughtful look.\nLow-angle upward shot, camera close to the subject, slight wide-angle without exaggerated distortion, emphasizing vertical leg extension and slender proportions. Composition includes the head, upper body, full waist and midriff, hips, and most of the legs. Subject occupies the main part of the frame.\nSoft hazy lighting. Soft scattered light from the front and above. Slight overexposure on the cheeks, nose bridge, collarbones, shoulders, waist, midriff, and legs, blooming softly outward into clear highlight overflow, halation, bloom, and soft fog. Highlights are creamy white glow; shadows are soft and pale with no hard edges.\nOverall low contrast, low saturation, creamy gray and pale warm skin tones, slightly lifted blacks, fine CCD noise and film grain, slightly soft edges, soft-focus filter, and atmospheric haze. Like a casually captured page from a 90s Asian photo magazine.\nPhotorealistic, real-camera photography, real skin, hair strands, and fabric texture. Soft CCD, highlight bloom, hazy and dreamy but not over-retouched.\nAvoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light, strong shadows, anime look, CGI, fisheye, exaggerated wide-angle, limb deformities, extra or wrong fingers, cluttered background, cheap influencer filters.",
-    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持 90 年代日杂 CCD 柔光氛围与人物面容一致性。",
+    "prompt": "{\n  \"generation_task\": {\n    \"title\": \"Cinematic Flash Selfie - Film Noir Style\",\n    \"version\": \"2.0\",\n    \"strict_constraints\": {\n      \"face_preservation\": \"Face must remain 100% unaltered from reference.\",\n      \"lighting_type\": \"Direct on-camera flash only.\",\n      \"view_angle\": \"High-angle (approx. 30 degrees).\"\n    },\n    \"prompt_components\": {\n      \"subject\": {\n        \"demographics\": \"Beautiful woman\",\n        \"hair\": {\n          \"style\": \"Long, wavy, tied half-up\",\n          \"accessory\": \"White cloth ribbon knotted at top of head\",\n          \"details\": \"Thin bangs framing the face\"\n        },\n        \"facial_features\": {\n          \"skin\": \"Shiny texture (due to flash), small freckles on nose and upper cheeks\",\n          \"makeup\": {\n            \"style\": \"Doll-like\",\n            \"lips\": \"Matte, blurred, muted rose tone\",\n            \"cheeks\": \"Soft pink blush on cheeks and nose\",\n            \"eyes\": \"Long curled eyelashes, thin eyeliner with subtle wing\"\n          }\n        },\n        \"wardrobe\": {\n          \"clothing\": \"Textured gray dress, puff sleeves, ruffle details\",\n          \"jewelry\": \"Simple necklace with 'A' pendant\"\n        },\n        \"hands\": {\n          \"pose\": \"Index finger touching cheek\",\n          \"nails\": \"Almond-shaped, blue base, small soft-sparkle crystals\"\n        },\n        \"expression\": {\n          \"type\": \"Pouting, cute, dreamy, slightly cheerful\",\n          \"vibe\": \"Charming with cinematic feel\"\n        }\n      },\n      \"environment\": {\n        \"location\": \"Minimalist gray living room\",\n        \"lighting_condition\": \"Dimly lit room\",\n        \"background_visibility\": \"Dark, falling into shadow behind the subject\"\n      },\n      \"technical_specs\": {\n        \"camera_type\": \"Digital camera simulating 35mm analog film\",\n        \"lighting_setup\": \"Strong direct camera flash (harsh light)\",\n        \"contrast\": \"High contrast (Chiaroscuro), bright face vs. dark background\",\n        \"angle\": \"High-angle selfie, 30 degrees elevation\",\n        \"color_grading\": \"Cool tones, muted colors, soft textures\"\n      },\n      \"artistic_style\": {\n        \"genre\": \"Film noir elegance mixed with modern casualness\",\n        \"texture_quality\": \"Ultra-realistic, 8k, detailed skin pores, hair strands, and fabric weave\",\n        \"atmosphere\": \"Cold light reflection, modern warmth\"\n      }\n    },\n    \"compiled_prompts\": {\n      \"stable_diffusion_format\": \"high angle selfie, 30 degree angle, beautiful woman, long wavy hair half-up with white ribbon knot, thin bangs, doll-like makeup, matte rose lips, soft blush, freckles, textured gray dress puff sleeves, 'A' pendant, blue almond nails with crystals, pouting expression finger on cheek, strong direct camera flash, dark minimalist gray living room, film noir aesthetic, cool tones, shiny skin texture, high contrast, ultra-realistic, 8k, highly detailed --no altered face, warm lighting, vector, painting\",\n      \"midjourney_format\": \"/imagine prompt: extreme close-up high-angle selfie of a woman with white ribbon in wavy hair :: textured gray dress with puff sleeves :: doll-like makeup, matte rose lips, blue nails with crystals :: strong direct flash photography, dim room, film noir elegance, cool tones, shiny skin texture, sharp contrast :: shot on 35mm analog, photorealistic, 8k --ar 4:5 --stylize 250 --v 6.0\"\n    }\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持直闪强光阴影对比（Chiaroscuro）、极简暗调背景与冷灰胶片色调，以及灰色泡泡袖连衣裙、白色缎带半扎发与食指轻点脸颊自拍动作的连贯性。",
     "gallery_images": [
-      "https://img.iceotter.com/characters/nineties-japanese-ccd-01.jpg",
-      "https://img.iceotter.com/characters/nineties-japanese-ccd-02.jpg",
-      "https://img.iceotter.com/characters/nineties-japanese-ccd-03.jpg",
-      "https://img.iceotter.com/characters/nineties-japanese-ccd-04.jpg"
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-01.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-02.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-03.jpg",
+      "https://img.iceotter.com/characters/modern-noir-flash-selfie-04.jpg"
     ]
   },
   {
@@ -1201,6 +1169,38 @@
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-02.jpg",
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-03.jpg",
       "https://img.iceotter.com/characters/japanese-restroom-reading-book-04.jpg"
+    ]
+  },
+  {
+    "id": "capturing-elegance-a-night-market-delight",
+    "title": "Capturing Elegance: A Night Market Delight",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994112331278852312-capturing-elegance-a-night-market-delight/",
+    "preview_image": "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
+    "dimensions": {
+      "country": "东亚/夜市",
+      "gender": "女性",
+      "scene": "半露天夜市帐篷/餐桌美食与冷饮",
+      "outfit": "皇家蓝缎面深V绑带上衣、金属粗圆环耳环、多层金色锁骨链"
+    },
+    "tags": [
+      "iPhone16ProMax",
+      "夜市闪光",
+      "皇家蓝缎面",
+      "原色直出",
+      "美食夜市",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"intent\": \"Generate a physically accurate, photorealistic image simulating a raw capture from an Apple iPhone 16 Pro Max 'Fusion' camera, featuring a subject with specific refined East Asian aesthetic features in a low-light environment.\",\n  \"frame\": {\n    \"aspect_ratio\": \"9:16\",\n    \"composition\": \"Vertical mobile photography composition. Medium shot, seated perspective. The subject is centered with a slight wide-angle distortion typical of smartphone lenses, emphasizing the foreground food and beverage.\",\n    \"style_mode\": \"raw_mobile_photography, Apple ProRAW simulation, computational photography aesthetic (Smart HDR 5).\"\n  },\n  \"subject\": {\n    \"identity\": \"A young adult female of East Asian phenotype, appearing to be in her early twenties, characterized by a highly polished, ethereal aesthetic.\",\n    \"physical_attributes\": \"A slender, V-shaped facial structure with a refined, delicate jawline and a pointed chin. The complexion is exceptionally fair, luminous, and flawless, resembling a porcelain texture. Features include large, expressive almond-shaped eyes with defined double eyelids and subtle tear bags (aegyo-sal), a high and narrow nose bridge with a small tip, and rosebud-shaped lips with a soft gradient pink tint. Hair is voluminous, dark, and perfectly styled in long, polished waves.\",\n    \"expression\": \"A bright, captivating smile with direct eye contact, maintaining a poised and photogenic demeanor even in a candid setting.\",\n    \"wardrobe\": \"A vivid Royal Blue (Hex color #4169E1) satin deep V-neck blouse or crop top, featuring a tie-front closure. The fabric exhibits specular highlights consistent with satin material under direct flash.\",\n    \"accessories\": \"Thick gold hoop earrings. A layered gold necklace set: a textured gold choker chain and a longer gold chain with a large gold baroque pendant.\",\n    \"pose\": \"Relaxed seated posture at a dining table. The body is angled slightly toward camera. Hands are active: right hand gripping a plastic shake cup, left hand resting near the edge holding a phone case.\"\n  },\n  \"environment\": {\n    \"location\": \"Semi-open-air night market dining tent.\",\n    \"architecture\": \"White canopy tent structure with visible metal support poles. Background depth shows a bustling scene.\",\n    \"atmosphere\": \"Vibrant night market ambience. The background is significantly darker than the foreground due to the inverse square law of the flash falloff.\",\n    \"details\": \"Blurred background signage and crowd. Red and white checkered tablecloth in the immediate foreground.\"\n  },\n  \"props\": {\n    \"food_main\": \"Roasted bone marrow on a sizzling cast iron plate, topped with crispy garlic and chili oil, served with garlic rice.\",\n    \"food_side\": \"Paper bowl with a sunny-side-up fried egg and calamansi.\",\n    \"beverage\": \"Creamy blended shake in a clear plastic dome-lid cup with black straw.\"\n  },\n  \"lighting\": {\n    \"type\": \"Smartphone flash photography mixed with ambient tungsten.\",\n    \"source\": \"Primary: iPhone 16 Pro Max 'Adaptive True Tone' flash (direct, front-facing). Secondary: Ambient warm 2700K string lights in the background.\",\n    \"color_temperature\": \"Flash balanced to approx 5000K on the subject (neutral skin tones), contrasted against a warmer 2800K background.\",\n    \"quality\": \"High contrast foreground with rapid light falloff. The subject is brightly illuminated, highlighting the smoothness of the skin and the sheen of the hair, while the background fades into shadow.\"\n  },\n  \"camera\": {\n    \"model\": \"Apple iPhone 16 Pro Max\",\n    \"sensor_format\": \"48MP Fusion Camera (1/1.28-inch sensor simulation).\",\n    \"lens\": \"24mm equivalent, f/1.78 aperture (7-element lens).\",\n    \"settings\": \"ISO 500, Shutter Speed 1/40s (handheld low light).\",\n    \"processing\": \"Photonic Engine and Deep Fusion processing. Sharp details on the subject with computational noise reduction applied to the darker background areas, enhancing the 'glass skin' effect.\"\n  },\n  \"negative\": {\n    \"style\": \"No professional studio lighting, no softboxes, no DSLR bokeh (unless computational), no painting, no illustration, no 3D render.\",\n    \"content\": \"No silver jewelry, no wrong dress color, no distorted fingers, no text overlays, no blemishes.\"\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持苹果 iPhone 16 Pro Max 手机原机闪光灯直出反光感、夜市热闹微暗背景与桌前烤骨髓冷饮前景，以及皇家蓝深 V 缎面短上衣、金色叠戴项链与甜美微笑的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
+      "https://img.iceotter.com/characters/night-market-royal-blue-02.jpg",
+      "https://img.iceotter.com/characters/night-market-royal-blue-03.jpg",
+      "https://img.iceotter.com/characters/night-market-royal-blue-04.jpg"
     ]
   },
   {
