@@ -1218,5 +1218,37 @@
       "https://img.iceotter.com/characters/walkway-breezy-elegance-03.jpg",
       "https://img.iceotter.com/characters/walkway-breezy-elegance-04.jpg"
     ]
+  },
+  {
+    "id": "charming-vintage-vibes-gemini-nano-banana",
+    "title": "Charming Vintage Vibes with Gemini Nano Banana 3.0",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994256542238167068-charming-vintage-vibes-with-gemini-nano-banana-3-0/",
+    "preview_image": "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
+    "dimensions": {
+      "country": "东亚/居家",
+      "gender": "女性",
+      "scene": "温馨凌乱卧室/编织沙发回眸",
+      "outfit": "米色宽松复古T恤(背印FRISTO)、浅色高腰牛仔短裤、白色球鞋"
+    },
+    "tags": [
+      "奥林巴斯MJU2",
+      "居家复古",
+      "编织沙发",
+      "FRISTO",
+      "回眸胶片",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"image_generation\": {\n    \"identity\": {\n      \"preserve_original\": true,\n      \"reference_match\": true,\n      \"description\": \"Facial features must remain exactly identical to the provided reference photo.\"\n    },\n    \"photo_style\": {\n      \"type\": \"hyperrealistic lifestyle photo\",\n      \"camera_vibe\": \"Olympus MJU II aesthetic\",\n      \"lighting\": \"warm dim indoor lighting OR 35mm film-style flash\",\n      \"tone\": \"warm vintage VSCO vibe\",\n      \"texture\": \"soft grain, subtle film rendering\",\n      \"framing\": \"wide shot showing interior room details\"\n    },\n    \"subject\": {\n      \"pose\": {\n        \"body\": \"sitting on a woven sofa with back turned to the viewer\",\n        \"legs\": \"folded comfortably\",\n        \"hands\": \"one hand resting on the sofa\",\n        \"head\": \"looking over shoulder at the camera\",\n        \"expression\": \"playful, soft, naturally charming\"\n      },\n      \"appearance\": {\n        \"hair\": {\n          \"length\": \"long\",\n          \"style\": \"loose with a side part\",\n          \"accessory\": \"simple small hair clip\"\n        },\n        \"makeup\": {\n          \"style\": \"light Korean glass-skin makeup\",\n          \"details\": {\n            \"skin\": \"glowy, dewy finish\",\n            \"lips\": \"soft pink\",\n            \"eyes\": \"minimal eyeshadow, natural lashes\"\n          }\n        }\n      },\n      \"clothing\": {\n        \"top\": {\n          \"type\": \"cream oversized vintage T-shirt\",\n          \"print\": \"bold graphic text 'FRISTO' on the back\"\n        },\n        \"bottom\": {\n          \"type\": \"light high-waisted denim shorts\"\n        },\n        \"shoes\": {\n          \"type\": \"white sneakers\"\n        }\n      }\n    },\n    \"environment\": {\n      \"setting\": \"cozy messy room\",\n      \"elements\": [\n        \"woven sofa\",\n        \"white pillows\",\n        \"scattered clothes in the foreground\",\n        \"soft indoor clutter for authentic lifestyle atmosphere\"\n      ],\n      \"lighting_effects\": [\n        \"warm dim glow\",\n        \"or direct compact film camera flash\",\n        \"soft warm shadows enhancing vintage mood\"\n      ]\n    },\n    \"aesthetic\": {\n      \"style\": \"vintage lifestyle editorial\",\n      \"vibe\": \"warm, nostalgic, candid\",\n      \"features\": [\n        \"rich room detail\",\n        \"natural textures of fabric and skin\",\n        \"soft grain and warm tones\"\n      ]\n    }\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持奥林巴斯 μ2 (Olympus MJU II) 室内暖调微弱闪光胶片颗粒、温馨生活感房间沙发背景，以及米色宽松 T 恤背后印花、浅色高腰牛仔短裤与回眸微笑的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-01.jpg",
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-02.jpg",
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-03.jpg",
+      "https://img.iceotter.com/characters/vintage-sofa-fristo-04.jpg"
+    ]
   }
 ]
