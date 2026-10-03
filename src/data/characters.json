@@ -1314,5 +1314,37 @@
       "https://img.iceotter.com/characters/kitchen-table-yoga-balance-03.jpg",
       "https://img.iceotter.com/characters/kitchen-table-yoga-balance-04.jpg"
     ]
+  },
+  {
+    "id": "capturing-elegance-a-night-market-delight",
+    "title": "Capturing Elegance: A Night Market Delight",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://awesomeprompts.xyz/prompt/3d/pg-1994112331278852312-capturing-elegance-a-night-market-delight/",
+    "preview_image": "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
+    "dimensions": {
+      "country": "东亚/夜市",
+      "gender": "女性",
+      "scene": "半露天夜市帐篷/餐桌美食与冷饮",
+      "outfit": "皇家蓝缎面深V绑带上衣、金属粗圆环耳环、多层金色锁骨链"
+    },
+    "tags": [
+      "iPhone16ProMax",
+      "夜市闪光",
+      "皇家蓝缎面",
+      "原色直出",
+      "美食夜市",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"intent\": \"Generate a physically accurate, photorealistic image simulating a raw capture from an Apple iPhone 16 Pro Max 'Fusion' camera, featuring a subject with specific refined East Asian aesthetic features in a low-light environment.\",\n  \"frame\": {\n    \"aspect_ratio\": \"9:16\",\n    \"composition\": \"Vertical mobile photography composition. Medium shot, seated perspective. The subject is centered with a slight wide-angle distortion typical of smartphone lenses, emphasizing the foreground food and beverage.\",\n    \"style_mode\": \"raw_mobile_photography, Apple ProRAW simulation, computational photography aesthetic (Smart HDR 5).\"\n  },\n  \"subject\": {\n    \"identity\": \"A young adult female of East Asian phenotype, appearing to be in her early twenties, characterized by a highly polished, ethereal aesthetic.\",\n    \"physical_attributes\": \"A slender, V-shaped facial structure with a refined, delicate jawline and a pointed chin. The complexion is exceptionally fair, luminous, and flawless, resembling a porcelain texture. Features include large, expressive almond-shaped eyes with defined double eyelids and subtle tear bags (aegyo-sal), a high and narrow nose bridge with a small tip, and rosebud-shaped lips with a soft gradient pink tint. Hair is voluminous, dark, and perfectly styled in long, polished waves.\",\n    \"expression\": \"A bright, captivating smile with direct eye contact, maintaining a poised and photogenic demeanor even in a candid setting.\",\n    \"wardrobe\": \"A vivid Royal Blue (Hex color #4169E1) satin deep V-neck blouse or crop top, featuring a tie-front closure. The fabric exhibits specular highlights consistent with satin material under direct flash.\",\n    \"accessories\": \"Thick gold hoop earrings. A layered gold necklace set: a textured gold choker chain and a longer gold chain with a large gold baroque pendant.\",\n    \"pose\": \"Relaxed seated posture at a dining table. The body is angled slightly toward camera. Hands are active: right hand gripping a plastic shake cup, left hand resting near the edge holding a phone case.\"\n  },\n  \"environment\": {\n    \"location\": \"Semi-open-air night market dining tent.\",\n    \"architecture\": \"White canopy tent structure with visible metal support poles. Background depth shows a bustling scene.\",\n    \"atmosphere\": \"Vibrant night market ambience. The background is significantly darker than the foreground due to the inverse square law of the flash falloff.\",\n    \"details\": \"Blurred background signage and crowd. Red and white checkered tablecloth in the immediate foreground.\"\n  },\n  \"props\": {\n    \"food_main\": \"Roasted bone marrow on a sizzling cast iron plate, topped with crispy garlic and chili oil, served with garlic rice.\",\n    \"food_side\": \"Paper bowl with a sunny-side-up fried egg and calamansi.\",\n    \"beverage\": \"Creamy blended shake in a clear plastic dome-lid cup with black straw.\"\n  },\n  \"lighting\": {\n    \"type\": \"Smartphone flash photography mixed with ambient tungsten.\",\n    \"source\": \"Primary: iPhone 16 Pro Max 'Adaptive True Tone' flash (direct, front-facing). Secondary: Ambient warm 2700K string lights in the background.\",\n    \"color_temperature\": \"Flash balanced to approx 5000K on the subject (neutral skin tones), contrasted against a warmer 2800K background.\",\n    \"quality\": \"High contrast foreground with rapid light falloff. The subject is brightly illuminated, highlighting the smoothness of the skin and the sheen of the hair, while the background fades into shadow.\"\n  },\n  \"camera\": {\n    \"model\": \"Apple iPhone 16 Pro Max\",\n    \"sensor_format\": \"48MP Fusion Camera (1/1.28-inch sensor simulation).\",\n    \"lens\": \"24mm equivalent, f/1.78 aperture (7-element lens).\",\n    \"settings\": \"ISO 500, Shutter Speed 1/40s (handheld low light).\",\n    \"processing\": \"Photonic Engine and Deep Fusion processing. Sharp details on the subject with computational noise reduction applied to the darker background areas, enhancing the 'glass skin' effect.\"\n  },\n  \"negative\": {\n    \"style\": \"No professional studio lighting, no softboxes, no DSLR bokeh (unless computational), no painting, no illustration, no 3D render.\",\n    \"content\": \"No silver jewelry, no wrong dress color, no distorted fingers, no text overlays, no blemishes.\"\n  }\n}",
+    "flow_usage_tip": "在 Google Flow 中使用 Nano Banana Pro 生成后，点击右上角【设为角色】锁定资产，在后续分镜中可保持苹果 iPhone 16 Pro Max 手机原机闪光灯直出反光感、夜市热闹微暗背景与桌前烤骨髓冷饮前景，以及皇家蓝深 V 缎面短上衣、金色叠戴项链与甜美微笑的连贯性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/night-market-royal-blue-01.jpg",
+      "https://img.iceotter.com/characters/night-market-royal-blue-02.jpg",
+      "https://img.iceotter.com/characters/night-market-royal-blue-03.jpg",
+      "https://img.iceotter.com/characters/night-market-royal-blue-04.jpg"
+    ]
   }
 ]
