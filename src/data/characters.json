@@ -1100,5 +1100,37 @@
       "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-03.jpg",
       "https://img.iceotter.com/characters/sunlit-streamer-grey-denim-04.jpg"
     ]
+  },
+  {
+    "id": "sultry-streamer-black-mockneck-portrait",
+    "title": "纯欲女主播室内前置自拍写真",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://banana.iceotter.com/",
+    "preview_image": "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "现代公寓/室内自拍",
+      "outfit": "修身黑色高弹半高领长袖、豹纹裙"
+    },
+    "tags": [
+      "纯欲女主播",
+      "手机前置自拍",
+      "沙漏身材",
+      "紧身黑T",
+      "美颜滤镜",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"camera_and_composition\": {\n    \"shot_type\": \"Tight close-up bust shot, smartphone front selfie angle\",\n    \"framing\": \"Top of head touches upper frame edge, subject dominates the foreground with dynamic wide-angle foreshortening\",\n    \"aspect_ratio\": \"9:16 vertical\"\n  },\n  \"subject_and_proportions\": {\n    \"identity\": \"Glamorous adult East Asian livestream host, viral beauty filter aesthetic\",\n    \"face\": \"Very small delicate V-line face, porcelain pale skin, large almond eyes with cute aegyo-sal, glossy gradient pink lips\",\n    \"hair\": \"Voluminous thick dark wavy hair swept gracefully over one shoulder\",\n    \"physique\": \"Astonishing, statuesque hourglass proportions: narrow shoulders, ultra-slender waist, and an exceptionally voluptuous, prominent bust filling the lower frame\"\n  },\n  \"attire_and_textures\": {\n    \"top\": \"Fitted solid black seamless high-stretch mock-neck top, taut fabric conforming smoothly to dramatic curves without folds\",\n    \"bottom\": \"Leopard-print pattern visible at waistline edge\"\n  },\n  \"lighting_and_depth\": {\n    \"lighting\": \"Warm overhead ceiling light creating soft specular reflection curves along the upper contours of the black top, defining clear 3D spherical volume\",\n    \"background\": \"Modern apartment interior, warm wooden door with black handle softly out of focus\"\n  },\n  \"negative_prompt\": \"flat chest, modest bust, average proportions, loose clothing, matte silhouette without highlights, 85mm compression, distant view, coarse skin, lowres, text, watermark\"\n}",
+    "flow_usage_tip": "在 Nano Banana Pro 中使用该提示词生成后，在后续分镜中可保持手机前置自拍广角透视、冷白瓷肌小 V 脸与浓密深色大波浪卷发、修身纯黑高弹半高领上衣与豹纹裙搭配的沙漏身材人物一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-01.jpg",
+      "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-02.jpg",
+      "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-03.jpg",
+      "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-04.jpg"
+    ]
   }
 ]

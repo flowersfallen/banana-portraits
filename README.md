@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-banana.iceotter.com-orange?style=flat-square&logo=cloudflare)](https://banana.iceotter.com)
 [![Model](https://img.shields.io/badge/Model-Nano%20Banana%20Pro-f59e0b?style=flat-square)](https://banana.iceotter.com)
-[![Cases](https://img.shields.io/badge/Cases-32-emerald?style=flat-square)](https://banana.iceotter.com)
+[![Cases](https://img.shields.io/badge/Cases-33-emerald?style=flat-square)](https://banana.iceotter.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
@@ -31,7 +31,7 @@
 
 ## ✨ 核心特性
 
-- **🎯 高画质实测精选**：收录 32 组超写实摄影与生活风人像案例，每组包含多视角/多构图实测效果。
+- **🎯 高画质实测精选**：收录 33 组超写实摄影与生活风人像案例，每组包含多视角/多构图实测效果。
 - **🧩 结构化提示词（Prompt-as-Code）**：完整提供摄影机位、光影氛围、主体面容、服装配饰与环境细节等规范化 JSON / 英文提示词。
 - **📱 响应式画廊交互**：针对移动端（9:16 竖屏）专门优化，支持轻量级卡片浏览、全屏高清灯箱预览与便捷手势。
 - **🌐 中英双语界面**：内置中英文本地化翻译，支持无缝即时切换。
