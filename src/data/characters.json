@@ -1132,5 +1132,37 @@
       "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-03.jpg",
       "https://img.iceotter.com/characters/glamorous-streamer-black-mockneck-04.jpg"
     ]
+  },
+  {
+    "id": "cool-allure-white-halter-portrait",
+    "title": "清冷纯欲：米白细带挂脖俯视写真",
+    "aspect_ratio": "9:16",
+    "source_model": "Nano Banana Pro",
+    "target_model": "Nano Banana Pro",
+    "source_url": "https://banana.iceotter.com/",
+    "preview_image": "https://img.iceotter.com/characters/cool-allure-white-halter-01.jpg",
+    "verified_image": "https://img.iceotter.com/characters/cool-allure-white-halter-01.jpg",
+    "dimensions": {
+      "country": "东亚",
+      "gender": "女性",
+      "scene": "现代公寓/桌面视角",
+      "outfit": "米白细带大削肩挂脖背心"
+    },
+    "tags": [
+      "清冷御姐",
+      "纯欲神颜",
+      "米白挂脖背心",
+      "一字直角肩",
+      "冷白皮",
+      "9:16构图"
+    ],
+    "prompt": "{\n  \"camera_and_flattering_pose\": {\n    \"camera_placement\": \"Camera on a low desk below eye level, flattering angle\",\n    \"body_pose\": \"Leaning slightly forward toward the lens, looking down directly into the camera with an aloof, captivating bedroom gaze\",\n    \"aspect_ratio\": \"9:16 vertical\"\n  },\n  \"facial_features_and_aesthetic\": {\n    \"identity\": \"100% authentic East Asian top-tier visual idol, viral beauty filter aesthetic\",\n    \"face_shape\": \"Delicate compact V-line doll face, small chin, porcelain pale cool skin\",\n    \"eyes\": \"Enormous dark almond eyes with deep double eyelids, smoky brown lower eyeshadow, and prominent puffy aegyo-sal\",\n    \"nose_and_lips\": \"Dainty straight nose with soft tip, plump glossy cherry-red gradient lips in an alluring pout\"\n  },\n  \"hair_styling\": {\n    \"front_lock\": \"A thick lock of glossy straight black hair cascading down the front of her chest over the white top\",\n    \"style\": \"Long straight jet-black hair naturally framing neck and shoulders\"\n  },\n  \"attire_and_neckline\": {\n    \"style\": \"Standard-length fitted halter neck tank top (常规长度白色挂脖背心，严禁高叉泳衣/连体衣)\",\n    \"cut\": \"Regular hemline covering the waist, deeply cutaway armholes showing razor-sharp 90-degree right-angle shoulders and collarbone hollows\",\n    \"straps\": \"Single thin halter strap tied around neck only, clean bare shoulders without extra shoulder straps\",\n    \"fabric\": \"Ultra-thin, soft stretchy white modal fabric hugging curves smoothly\"\n  },\n  \"physique\": {\n    \"shoulders\": \"Flawless horizontal razor-sharp 90-degree right-angle shoulders\",\n    \"bust\": \"Voluptuous, well-proportioned natural bust smoothly contoured under the fitted white top\"\n  },\n  \"negative_prompt\": \"high-cut bodysuit, leotard, swimsuit, bare hips, high leg cut, double straps, extra shoulder strap, looking up nostrils, nostril shot, deep U-neck, loose undershirt, Caucasian, Western, small eyes, flat chest, blurry, lowres, text, watermark\"\n}",
+    "flow_usage_tip": "在 Nano Banana Pro 中使用该提示词生成后，在后续分镜中可保持低机位微前倾垂眸视角、精致大眼烟熏妆与卧蚕、一束黑长发垂于胸前、米白细带大削肩挂脖背心与平直一字直角肩的人物一致性。",
+    "gallery_images": [
+      "https://img.iceotter.com/characters/cool-allure-white-halter-01.jpg",
+      "https://img.iceotter.com/characters/cool-allure-white-halter-02.jpg",
+      "https://img.iceotter.com/characters/cool-allure-white-halter-03.jpg",
+      "https://img.iceotter.com/characters/cool-allure-white-halter-04.jpg"
+    ]
   }
 ]
